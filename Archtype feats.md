@@ -1,0 +1,49 @@
+# Archtype feats
+Archtype feats determines most of what your character can do. You gain two archtype feats at 1st level, and one more at 4th and 8th level. 
+
+## 1st
+
+### Barbarian
+Bariarians are fierce warriors of primitive backround who can enter a battle rage.
+
+As a Quick action, you can enter into a raging frenzy. You can't wear heavy armor while raging. For 1 minute, you gain 4 temporary hit points at the start of each of your turns and a +1 status bonus to strength checks and to damage rolls made using strength. 
+
+### Bard
+Bards are inspiring muscisians who uses music to guide their magical powers.
+
+You can inspire others through your music. As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 bardic inspiration die at a time. You can use this ability a number of times equal to your charisma modifier. In addition, you gain 10 spell points and you learn a maneuver with the spellcasting and the mental or sound trait.
+
+### Cryomancer
+Cryomancers are spellcasters specializing in the freezing powers of ice and frost. 
+
+When a target is affected by a maneuver with the cold trait, they take a -2m penalty to their speed, or a 4m penalty to their speed if the maneuver consumed spell points. You also gain 10 spell points and learn a maneuver with the cold trait.
+
+### Druid
+Druids are wielder of the powers of nature. They revere nature above all, gaining their spells from the force of nature itself.
+
+You can call down the elemental forces of nature or emulate the creatures of nature. As a Quick action, you can shapechange into a creature of level 1. You retain you hit points and your mental ability scores, but all other statistics are replaced with the chosen creature. In addition, you gain 10 spell points and you learn a maneuver with the animal, plant or one of the elemental damage types (acid, cold, fire, lightning, poison, thunder).
+
+### Dual-wielder
+You wield two weapons and use them to attack your enemies in a flurry of strikes.
+
+When you hit a creature with your third strike on a turn, you gain a +2 bonus to damage.
+
+### Duelist
+Across the world, students in martial academies practice with their blades to master one-on-one combat. The libraries of such schools hold deep troves of information detailing hundreds of combat techniques, battle stances, and honorable rules of engagement. Those who gain admission to such schools might train in formalized duels—and that's certainly the more genteel route to take. However, others assert that there's no better place to try out dueling techniques than in the life-and-death struggles common to an adventurer's life.
+
+While wielding a weapon in one hand and your other hand is free, you gain a +2 circumstance bonus to AC. Additionally, when an enemy hits you while gaining the bonus to AC, you can use your reaction to immediatly make a melee attack against the tiggering creature. You can use this reaction a number of times equal to your highest ability modifier.
+
+### Martial artist
+You are a master of using martial arts and fighting unarmed.
+
+You unarmed blows are as deadly as the sharpest swords. Your unarmed strikes deals 1d8 damage and has the finesse and light traits.
+
+### Monk
+Monks harness the power of the body in pursuit of physical and spritual perfection.
+
+Your combination of physical and spiritual honing has given you the ability to channel magic into you blows. You gain 10 spell points. As a two-action activity, you can cast a spell with a casting time of one or two actions and that requires you to make a spell attack. When you cast a spell in this way, the spell doesn't take effect immediatly. Instead, make an unarmed attack. On a hit, the target takes the damage from the unarmed attack and as if hit by the spell. Additionally, if you have proficiency in heavy armor, you can add your wisdom modifier as a circumstance bonus to AC when unarmored.
+
+### Unarmored fighter
+You dislike the bulk of armor, and therefore have trained to fight unarmored.
+
+While unarmorered, you gain a +1 circumstance bonus to AC. If you have proficiency in light armor, the circumstance bonus increases to +2, or to +3, if you also have proficiency in heavy armor.
