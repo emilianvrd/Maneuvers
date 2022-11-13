@@ -75,4 +75,124 @@ Charisma
 
 **Languages**
 Common and Dwarven.
+You also get additional languages equal to your Intelligence modifier (if it's positive). Choose from Gnomish, Goblin, Jotun, Orcish, Terran, Undercommon, and any other languages to which you have access (such as the languages prevalent in your region).
+
+**Darkvision**
+You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
+
+### Feats
+#### 1st
+**Battleforger**
+*Prerequisite: Trained in crafting.* You can sharpen weapons, polish armor, and apply special techniques to temporarily gain better effects from your armaments. By spending 1 hour working on a weapon or armor, you can grant the weapon a +1 bonus to damage for 10 minutes, or the armor a special echancment that gives the wearer 5 temporary hit points for 10 minutes. Once you have done this, you can't do it again until the next dawn.
+
+**Dwarven lore**
+You eagerly absorbed the lore of the dwarves. You become trained in Engineering and Society. In addition, you become trained in Dwarven lore.
+
+**Dwarven weapon familiarity**
+You have trained with new variations of the traditional weapons of the dwarves. You become trained in the Battleaxe, Greataxe, Greatpick, Maul, Pick and Warhammer. You also become trained in all weapons with the dwarf tag. For the purpose of determining your proficiency rank with dwarf weapons, count advanced dwarf weapons as martial dwarf weapons, and martial dwarf weapons as simple dwarf weapons.
+
+**Mountains stoutness**
+You are as tough as the biggest mountains. You gain 5 additional hit points.     When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
+If you also have the Toughness feat, the Hit Points gained from it and this feat are cumulative, and the DC of your recovery checks is equal to 6 + your dying value.
+
+**Rock runner**
+Growing up in mountains made you adept at moving across uneven terrain. You can ignore difficult terrain caused by stones or rocks. In addition, you ignore uneven ground made of stone and suffer no penalties for standing or moving on it. You also don’t require an Acrobatics check to balance on uneven ground made of stone and earth.
+
+**Stonecunning**
+You have a knack for noticing even small inconsistencies and craftsmanship techniques in the stonework around you. You gain a +2 circumstance bonus to Perception checks to notice unusual stonework. This bonus applies to checks to discover mechanical traps made of stone or hidden within stone. If you aren't using the Seek action or searching, the GM automatically rolls a secret check for you to notice unusual stonework anyway. This check doesn't gain the circumstance bonus, and it takes a –2 circumstance penalty. 
+
+## Elves
+
+*As an ancient people, elves have seen great change and have the perspective that can come only from watching the arc of history. After leaving the world in ancient times, they returned to a changed land, and they still struggle to reclaim their ancestral homes, most notably from terrible demons that have invaded parts of their lands. To some, the elves are objects of awe—graceful and beautiful, with immense talent and knowledge. Among themselves, however, the elves place far more importance on personal freedom than on living up to these ideals.*
+
+Elves combine otherworldly grace, sharp intellect, and mysterious charm in a way that is practically magnetic to members of other ancestries. They are often voraciously intellectual, though their studies delve into a level of detail that most shorter-lived peoples find excessive or inefficient. Valuing kindness and beauty, elves ever strive to improve their manners, appearance, and culture.
+
+Elves are often rather private people, steeped in the secrets of their groves and kinship groups. They’re slow to build friendships outside their kinsfolk, but for a specific reason: they subtly and deeply attune to their environment and their companions. There’s a physical element to this attunement, but it isn’t only superficial. Elves who spend their lives among shorter‑lived peoples often develop a skewed perception of their own mortality and tend to become morose after watching generation after generation of companions age and die. These elves are called the Forlorn.
+
+If you want a character who is magical, mystical, and mysterious, you should play an elf.
+
+You Might...
+
+- Carefully curate your relationships with people with shorter lifespans, either keeping a careful emotional distance or resigning yourself to outliving them. 
+- Adopt specialized or obscure interests simply for the sake of mastering them.
+- Have features such as eye color, skin tone, hair, or mannerisms that reflect the environment in which you live.
+
+Others Probably...
+
+- Focus on your appearance, either admiring your grace or treating you as if you're physically fragile.
+- Assume you practice archery, cast spells, fight demons, and have perfected one or more fine arts.
+- Worry that you privately look down on them, or feel like you're condescending and aloof.
+
+**Physical Description**
+
+While generally taller than humans, elves possess a fragile grace, accentuated by long features and sharply pointed ears. Their eyes are wide and almond-shaped, featuring large and vibrant-colored pupils that make up the entire visible portion of the eye. These pupils give them an alien look and allow them to see sharply even in very little light.
+
+Elves gradually adapt to their environment and their companions, and they often take on physical traits reflecting their surroundings. An elf who has dwelled in primeval forests for centuries, for example, might exhibit verdant hair and gnarled fingers, while one who’s lived in a desert might have golden pupils and skin. Elven fashion, like the elves themselves, tends to reflect their surroundings. Elves living in the forests and other wilderness locales wear clothing that plays off the terrain and flora of their homes, while those who live in cities tend to wear the latest fashions.
+
+Elves reach physical adulthood around the age of 20, though they aren’t considered to be fully emotionally mature by other elves until closer to the passing of their first century, once they’ve experienced more, held several occupations, and outlived a generation of shorter-lived people. A typical elf can live to around 600 years old.
+
+**Society**
+
+Elven culture is deep, rich, and on the decline. Their society peaked millennia ago, long before they fled the world to escape a great calamity. They've since returned, but rebuilding is no easy task. Their inborn patience and intellectual curiosity make elves excellent sages, philosophers, and wizards, and their societies are built upon their inherent sense of wonder and knowledge. Elven architecture displays their deep appreciation of beauty, and elven cities are wondrous works of art.
+
+Elves hold deeply seated ideals of individualism, allowing each elf to explore multiple occupations before alighting on a particular pursuit or passion that suits her best. Elves bear notorious grudges against rivals, which the elves call ilduliel, but these antagonistic relationships can sometimes blossom into friendships over time. 
+
+**Alignment and Religion**
+
+Elves are often emotional and capricious, yet they hold high ideals close to their hearts. As such, many are chaotic good. They prefer deities who share their love of all things mystic and artistic. Desna and Shelyn are particular favorites, the former for her sense of wonder and the latter for her appreciation of artistry. Calistria is the most notorious of elven deities, as she represents many of the elven ideals taken to the extreme.
+
+**Adventurers**
+
+Many elves adventure to find beauty and discover new things. Typical backgrounds for an elf include emissary, hunter, noble, scholar, or scout. Elves often become rangers or rogues, taking advantage of their dexterity, or alchemists or wizards, exploring their intellectual curiosity.
+
+**Names**
+An elf keeps their personal name secret among their family, while giving a nickname when meeting other people. This nickname can change over time, due to events in the elf’s life or even on a whim. A single elf might be known by many names by associates of different ages and regions. Elven names consist of multiple syllables and are meant to flow lyrically—at least in the Elven tongue. They so commonly end in “-el” or “-ara” that other cultures sometimes avoid names ending in these syllables to avoid sounding too elven.
+
+**Sample Names**
+
+Aerel, Amrunelara, Caladrel, Dardlara, Faunra, Heldalel, Jathal, Lanliss, Oparal, Seldlon, Soumral, Talathel, Tessara, Variel, Yalandlara, Zordlon
+
+### Features
+
+**Hit points**
+6
+
+**Size**
+Medium
+
+**Speed**
+12m
+
+**Ability boosts**
+Dexterity,
+Free
+
+**Languages**
+Common and Elven.
 Additional languages equal to your Intelligence modifier (if it's positive). Choose from Gnomish, Goblin, Jotun, Orcish, Terran, Undercommon, and any other languages to which you have access (such as the languages prevalent in your region).
+
+**Low-light vision**
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. 
+
+### Feats
+#### 1st
+
+**Ancestral linguistics**
+Over your extensive lifespan, you've studied many languages. During your daily preparations, you can recede into old memories to become fluent in one common language or one other language you have access to. You know this language until you prepare again. Since this knowledge is temporary, you can't use it as a prerequisite for a permanent character option.
+
+**Elven lore**
+You've studied in traditional elven arts, learning about arcane magic and the world around you. You gain the trained proficiency rank in Arcana and Nature. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Elven Lore. 
+
+**Elven weapon familiarity**
+You favor bows and other elegant weapons. You are trained with longbows, composite longbows, longswords, rapiers, shortbows, and composite shortbows.
+
+In addition, you gain access to all uncommon elf weapons. For the purpose of determining your proficiency, martial elf weapons are simple weapons and advanced elf weapons are martial weapons. 
+
+**Elemental wrath**
+You are so attuned to the land that you can call forth a bolt of energy from your surroundings. When you gain this feat, select acid, cold, electricity, or fire. You can make a special ranged attack against a target within 16m of you that deals 1d8 damage plus 2 splash damage of the chosen type. 
+
+**Longevity**
+You have accumulated a vast array of lived knowledge over the years. During your daily preparations, you can reflect upon your life experiences to gain the trained proficiency rank in one skill of your choice. This proficiency lasts until you prepare again. Since this proficiency is temporary, you can’t use it as a prerequisite for a skill increase or a permanent character option like a feat.
+
+**Nimble elf**
+Your muscles are tightly honed. Your Speed increases by 2m. Once per day, you can move up to your speed as a Quick action.
