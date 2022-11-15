@@ -16,7 +16,7 @@ As a Quick action, you can enter into a raging frenzy. You can't wear heavy armo
 ### Bard
 Bards are inspiring muscisians who uses music to guide their magical powers.
 
-You can inspire others through your music. As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 bardic inspiration die at a time. You can use this ability a number of times equal to your charisma modifier. In addition, you learn a Fighting Move with the Spell and Mental or Sound trait.
+You can inspire others through your music. As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 bardic inspiration die at a time. You can use this ability a number of times equal to your charisma modifier. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
 
 ### Cryomancer
 Cryomancers are spellcasters specializing in the freezing powers of ice and frost. 

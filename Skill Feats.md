@@ -33,8 +33,8 @@ You have learned special techniques to fall without hurting yourself. When you w
 
 ### Comprehend languages
 Spell\
-2 actions\
-For the 1 minute, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
+10 minutes\
+For 10 minute, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
 
 This spell doesn’t decode secret messages in a text or glyph, such as an arcane sigil, that isn’t part of a written language.
 
@@ -69,7 +69,7 @@ Illusion, Spell\
 2 actions\
 You make yourself – including your clothing, armor, weapons, and other belongings on your person – look different until 1 hour have passed or until you use your action to dismiss it. You can seem up to 30cm shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC. 
+The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use its action to inspect your appearance and m   |ust succeed on an Intelligence (Investigation) check against your spell save DC. 
 
 You can cast this spell twice per day.
 
@@ -91,6 +91,10 @@ If you cast this spell multiple times, you can have no more than two of its non-
 Survival\
 Constant\
 You are an experienced tracker. You gain a +1 circumstance bonus to tracking and you can track at full speed without penalty.
+
+### Expert
+Constant\
+Choose one Skill. You gain a +4 circumstance bonus to that Skill.
 
 ### Identify
 Divination, Spell\
@@ -115,6 +119,11 @@ Light, Spell\
 You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell. 
+
+### Linguist
+Language\
+Constant\
+You learn 3 languages of your choice. In addition,you gain a +1 circumstance bonus to Society checks to decipher a text.
 
 ### Mage hand
 Spell\
@@ -179,3 +188,7 @@ You manipulate it in one of the following ways:
 * You freeze the water, provided that there are no crea- tures in it. The water unfreezes in 1 hour.
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
+
+### Skilled
+Constant\
+You learn two new skills of your choice.
