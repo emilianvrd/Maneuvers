@@ -9,13 +9,13 @@ Dwarves are slow to trust those outside their kin, but this wariness is not with
 
 If you want to play a character who is as hard as nails, a stubborn and unrelenting adventurer, with a mix of rugged toughness and deep wisdom—or at least dogged conviction—you should play a dwarf.
 
-You Might...
+You might...
 
 - Strive to uphold your personal honor, no matter the situation. 
 - Appreciate quality craftsmanship in all forms and insist upon it for all your gear.
 - Don’t waver or back down once you’ve set your mind to something.
 
-Others Probably...
+Others probably...
 
 - See you as stubborn, though whether they see this as an asset or a detriment changes from one person to the next.
 - Assume you are an expert in matters related to stonework, mining, precious metals, and gems.
@@ -92,7 +92,7 @@ You eagerly absorbed the lore of the dwarves. You become trained in Engineering 
 You have trained with new variations of the traditional weapons of the dwarves. You become trained in the Battleaxe, Greataxe, Greatpick, Maul, Pick and Warhammer. You also become trained in all weapons with the dwarf tag. For the purpose of determining your proficiency rank with dwarf weapons, count advanced dwarf weapons as martial dwarf weapons, and martial dwarf weapons as simple dwarf weapons.
 
 **Mountains stoutness**
-You are as tough as the biggest mountains. You gain 5 additional hit points.     When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
+You are as tough as the biggest mountains. You gain 5 additional hit points.  When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
 If you also have the Toughness feat, the Hit Points gained from it and this feat are cumulative, and the DC of your recovery checks is equal to 6 + your dying value.
 
 **Rock runner**

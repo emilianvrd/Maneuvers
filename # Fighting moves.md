@@ -21,6 +21,11 @@ Disarm\
 1 action\
 You try to twist your opponent's weapon out of their grip. Make a Strike. On a success, the target also loses their grip on a weapon they are holding.
 
+### Earth Spike
+Earth, Nature, Spell\
+1 action\
+You cause a spike to rise from the ground to impale a foe. A foe within 20m of you must make a Dexterity saving throw or take 1d4 piercing damage and be grappled by the spike until the start of its next turn as the spike impales the target. 
+
 ### Encouraging words
 Buff\
 1 action\
@@ -36,6 +41,16 @@ Fire, Spell\
 1 action\
 You create a sword of pure fire in an free hand then immediatly attack with it. Make a Melee Attack. On a success, the target takes 1d10 + your spellcasting ability fire damage.
 
+### Frostbite
+Cold, Spell\
+1 action\
+You fire a ray of numbing frost at a foe. A creature within 20m of you must make a Might Saving Throw. On a failed save, the target takes 1d4 + your spellcasting ability cold damage and takes a -1 circumstance penalty to its next save it makes before the end of its next turn.
+
+### Piercing Icicle
+Cold, Piercing, Spell\
+1 action\
+You create a sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 piercing damage and 1 + your spellcasting ability cold damage. The d4 is considered the damage die of this Fighting Move.
+
 ### Impairing Strike
 Clumsy\
 1 action\
@@ -46,10 +61,10 @@ Buff\
 1 action\
 You lead by example. Make a Melee Strike. On a hit, each ally of your choice within 8m of you gains a +1 status bonus to their next Attack.
 
-### Intimidating Prescense
+### Intimidating Strike
 Intimidation\
-Quick action\
-Your mere prescense on the battlefield is enough to leave your foes trembling. Attempt to Demoralize a foe within 12m of you. On a successs, the target is Frightened 1, or Frightened 2 on a Critical success.
+1 action\
+You attack strikes fear into your foes. Make a Melee Strike. On a successs, the target is Frightened 1, or Frightened 2 on a Critical success.
 
 ### Jump attack
 Movement\
@@ -70,9 +85,21 @@ You draw the life force out of a target. Make a Melee Spell Attack. On a hit, th
 1 action\
 You make a quick swipe then immediatly enter a defensive posistion. Make a Melee Strike. On a hit, you also gain a +1 status bonus to AC until the start of your next turn. 
 
+### Pebble
+Earth, Nature, Spell\
+1 action\
+You throw a pebble at a foe. Make Ranged Spell Attack against a foe within 12m of you. On a hit, the target takes 1d8 + your spellcasting ability bludgeoning damage.
+
 ### Power Attack
 2 actions\
 You unleash a particularly powerful attack that clobbers your foe. Make a Melee Strike with a two handed weapon you are wielding. On a hit, the target takes double the normal damage.
+
+### Pumeling Rubble
+Earth, Nature, Spell\
+1 action\
+You launch small stones and sand. Each creature in a 4m radius sphere centered on a point within 20m of you must make a Dexterity saving throw. On a failure, a target takes 1d4 + your spellcasting ability modifier bludgeoning damage.
+
+The area also becomes difficult terrain until cleared.
 
 ### Quick Jump
 Movement\
@@ -84,10 +111,15 @@ Radiant\
 1 action\
 You pour down divine radience into a weapon you are holding. Make a Melee Strike. On a hit, you can change the damage into radiant damage. If you do so, you gain a +2 circumstance bonus to the damage.
 
+### Ray of Frost
+Cold, Spell\
+1 action\
+You send a freezing ray against a foe. A creature within 24m of you must succed on a Constitution Saving Throw or take 1d4 + your spellcasting ability cold damage and take a -2m status bonus to its speeds. 
+
 ### Vicious Mockery
 Mental, Spell\
 1 action\
-You unleash a string of insults laced with subtle enchantments at a creature you can see within 20m of you. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take psychic damage equal to your spellcasting ability and have disadvantage on the next attack roll it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at a creature you can see within 20m of you. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take psychic damage equal to your spellcasting ability and take a -2 penalty on the next attack roll it makes before the end of its next turn.
 
 ### Warmaster's command
 1 action\

@@ -9,7 +9,7 @@ Armor proficency: None\
 Weapon proficency: Club, Dagger, Light crossbow, Quarterstaff\
 
 ### Magical master
-You learn two cantrips of your choice and you gain 12 ekstra energy points. These points can only be used for spells. You also gain an additional flourish with the Spell trait.
+You gain an additional Flourish with the Spell trait. You also gain a +1 circumstance bonus to damage to flourishes with the Spell trait.
 
 ## Trickster
 Trickster are cunning explorers and combatants. They learn a wide variety of skills to help them in every enviroment and always have an ace up their sleeves.
