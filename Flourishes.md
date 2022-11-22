@@ -4,22 +4,46 @@
 ### Battle Medecine
 Heal\
 1 action\
-You can patch up wounds, even in combat. Attempt a DC 15 medecine check. On a success, a target within 2m of you regains 4d8+4 hp. You can use this Flourish three times per day.
+You can patch up wounds, even in combat. Attempt a DC 15 Medecine check. On a success, a target within 2m of you regains 4d8+4 hp. You can use this Flourish three times per day.
 
 ### Bless
 Buff, Spell\
 1 action\
 Blessings from beyond help your companions strike true. Each creature of your choice within 12m of you gains a +1 status bonus to attack rolls and damage rolls for 1 minute. You can use this Flourish three times per day.
 
+### Combat Grab
+Grapple\
+1 action\
+You combine a quick attack with a grappling move. Make a Melee Strike while keeping one hand free. On a hit, the target becomes grappled by you. You can use this Flourish three times per day.
+
 ### Cone of Cold
 Cold, Spell\
 2 actions\
 Icy cold rushes forth from your hands. Each creature in a 24m cone must make a Constitution saving throw against your spell save DC or take 6d8 cold damage. On a critical failure, the target is encased in ice and restrained until the end of its next turn. You can use this Flourish three times per day.
 
+### Dazing Blow
+Daze\
+1 action\
+You pummel a foe, hoping to stagger them. Make a melee Strike. The weapon damage from this Strike is bludgeoning damage. If the Strike hits, the creature must attempt a Might save; this is an incapacitation effect.
+
+Critical Success: The creature is unaffected.\
+Success: The creature is stunned 1.\
+Failure: The creature is stunned 2.\
+Critical Failure: The creature is stunned 3.
+
+You can use this Flourish three times per day.
+
+### Debiliating Shot
+Ranged\
+1 action\
+Aiming for a weak point, you impede your foe with a precise shot. Make a Ranged Strike. If it hits and deals damage, the target is slowed 1 until the end of its next turn. You can use this Flourish three times per day.
+
 ### Destructive Wave
 Necrotic or Radiant, Thunder, Spell\
 2 actions\
-You strike the ground, creating a burst of energy that ripples outward from you. Each creature of your choice within 40m of you must make a Might saving throw or take 3d6 thunder damage and 3d6 radiant or necrotic damage (your choice when you select this spell. The spell also gain the appropriate trait). A target is also knocked prone on a failure and is pushed 4m away, knocked prone, and takes 2d6 bludgeoning damage on a critical failure. You can use this Flourish three times per day.
+You strike the ground, creating a burst of energy that ripples outward from you. Each creature of your choice within 40m of you must make a Might saving throw or take 3d6 thunder damage and 3d6 radiant or necrotic damage (your choice when you select this spell. The spell also gain the appropriate trait). A target is also knocked prone on a failure and is pushed 4m away, knocked prone, and takes 2d6 bludgeoning damage on a critical failure. 
+
+You can use this Flourish three times per day.
 
 ### Divine Blast
 Radiant\
@@ -51,6 +75,10 @@ As an action, you can cause the hand to reach for a different creature or to mov
 Earth, Nature, Spell\
 2 actions\
 Choose a point you can see on the ground within 30m of you. A fountain of churned earth and stone erupts in a 6m cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 4d10 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared away. Each 2m-square portion of the area requires at least 1 minute to clear by hand.
+
+### Felling Strike
+1 action\
+Your attack can ground an airborne foe. Make a Strike. If it hits and deals damage to a flying target, the target falls up to 30m. The fall is gradual enough that if it causes the target to hit the ground, the target takes no damage from the fall. If the attack is a critical hit, the target can't Fly, Leap, levitate, or otherwise leave the ground until the end of your next turn.
 
 ### Fireball
 Fire, Spell\
@@ -87,6 +115,11 @@ Radiant, Spell\
 Quick action\
 You imbude your weapon with divine power. For 1 minute, your Strikes deal an extra 1d4 radiant damage. You can use this Flourish three times per day. 
 
+### Impossible Shot
+Ranged\
+1 action\
+You fire a volley at all foes in an area. Make one Strike with a against each enemy within a 4m radius burst centered at a point within the first range increment of a ranged weapon you are wielding. You gain a +5 circumstance bonus to this damage and you roll the damage only once for all targets. You can use this Flourish three times per day. 
+
 ### Inspiring speech
 Buff, Mental\
 10 minutes\
@@ -95,12 +128,12 @@ You spend 10 minutes inspriring your companions. Up to 10 creatures who listened
 ### Knockdown
 Prone\
 Quick action\
-You attempt to knock a foe off balance. Make a melee Strike. On a hit, the target is also knocked prone. You can use this Flourish three times per day.
+You attempt to knock a foe off balance. Make a Melee Strike. On a hit, the target is also knocked prone. You can use this Flourish three times per day.
 
 ### Lightning Bolt
 Lightning, Spell\
 2 actions\
-You lauch a bolt of lightning. Each creature in a 40m line that is 4m wide must make a Basic Dexterity saving throw or take 5d12 lightning damage. You can use this Flourish three times per day.
+You lauch a bolt of lightning. Each creature in a 40m line that is 4m wide must make a Dexterity saving throw or take 4d12 lightning damage on a failure, or become stunned 1 on a critical failure, in addition to dubling the damage as normal. You can use this Flourish three times per day.
 
 ### Piercing Shot
 Ranged\
@@ -115,6 +148,16 @@ You stomp the ground with such force that it creates a minor earthquake. Each cr
 Debuff, Necromancy, Spell\
 2 actions\
 A ray with the power to sap a foe's strength flashes from your hand. A target within 24m of you must make a Might saving throw. Each creature within 10m of the original target must also make this Might saving throw. On a failure, the target takes a -2 penalty attack rolls and ability checks for 1 minute. You can use this Flourish three times per day.
+
+### Shield Block
+Shield\
+Reaction\
+You quickly raise your shield to defend against a blow. When you are hit by an Attack, you can use your reaction to reduce the damage by 10. You can use this Flourish three times per day. 
+
+### Shielded Charge
+Shield\
+1 action\
+You charge forward with your shield raised. You move up to your speed, attempting to move through your enemies' spaces. Make a Melee Strike with your shield against any creature's space you try to enter, moving through its space on a success but ending your movement before entering its space on a failure. You can use this Flourish three times per day. 
 
 ### Soothing words
 Buff, Mental\

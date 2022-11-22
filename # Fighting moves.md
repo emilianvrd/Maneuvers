@@ -16,6 +16,10 @@ Push\
 1 action\
 You make a powerful strike to push your foe away. Make a Melee Strike with a two handed weapon. On a success, the target is also moved 2m away from you, or takes a -2 circumstance penalty to AC if the area it would be moved into is occupied.
 
+### Combat assessment
+1 action\
+You make a telegraphed attack to learn about your foe. Make a Melee Strike. On a hit, you can immediately attempt a check to Recall Knowledge about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge. 
+
 ### Disarming Twist
 Disarm\
 1 action\
@@ -50,6 +54,11 @@ You fire a ray of numbing frost at a foe. A creature within 20m of you must make
 Cold, Piercing, Spell\
 1 action\
 You create a sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 piercing damage and 1 + your spellcasting ability cold damage. The d4 is considered the damage die of this Fighting Move.
+
+### Point-Blank Shot
+Ranged\
+1 action\
+You take aim to pick off nearby enemies quickly. Make a Ranged Strike against a target within your weapon's first range increment. On a hit, you gain a +2 bonus to damage and the attack ignore's any damage resistance the opponent may have.
 
 ### Impairing Strike
 Clumsy\
@@ -115,6 +124,11 @@ You pour down divine radience into a weapon you are holding. Make a Melee Strike
 Cold, Spell\
 1 action\
 You send a freezing ray against a foe. A creature within 24m of you must succed on a Constitution Saving Throw or take 1d4 + your spellcasting ability cold damage and take a -2m status bonus to its speeds. 
+
+### Skirmish Strike
+Movement\
+1 action\
+You make a quick strike then dart away from your opponent. Make a Melee Strike. On a hit, you can move up to 6m without provoking Reactions.
 
 ### Vicious Mockery
 Mental, Spell\
