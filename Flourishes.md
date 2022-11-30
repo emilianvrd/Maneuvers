@@ -4,7 +4,7 @@
 ### Archer's Aim
 Ranged\
 1 action\
-ou slow down, focus, and take a careful shot. Make a Ranged Strike. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed condition. If the target is hidden, reduce the flat check from being hidden from 11 to 5.
+You slow down, focus, and take a careful shot. Make a Ranged Strike. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed or hidden condition.
 
 ### Battle Medecine
 Heal\

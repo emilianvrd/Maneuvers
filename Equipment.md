@@ -24,18 +24,18 @@ Armor increases your character’s defenses, but some medium or heavy armor can 
 | Plate | Heavy | — | 8gp | 14 | +0 | -3 | -4m | +3 | 30kg | Plate |
 
 ## Weapons
-Melee Weapons:
+### Melee Weapons:
 
-Unarmed weapons:
+#### Unarmed weapons:
 
-| Name | Trait | Damage | Weight | Price |
-|---|---|---|---|---|---|
-| Fist | Finesse, Nonlethal | — | — |
+|  Name | Traits | Damage | Weight | Price |
+|---|---|---|---|---|
+|  Fist | Finesse, Nonlethal | 1d4B | — | — |
 
-Simple weapons:
+#### Simple weapons:
 
-| Name | Trait | Damage | Weight | Price |
-|---|---|---|---|---|---|
+|  Name | Traits | Damage | Weight | Price |
+|---|---|---|---|---|
 | Club | Thrown 4m | 1d4 | 1kg | — |
 | Dagger | Light, Finesse, Thrown 4m, Versatile S | 1d4P | 1kg | 2sp |
 | Gauntlet | Light, Free-Hand | 1d4B | 0.2kg | 2sp |
@@ -45,10 +45,12 @@ Simple weapons:
 | Morningstart | Versatile P | 1d6B | 2kg | 10sp |
 | Sickle | Finesse, Light, Trip | 1d4S | 1kg | 1sp |
 | Spear | Thrown 8m | 1d6P | 1kg | 3sp |
-| Staff | Light, Trip | 1d6B | 1kg | 2sp |
+| Staff | Trip | 1d6B | 1kg | 2sp |
 
-Martial weapons:
+#### Martial weapons:
 
+| Name | Traits | Damage | Weight | Price |
+|---|---|---|---|---|
 | Axe | Sweep | 1d8S | 2kg | 10sp |
 | Battle Staff | Reach | 1d4B | 2kg | 20sp |
 | Bayonet | Attached(crossbow or firearm), Light | 1d6P | 1kg | 2sp |
@@ -73,3 +75,34 @@ Martial weapons:
 | Shortsword | Finesse, Light, Versatile S | 1d6P | 1kg | 8sp |
 | Trident | Thrown 8m | 1d8P | 2kg | 10sp |
 | Whip | Disarm, Nonlethal, Reach, Trip | 1d4S | 0.5kg | 1sp |
+
+### Ranged Weapons
+
+#### Simple Weapons:
+
+| Name | Traits | Damage | Range | Weight | Price |
+|---|---|---|---|---|---|
+| Air repeater | — | 1d4P | 12m | 1kg | 30sp |
+| Blowgun | Nonlethal | 1P | 8m | 0.1kg | 1sp |
+| Dart | Light, Thrown | 1d4P | 8m | 0.1kg | 1cp |
+| Dueling pistol | Concussive, Fatal d8 | d4P | 10m | 1kg | 20sp |
+| Fire lance | Fatal d10, Two-handed | 1d6p | 4m | 1kg | 30sp |
+| Light crossbow | Two-handed | 1d8p | 20m | 3kg | 10sp |
+| Javelin | Thrown | 1d6P | 12m | 1kg | 2sp |
+
+
+#### *artial Weapons
+| Name | Traits | Damage | Range | Weight | Price |
+|---|---|---|---|---|---|
+| Arquebus | Concussive, Fatal d12, Knockback, Two-handed | 1d8P | 50m | 5kg | 80sp |
+| Blunderbuss | Concussive, Scatter 4m, Two-handed | 1d8P | 16m | 5kg | 50sp |
+| Coat Pistol | Concealable, Concussive, Fatal d8 | 1d4P | 12m | 2kg | 30sp |
+| Dragon mouth pistol | Concussive, Scatter 2m | d6 | 10m | 3kg | 40sp |
+| Flintlock musket | Concussive, Fatal d12, Two-handed | 1d8P | 30m | 4kg | 50sp |
+| Flintlock pistol | Concussive, Fatal d10 | 1d6P | 20m | 2kg | 30sp |
+| Hand cannon | Versatile, P, S | 1d6B | 20m | 3kg | 30sp |
+| Heavy crossbow | — | 1d10P | 40m | 5kg | 10sp |
+| Longbow | Deadly d12, Propulsive, Volley 10m | d10P | 40m | 4kg | 30sp |
+| Shortbow | Deadly d10, Propulsive | d8P | 30m | 3kg | 25sp |
+| Sling staff | Propulsive | d10B | 20m | 2kg | 20sp |
+| Shuriken | Light, Thrown | 1d6P | 10m | 1kg | 5cp |

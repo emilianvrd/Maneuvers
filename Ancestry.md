@@ -267,7 +267,11 @@ You can see in dim light as though it were bright light, so you ignore the conce
 
 ### Feats
 **Animal Accomplice**
-You build a rapport with a small animal, which becomes magically bonded to you. You gain a Familiar. The type of animal is up to you, but most gnomes choose animals with a burrow Speed. 
+You build a rapport with a small animal, which becomes magically bonded to you. You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+
+Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can’t attack, but it can take other actions as normal.
+
+When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears if you spend 1 hour and 10gp to resummon it.
 
 **Fey Touched gnome**
 You have a strong connection to nature. You gain the fey trait and you learn a Fighting move with the Nature trait. 
