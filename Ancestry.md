@@ -81,7 +81,7 @@ You also get additional languages equal to your Intelligence modifier (if it's p
 You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
 
 ### Feats
-#### 1st
+
 **Battleforger**
 *Prerequisite: Trained in crafting.* You can sharpen weapons, polish armor, and apply special techniques to temporarily gain better effects from your armaments. By spending 1 hour working on a weapon or armor, you can grant the weapon a +1 bonus to damage for 10 minutes, or the armor a special echancment that gives the wearer 5 temporary hit points for 10 minutes. Once you have done this, you can't do it again until the next dawn.
 
@@ -175,7 +175,6 @@ Additional languages equal to your Intelligence modifier (if it's positive). Cho
 You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. 
 
 ### Feats
-#### 1st
 
 **Ancestral linguistics**
 Over your extensive lifespan, you've studied many languages. During your daily preparations, you can recede into old memories to become fluent in one common language or one other language you have access to. You know this language until you prepare again. Since this knowledge is temporary, you can't use it as a prerequisite for a permanent character option.
@@ -196,3 +195,172 @@ You have accumulated a vast array of lived knowledge over the years. During your
 
 **Nimble elf**
 Your muscles are tightly honed. Your Speed increases by 2m. Once per day, you can move up to your speed as a Quick action.
+
+## Gnome
+
+*Long ago, early gnome ancestors emigrated from the First World, realm of the fey. While it’s unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins.*
+
+Always hungry for new experiences, gnomes constantly wander both mentally and physically, attempting to stave off a terrible ailment that threatens all of their people. This affliction—the Bleaching—strikes gnomes who fail to dream, innovate, and take in new experiences, in the gnomes' absence of crucial magical essence from the First World. Gnomes latch onto a source of localized magic where they live, typically primal magic, as befits their fey lineage, but this isn't enough to avoid the Bleaching unless they supplement this magic with new experiences. The Bleaching slowly drains the color—literally—from gnomes, and it plunges those affected into states of deep depression that eventually claim their lives. Very few gnomes survive this scourge, becoming deeply morose and wise survivors known as bleachlings.
+
+If you want a character with boundless enthusiasm and an alien, fey outlook on morality and life, you should play a gnome. 
+
+You might...
+
+- Embrace learning and hop from one area of study to another without warning. 
+- Rush into action before fully taking stock of the entire situation. 
+- Speak, think, and move quickly, and lose patience with those who can’t keep up.
+
+Others probably...
+
+- Appreciate your enthusiasm and the energy with which you approach new situations.
+- Struggle to understand your motivations or adapt to your rapid changes of direction.
+- See you as unpredictable, flighty, unreliable, or even reckless.
+
+**Physical Description**
+
+Most gnomes stand just over 3 feet in height and weigh little more than a human child. They exhibit a wide range of natural skin, hair, and eye colors. For gnomes that haven’t begun the Bleaching, nearly any hair and eye color other than white is possible, with vibrant colors most frequent, while skin tones span a slightly narrower spectrum and tend toward earthy tones and pinkish hues, though occasionally green, black, or pale blue. Gnomes’ large eyes and dense facial muscles allow them to be particularly expressive in their emotions. Gnomes typically reach physical maturity at the age of 18, though many gnomes maintain a childlike curiosity about the world even into adulthood. A gnome can theoretically live to any age if she can stave off the Bleaching indefinitely, but in practice gnomes rarely live longer than around 400 years.
+
+**Society**
+
+While most gnomes adopt some of the cultural practices of the region in which they live, they tend to pick and choose, adjusting their communities to fit their own fey logic. This often leads to majority gnome communities eventually consisting almost entirely of gnomes, as other people, bewildered by gnomish political decisions, choose to move elsewhere. Gnomes have little culture that they would consider entirely their own. No gnome kingdoms or nations exist on the surface of Golarion, and gnomes wouldn’t know what to do with such a state if they had one.
+
+By necessity, few gnomes marry for life, instead allowing relationships to run their course before amicably moving on, the better to stave off the Bleaching with new experiences. Though gnome families tend to be small, many gnome communities raise children communally, with fluid family boundaries. As adults depart the settlement, unrelated adolescents sometimes tag along, creating adopted families to journey together.
+
+**Alignment and Religion**
+
+Though gnomes are impulsive tricksters with inscrutable motives and confusing methods, many at least attempt to make the world a better place. They are prone to fits of powerful emotion, and they are often good but rarely lawful. Gnomes most commonly worship deities that value individuality and nature.
+
+**Adventurers**
+
+Adventure is not so much a choice as a necessity for most gnomes. Adventuring gnomes often claim mementos, allowing them to remember and relive their most exciting stories.
+
+Gnomes often consider the entertainer, merchant, or nomad backgrounds. In addition, the animal whisperer, barkeep, gambler, and tinker backgrounds are particularly appropriate.
+
+Gnomes' connection to magic makes spellcasting classes particularly thematic for you, especially classes that match the tradition of your primal innate spells, such as druid or primal sorcerer, though wellspring gnomes might choose others.
+
+**Names**
+Gnome names can get quite complex and polysyllabic. They have little interest in familial names, and most children receive their names purely on a parent’s whim. Gnomes rarely concern themselves with how easy their names are to pronounce, and they often go by shorter nicknames. Some even collect and chronicle these nicknames. Among gnomes, the shorter the name, the more feminine it’s considered to be.
+
+**Sample Names**
+Abroshtor, Bastargre, Besh, Fijit, Halungalom, Krolmnite, Neji, Majet, Pai, Poshment, Queck, Trig, Zarzuket, Zatqualmie
+
+### Features
+
+**Hit points**
+8
+
+**Size**
+Small
+
+**Speed**
+10m
+
+**Ability boosts**
+Charisma, Free
+
+**Languages**
+Common, Gnomish and Sylvan.
+You also get additional languages equal to your Intelligence modifier (if it's positive). 
+
+**Low-Light Vision**
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
+
+### Feats
+**Animal Accomplice**
+You build a rapport with a small animal, which becomes magically bonded to you. You gain a Familiar. The type of animal is up to you, but most gnomes choose animals with a burrow Speed. 
+
+**Fey Touched gnome**
+You have a strong connection to nature. You gain the fey trait and you learn a Fighting move with the Nature trait. 
+
+**Illusion Sense**
+Seeing through illusions and creating them comes naturally to you. As a Free action, you can immediately gain the effects of a Sustain a Spell action to extend the duration of one of your active illusion spells.
+
+**Inventive Offensive**
+You can jury-rig your weapons to perform in unexpected ways. As a two-action activity, you can add one of the following weapon traits to a melee weapon you wield: deadly d6, disarm, nonlethal, shove, trip, versatile B, versatile P, or versatile S. You cannot add a trait that the weapon already has. The weapon retains this trait until you a successfully hit and deal damage with the weapon. The weapon retains this trait only while you wield it, and you can have only one weapon modified in this way at any time.
+
+**Umbral Connection**
+Whether from a connection to dark or shadowy fey, from the underground deep gnomes also known as svirfneblin, or another source, you can see in complete darkness. You gain darkvision.
+
+## Kobold
+*Every kobold knows that their slight frame belies true, mighty draconic power. They are ingenious crafters and devoted allies within their warrens, but those who trespass into their territory find them to be inspired skirmishers, especially when they have the backing of a draconic sorcerer or true dragon overlord. However, these reptilian opportunists prove happy to cooperate with other humanoids when it’s to their benefit, combining caution and cunning to make their fortunes in the wider world.*
+
+Kobolds are resourceful survivors whose snare-guarded warrens and opportunistic scavenging have cast them as villains to most other humanoids, with their draconic reverence lending them a reputation as mere minions and nuisances. Yet some kobolds have emerged from their secluded warrens seeking the relative safety of surface settlements, the lucrative prospects of the adventuring life, or validating awe from followers of their own.
+
+If you want a character with oversized confidence, deadly cunning, and the ancient power of dragons flowing through their veins, you should play a kobold. 
+
+You might...
+
+- Take pride in your draconic connections, whether you believe dragons are your ancestors or simply patrons.
+- Analyze your surroundings, always looking for ambushes, advantageous terrain, and escape routes.
+- Naturally observe, adopt, and respect group dynamics, whether as leader, subordinate, or equal.
+
+Others probably...
+
+- Assume that you are cowardly and won’t stick around in the face of danger.
+- Appreciate your ingenuity and resourcefulness, especially when it comes to building defenses.
+- Consider your claims of draconic power to be overblown, delusional, or endearing.
+
+**Physical Desciption**
+Kobolds are short (about 3 feet tall) reptilian humanoids with slender bodies and long tails. They often boast distant draconic ancestry, and every kobold displays one or more draconic features, such as stout horns, razor-sharp teeth, or—more rarely—vestigial wings or draconic breath. They mature quickly, reaching adulthood by about 12 years and living to about 60.
+
+The color of a kobold’s scales can vary widely. Most often, they mimic the hues of chromatic or metallic dragons, with a mix of slightly darker or lighter scales that create a mottled appearance. The scales of newly hatched kobolds often reflect the community’s draconic exemplar, whether that’s the dragon they currently serve or the dragon type from which they’re descended.
+
+**Society**
+Kobolds have an ingrained cautiousness that keeps them alive. They're secretive or subservient around powerful creatures to avoid becoming victims. This meekness fades once kobolds secure either a formidable patron (like a dragon) or a potent source of supernatural power (like an artifact or sorcerous leader). They often achieve an unshakable fervor and loyalty to their new cause or leader. However, kobolds are infamous for sensing a proverbial sinking ship, and once their source of power fails or seems doomed, their morale breaks swiftly.
+
+Whether led by a dragon or not, kobolds almost always identify themselves with a type of dragon that serves as their spiritual exemplar. Their societies regularly adopt laws and cultural norms inspired by the exemplar's personality.
+
+**Alignment and Religion**
+All but the most iconoclastic kobolds have a natural respect for hierarchies and rules, and so kobolds are rarely chaotic. Kobold adventurers tend to be lawful neutral or neutral, relying on their ancestral social strategies for survival.
+
+Organized religion feels natural for most kobolds, especially when a deity assumes a commanding or tyrannical disposition. Many gravitate toward Abadar's order or Shelyn's artistic flair. More sinister communities uphold Asmodeus and other archdevils as common patrons. The dragon deities Apsu and Dahak are also common subjects of worship. Kobolds also often find themselves drawn to cults, particularly those with dragons or devils as figureheads.
+
+**Kobold Adventurers**
+Kobolds often adventure in pursuit of the power, lore, and treasure that they feel befit their disproportionately large egos. When adventurers, militias, or careless tyrants shatter a kobold community, the survivors often latch onto new families, seeking emotional solace—and sometimes revenge. Typical kobold backgrounds include artisan, artist, criminal, hunter, miner, scout, and tinker from the Core Rulebook, plus bandit, cultist, scavenger, and servant from this book. Kobolds excel as bards, rangers, rogues, and sorcerers, though they also often channel their ingenuity as alchemists or wizards.
+
+**Names**
+A young kobold’s given name is rarely more than a syllable or two. However, as they age, achieve status, and accomplish great deeds, kobolds add more syllables to their names, imitating a common draconic practice. Kobolds rarely have surnames except in an effort to better fit into a community, in which case they typically adopt the surname of an inspiring figure in that group.
+
+**Sample Names**
+Azrnak, Draahzin, Enga, Fazgyn, Fazij, Jekkajak, Kib, Kirrok, Mirkol, Tarka, Urkak, Varshez, Vroklan, Zekstikah, Zgaz
+
+### Features
+
+**Hit points**
+6
+
+**Size**
+Small
+
+**Speed**
+10m
+
+**Ability Boosts**
+Dexterity, Charisma, Free
+
+**Ability Flaws**
+Might
+
+**Languages**
+Common, Draconic
+You also get additional languages equal to your Intelligence modifier (if it's positive). 
+
+**Darkvision**
+You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
+
+**Draconic Exemplar**
+You draw minor powers from your draconic exemplar. Choose a type of chromatic or metallic dragon to be your exemplar. This determines your scale color and appearance, and dragons sometimes look more favorably upon those kobolds who resemble them, at the GM’s discretion. Your exemplar may also determine details of other abilities you have, using the Draconic Exemplars table.
+
+| Dragon | Breath Weapon Shape | Damage Type | Saving Throw |
+|---|---|---|---|
+| Black | Line | Acid | Reflex |
+| Blue | Line | Electricity | Reflex |
+| Green | Cone | Poison | Fortitude |
+| Red | Cone | Fire | Reflex |
+| White | Cone | Cold | Reflex |
+| Brass | Line | Fire | Reflex |
+| Bronze | Line | Electricity | Reflex |
+| Copper | Line | Acid | Reflex |
+| Gold | Cone | Fire | Reflex |
+| Silver | Cone | Cold | Reflex |
+### Feats

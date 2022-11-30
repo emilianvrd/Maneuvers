@@ -8,10 +8,15 @@ You have trained wearing armor.
 
 You gain proficiency in light armor, medium armor, and shields. If you already had proficiency in light or medium armor, you instead gain proficiency in all armor and shield. If you have proficiency in medium or heavy armor, you ignore the speed penalty from wearing armor. If you already were proficient in all armor, you gain a +1 circumstance bonus to ac while wearing armor instead.
 
+### Assassin
+You've trained to assassinate your foes, and you do so with tenacity and precision.
+
+If you Strike a Surprised creature, you gain a +5 circumstance bonus to the damage. You can only gain this benefit once per encounter.
+
 ### Barbarian
 Bariarians are fierce warriors of primitive backround who can enter a battle rage.
 
-As a Quick action, you can enter into a raging frenzy. You can't wear heavy armor while raging. For 1 minute, you gain 3 temporary hit points at the start of each of your turns and a +1 status bonus to strength checks and to damage rolls made using strength. 
+As a Quick action, you can enter into a raging frenzy. If you do, you gain 5 temporary hit points and. for 1 minute, you gain a +1 status bonus to might checks and to damage rolls made using might. You can't wear heavy armor while using this ability.
 
 ### Bard
 Bards are inspiring muscisians who uses music to guide their magical powers.
@@ -19,7 +24,7 @@ Bards are inspiring muscisians who uses music to guide their magical powers.
 You can inspire others through your music. As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 bardic inspiration die at a time. You can use this ability a number of times equal to your charisma modifier. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
 
 ### Climber
-You are an adept climber. You gain a climbing speed of 6m.
+You are an adept climber. You gain a climbing speed of 6m. If you already have a climbing speed, increase your climbing speed by 6m.
 
 ### Cryomancer
 Cryomancers are spellcasters specializing in the freezing powers of ice and frost. 
@@ -70,7 +75,10 @@ You unarmed blows are as deadly as the sharpest swords. Your unarmed strikes dea
 ### Monk
 Monks harness the power of the body in pursuit of physical and spritual perfection.
 
-Your combination of physical and spiritual honing has given you the ability to channel magic into you blows. You gain 12 spell points. As a two-action activity, you can cast a spell with a casting time of one or two actions and that requires you to make a spell attack. When you cast a spell in this way, the spell doesn't take effect immediatly. Instead, make an unarmed attack. On a hit, the target takes the damage from the unarmed attack and as if hit by the spell. Additionally, if you have proficiency in heavy armor, you can add your wisdom modifier as a circumstance bonus to AC when unarmored.
+Additionally, if you have proficiency in heavy armor, you can add your wisdom modifier as a circumstance bonus to your AC when unarmored.
+
+### Swimmer
+You are an adept swimmer. You gain a swimming speed equal to your walking speed. If you already have a swimming speed, increase that speed by 8m instead. You also don't take any penalties for making attacks while underwater.
 
 ### Unarmored fighter
 You dislike the bulk of armor and therefore have trained to fight unarmored.

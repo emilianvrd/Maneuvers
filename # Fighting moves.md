@@ -14,11 +14,20 @@ You strike a specific point to help your ally's attack. Make a Strike with a wea
 ### Brutal Shove
 Push\
 1 action\
-You make a powerful strike to push your foe away. Make a Melee Strike with a two handed weapon. On a success, the target is also moved 2m away from you, or takes a -2 circumstance penalty to AC if the area it would be moved into is occupied.
+You make a powerful strike to push your foe away. Make a Melee Strike with a two handed weapon. On a success, the target is also moved 4m away from you, or takes a -2 circumstance penalty to AC if the area it would be moved into is occupied.
 
 ### Combat assessment
 1 action\
 You make a telegraphed attack to learn about your foe. Make a Melee Strike. On a hit, you can immediately attempt a check to Recall Knowledge about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge. 
+
+### Cover Fire
+Ranged\
+1 action\
+You lay down suppressive fire to protect allies by forcing foes to take cover from your wild attacks. Make a Ranged Strike; the target must decide before you roll your attack whether it will duck out of the way. If the target ducks, it gains a +2 circumstance bonus to AC against your attack, or a +4 circumstance bonus to AC if it has cover. It also takes a –2 circumstance penalty to ranged attack rolls until the end of its next turn. If the target chooses not to duck, you gain a +1 circumstance bonus to your attack roll for that Strike.
+
+### Duelist's Edge
+Free action\
+When you roll for Initiative, you can use a free action to gain a +2 circumstance bonus to the roll and to immediatly draw a one-handed weapon.
 
 ### Disarming Twist
 Disarm\
@@ -50,15 +59,9 @@ Cold, Spell\
 1 action\
 You fire a ray of numbing frost at a foe. A creature within 20m of you must make a Might Saving Throw. On a failed save, the target takes 1d4 + your spellcasting ability cold damage and takes a -1 circumstance penalty to its next save it makes before the end of its next turn.
 
-### Piercing Icicle
-Cold, Piercing, Spell\
-1 action\
-You create a sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 piercing damage and 1 + your spellcasting ability cold damage. The d4 is considered the damage die of this Fighting Move.
-
-### Point-Blank Shot
-Ranged\
-1 action\
-You take aim to pick off nearby enemies quickly. Make a Ranged Strike against a target within your weapon's first range increment. On a hit, you gain a +2 bonus to damage and the attack ignore's any damage resistance the opponent may have.
+### Hit the Dirt
+Reaction\
+You fling yourself out of harm's way. As a Reaction when targeted by an attack, you can Leap. Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land prone after completing your Leap.
 
 ### Impairing Strike
 Clumsy\
@@ -99,16 +102,30 @@ Earth, Nature, Spell\
 1 action\
 You throw a pebble at a foe. Make Ranged Spell Attack against a foe within 12m of you. On a hit, the target takes 1d8 + your spellcasting ability bludgeoning damage.
 
+### Piercing Icicle
+Cold, Piercing, Spell\
+1 action\
+You create a sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 piercing damage and 1 + your spellcasting ability cold damage. The d4 is considered the damage die of this Fighting Move.
+
+### Point-Blank Shot
+Ranged\
+1 action\
+You take aim to pick off nearby enemies quickly. Make a Ranged Strike against a target within your weapon's first range increment. On a hit, you gain a +2 bonus to damage and the attack ignore's any damage resistance the opponent may have.
+
 ### Power Attack
 2 actions\
 You unleash a particularly powerful attack that clobbers your foe. Make a Melee Strike with a two handed weapon you are wielding. On a hit, the target takes double the normal damage.
 
-### Pumeling Rubble
+### Pummeling Rubble
 Earth, Nature, Spell\
 1 action\
 You launch small stones and sand. Each creature in a 4m radius sphere centered on a point within 20m of you must make a Dexterity saving throw. On a failure, a target takes 1d4 + your spellcasting ability modifier bludgeoning damage.
 
 The area also becomes difficult terrain until cleared.
+
+### Quick Draw
+Free action\
+You quickly draw your weapon. As a Free action, you can draw a weapon.
 
 ### Quick Jump
 Movement\
@@ -125,10 +142,20 @@ Cold, Spell\
 1 action\
 You send a freezing ray against a foe. A creature within 24m of you must succed on a Constitution Saving Throw or take 1d4 + your spellcasting ability cold damage and take a -2m status bonus to its speeds. 
 
+### Reflexive Shield
+Shield\
+Free action\
+You can use your shield to protect you against damaging effects as well. As a Free action when you make a Dexterity saving throw, you can apply any circumstance bonus to AC you gain from wielding a shield as a circumstance bonus to the Dexterity saving throw.
+
+### Shield Strike
+Shield\
+1 action\
+You make a quick bash with your shield. Make a Melee Strike with your shield. On a hit, you increase the damage die of the shield by one step and increase the circumstance bonus provided by the shield by +1 until the start of your next turn.
+
 ### Skirmish Strike
 Movement\
 1 action\
-You make a quick strike then dart away from your opponent. Make a Melee Strike. On a hit, you can move up to 6m without provoking Reactions.
+You make a quick strike then dart away from your opponent. Make a Melee Strike. On a hit, you can move up to 4m without provoking Reactions.
 
 ### Vicious Mockery
 Mental, Spell\

@@ -1,6 +1,11 @@
 # Flourishes
 
 ## 1st
+### Archer's Aim
+Ranged\
+1 action\
+ou slow down, focus, and take a careful shot. Make a Ranged Strike. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed condition. If the target is hidden, reduce the flat check from being hidden from 11 to 5.
+
 ### Battle Medecine
 Heal\
 1 action\
@@ -44,6 +49,10 @@ Necrotic or Radiant, Thunder, Spell\
 You strike the ground, creating a burst of energy that ripples outward from you. Each creature of your choice within 40m of you must make a Might saving throw or take 3d6 thunder damage and 3d6 radiant or necrotic damage (your choice when you select this spell. The spell also gain the appropriate trait). A target is also knocked prone on a failure and is pushed 4m away, knocked prone, and takes 2d6 bludgeoning damage on a critical failure. 
 
 You can use this Flourish three times per day.
+
+### Disarming Block
+Reaction\
+When targeted by a Strike, you can use your reaction to gain a +1 circumstance bonus to AC against the triggering attack. If the target misses, you automatically Disarm it.
 
 ### Divine Blast
 Radiant\
@@ -135,6 +144,11 @@ Lightning, Spell\
 2 actions\
 You lauch a bolt of lightning. Each creature in a 40m line that is 4m wide must make a Dexterity saving throw or take 4d12 lightning damage on a failure, or become stunned 1 on a critical failure, in addition to dubling the damage as normal. You can use this Flourish three times per day.
 
+### Parting Shot
+Ranged\
+1 action\
+You jump back and fire a quick shot that catches your opponent off guard. You move up to your speed without provoking reaction and then make a ranged Strike with the required weapon. Your target is flat-footed against the attack and you gain a +4 circumstance bonus to the damage.
+
 ### Piercing Shot
 Ranged\
 1 action\
@@ -142,12 +156,22 @@ You make a powerful shot that pierces everything it hits. Each creature and obje
 
 ### Quaking Stomp
 Earth, Nature, Spell\
-You stomp the ground with such force that it creates a minor earthquake. Each creature within 30m of you must make a Might saving throw. On a failure, a target takes 4d12 bludgeoning damage and is knocked prone. Objects and structures in the area takes the same amount of damage (no save).
+You stomp the ground with such force that it creates a minor earthquake. Each creature within 30m of you must make a Might saving throw. On a failure, a target takes 4d12 bludgeoning damage and is knocked prone. Objects and structures in the area takes the same amount of damage (no save). You can use this Flourish three times per day.
+
+
+### Rapid Fire
+Ranged\
+2 action\
+You can quickly fire multiple shots with greater control. Make four Ranged Strikes. You can use this Flourish three times per day.
 
 ### Ray of Enfeeblement
 Debuff, Necromancy, Spell\
 2 actions\
 A ray with the power to sap a foe's strength flashes from your hand. A target within 24m of you must make a Might saving throw. Each creature within 10m of the original target must also make this Might saving throw. On a failure, the target takes a -2 penalty attack rolls and ability checks for 1 minute. You can use this Flourish three times per day.
+
+### Saving Slash
+Reaction\
+You quickly whirl your blade or dodge out of the way, trying to deflect enough momentum to avoid the worst of a dangerous attack. As a reaction when hit by a critical hit, you can cause the attack to become a normal hit instead. You can use this Flourish three times per day.
 
 ### Shield Block
 Shield\
@@ -164,12 +188,21 @@ Buff, Mental\
 1 action\
 You grace your allies' mind, boosting their mental defenses and healing their wounds. Each target of your choice within 6m of you regains 3d10 Hit Points when you cast the spell and gains a +2 status bonus to saves against mental effects for 1 minute. You can use this Flourish three times per day. 
 
+### Spellstrike
+Spell\
+2 actions\
+Your have learnd how to channel magic into you strikes. You expend a use of a different Flourish that requires you to make a spell attack and make an Strike. Your spell is coupled with your attack, using your attack roll result to determine the effects of both the Strike and the Flourish. 
+
+You can use this Flourish three times per day. 
+
 ### Sunbeam
 Blinded, Light, Radiant, Spell\
 2 actions\
 A beam of brilliant light flashes out from your hand in a 2m wide, 24m long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 5d8 radiant damage and is dazzled until the start of your next turn. On a successful save, it takes half as much damage and isn’t dazzled by this spell. 
 
-This spell dispels any darkness in its area that was created by a spell.
+This spell dispels any darkness in its area that was created by a spell. 
+
+You can use this Flourish three times per day. 
 
 ### Sunburst
 Blinded, Light, Radiant, Spell\
@@ -178,7 +211,9 @@ Blinding sunlight flashes in a 20m radius sphere centered on a point you choose 
 
 A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
 
-This spell dispels any darkness in its area that was created by a spell.
+This spell dispels any darkness in its area that was created by a spell. 
+
+You can use this Flourish three times per day. 
 
 ### Sweeping Charge
 Movement\
@@ -193,19 +228,30 @@ Your weapon rings with thunder that is audible within 300 feet of you. Make a Me
 ### Thunderwave
 Thunder, Spell\
 2 actions\
-A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 6d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
+A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 6d8 thunder damage and is pushed 4m away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet. You can use this Flourish three times per day. 
+
+### Unnerving Prowess
+Frightened\
+1 action\
+Your incredible skill with your weapons unnerves your foes. Make a Melee Strike. On a hit, you automatically disarms the target and it becomes frightened 1. You can use this Flourish three times per day. 
 
 ### Wall of Ice
 Cold, Wall, Spell\
 2 actions\
 You sculpt a barrier of ice  within 30m of you that blocks sight and, once shattered, freezes foes. You create either a 1-meter-thick wall of ice in a straight line up to 20m long and 4m high (the wall doesn't have to be vertical, but it must be anchored on both sides to a solid surface) or a 1m thick, 4m radius hemisphere of ice. The ice that makes up the wall is opaque. If you wish, the wall can be of a smaller length, height, or radius. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost.
 
-Each 4m by 4m section of the wall has AC 15, and 20 Hit Points, and it's immune to critical hits, cold damage, and precision damage. A section also has weakness to fire 15; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 2d6 cold damage to any cch
-eature passing through it.
+Each 4m by 4m section of the wall has AC 15, and 25 Hit Points, and it's immune to critical hits, cold damage, and precision damage. A section also has weakness to fire 10; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 2d6 cold damage to any creature passing through it.
 
 The wall lasts for 1 minute or umtil completely destroyed.
+
+You can use this Flourish three times per day. 
+
+### Weapon Barrage
+Spell\
+2 actions\
+You conjure dosens of weapons and lauch them at your foes. Each creature in a 12m long line that is 6m wide must make a Dexterity saving throw or take 5d10 bludgeoning, piercing, or slashing damage (your choice for each target). You can use this Flourish three times per day. 
 
 ### Wrathful Smite
 Fear, Mental, Spell\
