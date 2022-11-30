@@ -363,4 +363,33 @@ You draw minor powers from your draconic exemplar. Choose a type of chromatic or
 | Copper | Line | Acid | Reflex |
 | Gold | Cone | Fire | Reflex |
 | Silver | Cone | Cold | Reflex |
+
 ### Feats
+**Cringe**
+With pitiful posturing, you cause your foe to pull back a deadly attack. As a reaction when a creature critically succeds on a Strike against you, you can cause the attacking creature to take a -3 circumstance penalty to the damage of the triggering Strike. This penalty applies after doubling the damage for a critical hit. The attacker is then immune to your Cringe for 24 hours.
+
+**Dragon's Presence**
+As a member of dragonkind, you project unflappable confidence (that collapses catastrophically against the deadliest foes). When you roll a success on a saving throw against a fear effect, you get a critical success instead. When you roll a failure against a fear effect, you get a critical failure instead.
+
+In addition, when you attempt to Demoralize a foe of your level or lower, you gain a +1 circumstance bonus to the Intimidation check.
+
+**Dragonscaled Kobold**
+Your scales are especially colorful, possessing some of the same resistance a dragon possesses. You gain resistance 3 to the damage type associated with your draconic exemplar. Double this resistance against dragons’ Breath Weapons.
+
+**Flight**
+Prerequisite: 5th levl, Winglets. Your wings have grown stronger. You permanently gain a flying speed of 8m.
+
+**Kobold Breath**
+As an action, you can channel your draconic exemplar's power into a gout of energy that manifests as a 12m line or a 6m cone, dealing 4d4+your highest ability damage. Each creature in the area must attempt a basic saving throw against a DC of 10+your highest ability modifier. You can't use this ability again for 1d4 rounds.
+
+**Kobold Lore**
+You attentively learned key kobold survival strategies and mythology from your elders. You gain the trained proficiency rank in Stealth and Thievery. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Kobold Lore.
+
+**Snare Setter**
+You are adept at the time-honored kobold art of trap making. You gain the trained proficiency in Crafting. If you were already trained in Crafting, you instead become trained in a skill of your choice. You gain access to all uncommon kobold snares. You gain the Snare Crafting Skill feat, though when choosing your formulas for that feat, you can also choose from uncommon kobold snares, as well as common snares.
+
+**Strongjaw Kobold**
+Your bloodline is noted for their powerful jaws and sharp teeth. You gain a jaws unarmed attack that deals 1d8 piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits.
+
+**Winglets**
+You have small wings. Once per day, you can gain a flying speed of 8m for 1 minute. You also reduce any damage you take from a fall by 5.

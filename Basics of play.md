@@ -3,7 +3,7 @@ At 1st level, choose a type, a background, an ancestry and a heritage, 2 archtyp
 2nd: 1 Fighting move\
 3rd: 1 Flourish, 1 Skill feat, 1 Skill\
 4th: 1 Archetype, Ability increase\
-5th: 1 Flourish, 1 Skill feat\
+5th: 1 Flourish, 1 Skill feat, 1 Ancestry feat\
 6th: 1 Fighting move\, 1 Skill\
 7th: 1 Flourish, 1 Skill feat\
 8th: 1 Archetype, Ability increase\
