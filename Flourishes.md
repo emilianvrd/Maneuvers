@@ -16,6 +16,13 @@ Buff, Spell\
 1 action\
 Blessings from beyond help your companions strike true. Each creature of your choice within 12m of you gains a +1 status bonus to attack rolls and damage rolls for 1 minute. You can use this Flourish three times per day.
 
+### Chef
+Heal, Buff\
+10 minutes\
+You know how to cook delicious and restorative foods. By spendig 10 minutes cooking food, you can create food for up to 10 people. A person that eats from the food regains 20hp and gains a +1 status bonus to attack rolls for 1 hour.
+
+A creature can benefit from this ability up to three times per day.
+
 ### Combat Grab
 Grapple\
 1 action\
@@ -79,6 +86,11 @@ As an action, you can cause the hand to crush the restrained target, who must ma
 To break out, the restrained target can use an action to make a Might check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within 12m of you. The hand releases a restrained target if you do either.
+
+### Ensnaring Plant
+Nature, Spell\
+1 actions\
+You cause a Medium plant to rise up from the ground in an unoccupied square within 30m of you. The plant then immediatly attempts to grab a creature within 2m of it. The creature must make a Dexterity Saving Throw or be Restrained for 1 minute. The target can attempt an Athletics or Acrobatics check as an action to try to break free, ending the spell on a success.
 
 ### Erupting Earth
 Earth, Nature, Spell\
@@ -154,10 +166,14 @@ Ranged\
 1 action\
 You make a powerful shot that pierces everything it hits. Each creature and object in a 40m line must make a Dexterity saving throw (DC 10+your Dexterity modifier) or take 2d10+your Dexterity modifier piercing damage. An solid object in the path that isn't reduced to 0 hp stops the shot. You can use this Flourish three times per day.
 
+### Plant Growth
+Nature, Spell\
+2 actions\
+You cause plants to grow from the ground in an 10m cube centered at a point within 30m of you. The area in the cube becomes overgrown with plant and moving 1m in the area costs 4m of movement. The plants also provide lesser Cover (+1 bonus to AC, +1 Stealth) against attacks coming in or out.
+
 ### Quaking Stomp
 Earth, Nature, Spell\
 You stomp the ground with such force that it creates a minor earthquake. Each creature within 30m of you must make a Might saving throw. On a failure, a target takes 4d12 bludgeoning damage and is knocked prone. Objects and structures in the area takes the same amount of damage (no save). You can use this Flourish three times per day.
-
 
 ### Rapid Fire
 Ranged\

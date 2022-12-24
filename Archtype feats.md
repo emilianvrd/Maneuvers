@@ -6,7 +6,7 @@ Archtypes determines most of what your character can do. You gain two archtypes 
 ### Armored
 You have trained wearing armor.
 
-You gain proficiency in light armor, medium armor, and shields. If you already had proficiency in light or medium armor, you instead gain proficiency in all armor and shield. If you have proficiency in medium or heavy armor, you ignore the speed penalty from wearing armor. If you already were proficient in all armor, you gain a +1 circumstance bonus to ac while wearing armor instead.
+You gain proficiency in light armor, medium armor, and shields. If you already had proficiency in light or medium armor, you instead gain proficiency in all armor and shield. If you have proficiency in medium or heavy armor, you ignore the speed penalty from wearing armor. If you already were proficient in all armor, you also gain a +1 circumstance bonus to ac while wearing armor instead.
 
 ### Assassin
 You've trained to assassinate your foes, and you do so with tenacity and precision.
@@ -16,12 +16,12 @@ If you Strike a Surprised creature, you gain a +5 circumstance bonus to the dama
 ### Barbarian
 Bariarians are fierce warriors of primitive backround who can enter a battle rage.
 
-As a Quick action, you can enter into a raging frenzy. If you do, you gain 5 temporary hit points and. for 1 minute, you gain a +1 status bonus to might checks and to damage rolls made using might. You can't wear heavy armor while using this ability.
+As a Quick action, you can enter into a raging frenzy. If you do, you gain 5 temporary hit points and. for 1 minute, you gain a +1 status bonus to Might checks and to damage rolls made using Might. You can't wear heavy armor while using this ability.
 
 ### Bard
 Bards are inspiring muscisians who uses music to guide their magical powers.
 
-You can inspire others through your music. As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 bardic inspiration die at a time. You can use this ability a number of times equal to your charisma modifier. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
+You can inspire others through your music. As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 such die at a time. You can use this ability a number of times equal to your charisma modifier. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
 
 ### Climber
 You are an adept climber. You gain a climbing speed of 6m. If you already have a climbing speed, increase your climbing speed by 6m.
@@ -29,12 +29,12 @@ You are an adept climber. You gain a climbing speed of 6m. If you already have a
 ### Cryomancer
 Cryomancers are spellcasters specializing in the freezing powers of ice and frost. 
 
-When a target is affected by a Fighting Move with the Cold trait, they take a -2 penalty to their speeds. If a target is affected by a Flourish, they take a -4 penalty to their speeds. You also learn a fighting move with the Cold trait.
+When a target is affected by a Fighting Move with the Cold trait, they take a -2m penalty to their speeds. If a target is affected by a Flourish, they take a -4m penalty to their speeds. You also learn a fighting move with the Cold trait.
 
 ### Druid
 Druids are wielder of the powers of nature. They revere nature above all, gaining their spells from the force of nature itself.
 
-You can call down the elemental forces of nature or emulate the creatures of nature. As a Quick action, you can shapechange into a creature of level 1. You retain you hit points and your mental ability scores, but all other statistics are replaced with the chosen creature. In addition, you learn a Fighting Move with the nature, beast, or plant trait, or a trait cossesponding to one of the elemental damage types (acid, cold, fire, lightning, poison, and thunder).
+You can call down the elemental forces of nature and emulate the creatures of nature. As a Quick action, You can transform into a Medium animal. You can decide the specific type of animal(such as a bear or wolf), but this has no effect on the form's Size or statistics. When you transform, you gain 10 temporary hit points. While transformed, you can't use any equipment that doesn't fit your new form and you can't wield any weapons. The only Strikes you can make a Strike that deals 1d10 damage of a type chosen when you transformed and a Strike that deals 1d8 damage of a type chosen when you transformed and has the Agile trait. In addition, you learn a FightingMove with the nature, beast, or plant trait, or a trait corresponding to one of the elemental damage types (acid, cold, fire, lightning, poison, and thunder)
 
 ### Dual-wielder
 You wield two weapons and use them to attack your enemies in a flurry of strikes.
@@ -64,7 +64,7 @@ You know how to use the earth to crush your foes.
 
 The earth protects you. While unarmored, you gain the benefits of wearing a breastplate. In addition, you learn a Fighting Move with the Earth trait.
 
-## Mage slayer
+### Mage slayer
 You have learned special techiques to fight spellcasters. Whenever a creature within your reach casts a Spell, you can use your reaction to make a Melee Strike against the target. On a hit, the target must make a Might saving throw against your Might or Dexterity DC or they lose the action or actions used to cast the Spell.
 
 ### Martial artist

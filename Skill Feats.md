@@ -1,5 +1,5 @@
 # Skill Feats
-Skill feats are an intergral part of your character. They determine much of what you can do during exploration and social interaction.
+Skill feats are an integral part of your character. They determine much of what you can do during exploration and social interaction.
 
 ## 1st
 ### Alarm
@@ -30,13 +30,6 @@ You never fail when doing what you are best at. Choose one Skill your are Traine
 Acrobatics\
 1 reaction\
 You have learned special techniques to fall without hurting yourself. When you would take damage from a fall, you can use your reaction to treat the fall as 20m shorter.
-
-### Comprehend languages
-Spell\
-10 minutes\
-For 10 minute, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
-
-This spell doesn’t decode secret messages in a text or glyph, such as an arcane sigil, that isn’t part of a written language.
 
 ### Dancing lights
 Light, Spell\
@@ -69,7 +62,7 @@ Illusion, Spell\
 2 actions\
 You make yourself – including your clothing, armor, weapons, and other belongings on your person – look different until 1 hour have passed or until you use your action to dismiss it. You can seem up to 30cm shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use its action to inspect your appearance and m   |ust succeed on an Intelligence (Investigation) check against your spell save DC. 
+The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC. 
 
 You can cast this spell twice per day.
 
@@ -92,9 +85,10 @@ Survival\
 Constant\
 You are an experienced tracker. You gain a +1 circumstance bonus to tracking and you can track at full speed without penalty.
 
-### Expert
+### Freedom of Movement
+Skill\
 Constant\
-Choose one Skill. You gain a +4 circumstance bonus to that Skill.
+You are adept at escaping grapples and restraints. You gain a +3 circumstance bonus to Escape.
 
 ### Identify
 Divination, Spell\
@@ -103,10 +97,12 @@ You choose one object that you must touch throughout the casting of the spell. I
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
+You can cast this spell three times per day.
+
 ### Impressive Display
 Athletics\
 1 action\
-You perform a feat of strength, impressing those nearby. For the next minute, you gain a +1 status bonus on checks made to ineract with those who say your display.
+You perform a feat of strength, impressing those nearby. For the next minute, you gain a +1 status bonus on Deception, Persuasion, and Intimidation checks against those who saw your display.
 
 ### Jump
 Spell\
@@ -170,11 +166,11 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 * You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 * You instantaneously light or snuff out a candle, a torch, or a small campfire.
 * You instantaneously clean or soil an object no larger than 1 cubic foot.
-* You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+* You chill, warm, or flavor up to 30cm² of nonliving material for 1 minute.
+* You make a color, a small mark, or a symbol appear on an object or a surface for 1 minute.
 * You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
+If you cast this spell multiple times, you can only have one of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
 
 ### Shape water
 Spell, Water\
@@ -182,13 +178,13 @@ Spell, Water\
 You choose an area of water that you can see within range and that fits within a 5-foot cube.
 You manipulate it in one of the following ways:
 
-* You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
-* You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
-* You change the water’s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
-* You freeze the water, provided that there are no crea- tures in it. The water unfreezes in 1 hour.
+* You instantaneously move or otherwise change the flow of the water as you direct, up to 2m in any direction. This movement doesn’t have enough force to cause damage.
+* You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 minute.
+* You change the water’s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 minute.
+* You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 minute.
 
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
+If you cast this spell multiple times, you can have no more than one of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
 
 ### Skilled
 Constant\
-You learn two new skills of your choice.
+You learn a new skill of your choice.
