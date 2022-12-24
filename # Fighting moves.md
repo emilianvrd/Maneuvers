@@ -147,6 +147,11 @@ Shield\
 Free action\
 You can use your shield to protect you against damaging effects as well. As a Free action when you make a Dexterity saving throw, you can apply any circumstance bonus to AC you gain from wielding a shield as a circumstance bonus to the Dexterity saving throw.
 
+### Shocking Grasp
+Lightning, Spell\
+1 action\
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a Melee Spell Attack against the target. You gain a +2 bonus to the Attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8+your spellcasting ablity modifier lightning damage, and it can't take reactions until the start of its next turn.
+
 ### Shield Strike
 Shield\
 1 action\

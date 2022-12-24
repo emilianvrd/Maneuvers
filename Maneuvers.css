@@ -79,6 +79,7 @@ li a:hover {
 }
 
 article {
+    width: 80%;
     height: 66vh;
     padding-top: 0px;
     padding-left: 0px;

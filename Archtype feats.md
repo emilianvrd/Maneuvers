@@ -3,10 +3,22 @@ Archtypes determines most of what your character can do. You gain two archtypes 
 
 ## 1st
 
+### Alchemist
+There’s no sight more beautiful to you than a strange brew bubbling in a beaker, and you consume your ingenious elixirs with abandon. You’re fascinated by uncovering the secrets of science and the natural world, and you’re constantly experimenting in your lab or on the go with inventive concoctions for every eventuality. You are fearless in the face of risk, hurling explosive or toxic creations at your foes. 
+
+When you learn a Fighting Move, Skill Feat, or Flourish that has the Spell trait, it can cause it to lose that trait as you can replicate spells with potent elixirs or alchemical bombs. After you finish a Long Rest, you can choose to expend a use of a Flourish with this modification. If you do, the Flourish doesn't take effect immediatly. Instead, you create an elixir or alchemical bomb. You or an ally can then use the number of actions it would take to Perform the Flourish to activate the Flourish and cause it to have its normal effects. The creature that activated the Flourish is treated as the one who Performed the Flourish, except that the Flourish uses you Spell Save DC or Spell attack bonus.
+
+You also learn a Fighting move with the spell trait, but it loses that trait immediatly after you learn it.
+
 ### Armored
 You have trained wearing armor.
 
 You gain proficiency in light armor, medium armor, and shields. If you already had proficiency in light or medium armor, you instead gain proficiency in all armor and shield. If you have proficiency in medium or heavy armor, you ignore the speed penalty from wearing armor. If you already were proficient in all armor, you also gain a +1 circumstance bonus to ac while wearing armor instead.
+
+### Artificer
+You are a masterful creator of technological wonders and can use them to devastating effect.
+
+When you learn a Fighting Move, Skill Feat, or Flourish that has the Spell trait, it can cause it to lose that trait as you can replicate spells with advanced technology. In addition, whenever you or an ally makes an Ability check, you can use your reaction to create a minor invention to help. The target then gains a +1 circumstance bonus to the triggering check.
 
 ### Assassin
 You've trained to assassinate your foes, and you do so with tenacity and precision.
@@ -23,6 +35,11 @@ Bards are inspiring muscisians who uses music to guide their magical powers.
 
 You can inspire others through your music. As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 such die at a time. You can use this ability a number of times equal to your charisma modifier. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
 
+### Cleric
+Deities work their will upon the world in infinite ways, and you serve as one of their most stalwart mortal servants. Blessed with divine magic, you live the ideals of your faith, adorn yourself with the symbols of your church, and wield powers to heal and protect your allies.
+
+Choose a diety. Once per day, when you make a skill check to advance your deity's goals, you can choose to gain a +5 circumstance bonus to the check. In addition, you learn a Flourish with the Spell and heal or buff traits. Whenever you Perform a Flourish that restore hit points, you gain a +2 circumstance bonus to the hit points restored.
+
 ### Climber
 You are an adept climber. You gain a climbing speed of 6m. If you already have a climbing speed, increase your climbing speed by 6m.
 
@@ -34,7 +51,7 @@ When a target is affected by a Fighting Move with the Cold trait, they take a -2
 ### Druid
 Druids are wielder of the powers of nature. They revere nature above all, gaining their spells from the force of nature itself.
 
-You can call down the elemental forces of nature and emulate the creatures of nature. As a Quick action, You can transform into a Medium animal. You can decide the specific type of animal(such as a bear or wolf), but this has no effect on the form's Size or statistics. When you transform, you gain 10 temporary hit points. While transformed, you can't use any equipment that doesn't fit your new form and you can't wield any weapons. The only Strikes you can make a Strike that deals 1d10 damage of a type chosen when you transformed and a Strike that deals 1d8 damage of a type chosen when you transformed and has the Agile trait. In addition, you learn a FightingMove with the nature, beast, or plant trait, or a trait corresponding to one of the elemental damage types (acid, cold, fire, lightning, poison, and thunder)
+You can call down the elemental forces of nature and emulate the creatures of nature. As a Quick action, You can transform into a Medium animal. You can decide the specific type of animal(such as a bear or wolf), but this has no effect on the form's Size or statistics. When you transform, you gain 10 temporary hit points. While transformed, you can't use any equipment that doesn't fit your new form and you can't wield any weapons. The only Strikes you can make a Strike that deals 1d10 damage of a type chosen when you transformed and a Strike that deals 1d8 damage of a type chosen when you transformed and has the Agile trait. In addition, you learn a Fighting Move with the nature, beast, or plant trait, or a trait corresponding to one of the elemental damage types (acid, cold, fire, lightning, poison, and thunder)
 
 ### Dual-wielder
 You wield two weapons and use them to attack your enemies in a flurry of strikes.
@@ -83,4 +100,11 @@ You are an adept swimmer. You gain a swimming speed equal to your walking speed.
 ### Unarmored fighter
 You dislike the bulk of armor and therefore have trained to fight unarmored.
 
-While unarmorered, you gain a +1 circumstance bonus to AC. If you have proficiency in light armor, the circumstance bonus increases to +2, or to +3, if you also have proficiency in heavy armor. You also gain a +2 circumstance bonus to reflex saves while unarmored.
+While unarmorered, you gain a +1 circumstance bonus to AC. If you have proficiency in light armor, the circumstance bonus +increases to +2, or to +3, if you also have proficiency in heavy armor. You also gain a +2 circumstance bonus to reflex saves while unarmored.
+
+### Wizard
+You are an versatile student of the arcane arts, using your mastery of magic to cast powerful and devastating spells.
+
+Your studies have granted you greater flexibility with your spells. When you Perform a Flourish with the Spell trait that can be used three times per day, you can choose to instead expend a use of a different Flourish with the Spell trait that can be used three times per day. 
+
+In addition, once per day, you can Perform a Flourish with the spell trait that can be used three times per day without expending a use of the Flourish.

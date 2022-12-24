@@ -16,6 +16,11 @@ Buff, Spell\
 1 action\
 Blessings from beyond help your companions strike true. Each creature of your choice within 12m of you gains a +1 status bonus to attack rolls and damage rolls for 1 minute. You can use this Flourish three times per day.
 
+### Burning Inferno
+Fire, Spell\
+2 actions\
+Waves of flames expands outwards from you. Each creature other than you within 10m of you must make a Dexterity saving throw or take 6d6 fire damage. For the next minute, each creature other than you that starts its turn in the area must make a Dexterity saving throw or take 4d6 fire damage.
+
 ### Chef
 Heal, Buff\
 10 minutes\
