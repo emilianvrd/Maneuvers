@@ -4,17 +4,12 @@
 ### Archer's Aim
 Ranged\
 1 action\
-You slow down, focus, and take a careful shot. Make a Ranged Strike. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed or hidden condition.
+You slow down, focus, and take a careful shot. Make a Ranged Strike. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed or hidden condition and any circumstance bonus to the targets AC provided by cover.
 
 ### Battle Medecine
 Heal\
 1 action\
 You can patch up wounds, even in combat. Attempt a DC 15 Medecine check. On a success, a target within 2m of you regains 4d8+4 hp. You can use this Flourish three times per day.
-
-### Bestial transformation
-Nature, Polymorph, Spell\
-Quick action\
-You partly transform into a terrifying beast. For 1 minute, you can't perform any flourishes and takes a -2 status penalty to all intelligence saving throws. During this time, you can use an action to make an Strike that deals 1d12 + 5 slashing damage. You use a +7 attack modifier for this Strike, which increases to +8 at 2nd level, +9 at 4th level, +10 at 6th level, +11 at 8th level, and +12 at 10th level. The damage for this Strike increases to 1d12 + 7 at 4th level, and to 1d12 + 10 at 8th level.
 
 ### Bless
 Buff, Spell\
@@ -24,24 +19,19 @@ Blessings from beyond help your companions strike true. Each creature of your ch
 ### Burning Inferno
 Fire, Spell\
 2 actions\
-Waves of flames expands outwards from you. Each creature other than you within 10m of you must make a Dexterity saving throw or take 4d6 fire damage. For the next minute, each creature other than you that starts its turn in the area must make a Dexterity saving throw or take 4d6 fire damage. 
+Waves of flames expands outwards from you. Each creature other than you within 10m of you must make a Dexterity saving throw or take 4d6 fire damage. For the next minute, each creature other than you that starts its turn in the area must make a Dexterity saving throw or take 4d6 fire damage. You can use this flourish three times per day.
 
 ### Chef
 Heal, Buff\
 10 minutes\
 You know how to cook delicious and restorative foods. By spendig 10 minutes cooking food, you can create food for up to 10 people. A person that spends a minute eating the food regains 20hp and gains a +1 status bonus to attack rolls for 1 hour.
 
-You can cook food in this way once per day,
-
-### Combat Grab
-Grapple\
-1 action\
-You combine a quick attack with a grappling move. Make a Melee Strike while keeping one hand free. On a hit, the target becomes grappled by you. You can use this Flourish three times per day.
+A person can benefit from this flourish only once per day.
 
 ### Cone of Cold
 Cold, Spell\
 2 actions\
-Icy cold rushes forth from your hands. Each creature in a 24m cone must make a Constitution saving throw against your Spell save DC or take 6d8 cold damage. On a critical failure, the target is encased in ice and restrained until the end of its next turn. You can use this Flourish three times per day.
+Icy cold rushes forth from your hands. Each creature in a 24m cone must make a Might saving throw against your Spell save DC or take 6d8 cold damage. On a critical failure, the target is encased in ice and restrained until the end of its next turn. You can use this Flourish three times per day.
 
 ### Dazing Blow
 Daze\
@@ -86,11 +76,10 @@ Polymorph, Spell\
 2 actions\
 You quickly transform into a dragon and uses its devastating breath weapon. Each creature of your choice in a 12m cone or 30m line (your choice), takes 6d8 acid, cold, fire, lighning, or poison damage (your choice, the Spell gains the matching trait).
 
-
 ### Earth Ripple
 Earth, Nature, Spell\
 2 actions\
-you cause spikes to rise from the ground around you. Each creature within 12m of you must make a Dexterity saving throw or take 4d10 bludgeoning damage and be grappled until the end of it's next turn by the spike. The target can use an action to free itself.
+you cause spikes to rise from the ground around you. Each creature within 12m of you must make a Dexterity saving throw or take 4d10 piercing damage and be grappled until the end of it's next, as it is impaled by the spike. The target can use an action to free itself.
 
 ### Earthen Grasp
 Earth, Nature, Spell\
@@ -165,7 +154,7 @@ You spend 10 minutes inspriring your companions. Up to 10 creatures who listened
 ### Knockdown
 Prone\
 Quick action\
-You attempt to knock a foe off balance. Make a Melee Strike. On a hit, the target is also knocked prone. You can use this Flourish three times per day.
+You attempt to knock a foe off balance. Make a Melee Strike. On a hit, instead of dealing damage, the target is knocked prone. You can use this Flourish three times per day.
 
 ### Lightning Bolt
 Lightning, Spell\
@@ -185,10 +174,12 @@ You make a powerful shot that pierces everything it hits. Each creature and obje
 ### Plant Growth
 Nature, Spell\
 2 actions\
-You cause plants to grow from the ground in an 10m cube centered at a point within 30m of you. The area in the cube becomes overgrown with plant and moving 1m in the area costs 4m of movement. The plants also provide lesser Cover (+1 bonus to AC, +1 Stealth) against attacks coming in or out.
+You cause plants to grow from the ground in an 10m cube centered at a point within 30m of you. The area in the cube becomes overgrown with plant and moving 1m in the area costs 4m of movement. The plants also provide lesser Cover (+1 bonus to AC, +1 Stealth) against attacks coming in or out. You 
+can use this Flourish three times per day.
 
 ### Quaking Stomp
 Earth, Nature, Spell\
+2 actions.
 You stomp the ground with such force that it creates a minor earthquake. Each creature within 30m of you must make a Might saving throw. On a failure, a target takes 4d12 bludgeoning damage and is knocked prone. Objects and structures in the area takes the same amount of damage (no save). You can use this Flourish three times per day.
 
 ### Rapid Fire
@@ -223,14 +214,14 @@ You grace your allies' mind, boosting their mental defenses and healing their wo
 ### Spellstrike
 Spell\
 2 actions\
-Your have learnd how to channel magic into you strikes. You expend a use of a different Flourish that requires you to make a Spell attack and make an Strike. Your Spell is coupled with your attack, using your attack roll result to determine the effects of both the Strike and the Flourish. 
+Your have learned how to channel magic into you strikes. You expend a use of a different Flourish that requires you to make a Spell attack and make an Strike. Your Spell is coupled with your attack, using your attack roll result to determine the effects of both the Strike and the Flourish. 
 
 You can use this Flourish three times per day. 
 
 ### Sunbeam
 Blinded, Light, Radiant, Spell\
 2 actions\
-A beam of brilliant light flashes out from your hand in a 2m wide, 24m long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 5d8 radiant damage and is dazzled until the start of your next turn. On a successful save, it takes half as much damage and isn’t dazzled by this Spell. 
+A beam of brilliant light flashes out from your hand in a 2m wide, 24m long line. Each creature in the line must make a Might saving throw. On a failed save, a creature takes 5d8 radiant damage and is dazzled until the start of your next turn. On a successful save, it takes half as much damage and isn’t dazzled by this Spell. 
 
 This Spell dispels any darkness in its area that was created by a Spell. 
 
@@ -272,7 +263,7 @@ Your incredible skill with your weapons unnerves your foes. Make a Melee Strike.
 ### Wall of Ice
 Cold, Wall, Spell\
 2 actions\
-You sculpt a barrier of ice  within 30m of you that blocks sight and, once shattered, freezes foes. You create either a 1-meter-thick wall of ice in a straight line up to 20m long and 4m high (the wall doesn't have to be vertical, but it must be anchored on both sides to a solid surface) or a 1m thick, 4m radius hemisphere of ice. The ice that makes up the wall is opaque. If you wish, the wall can be of a smaller length, height, or radius. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the Spell is lost.
+You sculpt a barrier of ice within 30m of you that blocks sight and, once shattered, freezes foes. You create either a 1-meter-thick wall of ice in a straight line up to 20m long and 4m high (the wall doesn't have to be vertical, but it must be anchored on both sides to a solid surface) or a 1m thick, 4m radius hemisphere of ice. The ice that makes up the wall is opaque. If you wish, the wall can be of a smaller length, height, or radius. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the Spell is lost.
 
 Each 4m by 4m section of the wall has AC 15, and 25 Hit Points, and it's immune to critical hits, cold damage, and precision damage. A section also has weakness to fire 10; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 2d6 cold damage to any creature passing through it.
 

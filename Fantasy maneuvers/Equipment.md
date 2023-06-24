@@ -91,7 +91,7 @@ Armor increases your character’s defenses, but some medium or heavy armor can 
 | Javelin | Thrown | 1d6P | 12m | 1kg | 2sp |
 
 
-#### *artial Weapons
+#### Martial Weapons
 | Name | Traits | Damage | Range | Weight | Price |
 |---|---|---|---|---|---|
 | Arquebus | Concussive, Fatal d12, Knockback, Two-handed | 1d8P | 50m | 5kg | 80sp |

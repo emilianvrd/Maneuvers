@@ -23,7 +23,7 @@ Once per day, you can use an action to immediatly regain 5hp.
 
 #### Cyborg
 Technological\
-You gain resistance 5 to poison damage and doesn't need to breathe. In addition you can affix items, such as weapons or armor, to your body. This takes 1 hour. An affixed item can't be removed from you by anyone else. You can remove an affixed item by spending 1 hour carefully taking it off. Increase the damage die of an intergrated weapon by one step.
+You gain resistance 5 to poison damage and doesn't need to breathe. In addition you can affix items, such as weapons or armor, to your body. This takes 1 hour. An affixed item can't be removed from you by anyone else. You can remove an affixed item by spending 1 hour carefully taking it off. Increase the damage die of an integrated weapon by one step.
 
 ### Armored
 You have trained wearing armor.
@@ -57,5 +57,5 @@ You attempt to knock a foe off balance. Make a Melee Strike. On a hit, the targe
 ### Sweeping Charge
 Movement\
 1 action\
-You charge forward, hitting every foe. Move up to twice your speed, making a Melee Strike against every creature of your choice that is or was within your reach at any point during your move. This move doesn't provoke oppotunity attacks, You can use this Flourish three times per day. 
+You charge forward, hitting every foe. Move up to twice your speed, making a Melee Strike against every creature of your choice that is or was within your reach at any point during your move. This move doesn't provoke opportunity attacks. You can use this Flourish three times per day. 
 

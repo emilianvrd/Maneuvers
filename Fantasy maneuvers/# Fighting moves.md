@@ -24,6 +24,11 @@ You make a powerful strike to push your foe away. Make a Melee Strike with a two
 1 action\
 You make a telegraphed attack to learn about your foe. Make a Melee Strike. On a hit, you can immediately attempt a check to Recall Knowledge about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge. 
 
+### Combat Grab
+Grapple\
+1 action\
+You combine a quick attack with a grappling move. Make a Melee Strike while keeping one hand free. On a hit, the target becomes grappled by you. 
+
 ### Cover Fire
 Ranged\
 1 action\
@@ -139,7 +144,7 @@ You quickly draw your weapon. You immediatly draw a weapon.
 ### Quick Jump
 Movement\
 1 action\
-You can use High Jump and Long Jump as a single action instead of 2 actions. If you do, you don’t perform the initial Stride (nor do you fail if you don’t Stride 10 feet).
+You can use High Jump and Long Jump as a single action instead of 2 actions. If you do, you don’t perform the initial Stride (nor do you fail if you don’t Stride 10 feet). In addition, you increase the vertical distance you move when you High Jump by 2m and the horizontal distance you move when you Long Jump by 4m.
 
 ### Radiant Strike
 Radiant\

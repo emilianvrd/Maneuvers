@@ -7,15 +7,15 @@ Buff\
 You strike a specific point to help your ally's attack. Make a Strike with a weapon you are wielding. On a hit, the target takes a -2 circumstance penalty to AC against the first Strike made by an ally before the start of your next turn.
 
 ### Called Strike
-    • You target a specific area of your foe's anatomy to debilitating effect. As a two-action activity, declare a part of your foe's anatomy to target and make a ranged weapon Strike. If you hit and deal damage, the target takes one of the following effects, based on the body part you targeted. The GM should use the stated effects as a guideline when attacking creatures with stranger anatomy—for instance, applying the “arms” effect to a creature's tentacles if those are what the creature uses to attack.
-    • Arms The target is enfeebled 2 until the end of your next turn. On a critical hit, it's also enfeebled 1 for 1 minute.
-    • Head The target is stupefied 2 until the end of your next turn. On a critical hit, it's also stupefied 1 for 1 minute.
-    • Legs The target takes a –3-meter status penalty to its Speeds until the end of your next turn. On a critical hit, it also takes a –1.5-meter status penalty to its Speeds for 1 minute.
-    • Wings If the target is flying using its wings, it immediately falls 8m (4 squares), or 12 on a critical hit. The fall is gradual enough that if the target hits the ground, it takes no damage from the fall.
+You target a specific area of your foe's anatomy to debilitating effect. As a two-action activity, declare a part of your foe's anatomy to target and make a Strike. If you hit and deal damage, the target takes one of the following effects, based on the body part you targeted. The GM should use the stated effects as a guideline when attacking creatures with stranger anatomy—for instance, applying the “arms” effect to a creature's tentacles if those are what the creature uses to attack.
+* **Arms** The target is enfeebled 2 until the end of your next turn. On a critical hit, it's also enfeebled 1 for 1 minute.
+* **Head** The target is stupefied 2 until the end of your next turn. On a critical hit, it's also stupefied 1 for 1 minute.
+* **Legs** The target takes a –3-meter status penalty to its Speeds until the end of your next turn. On a critical hit, it also takes a –1.5-meter status penalty to its Speeds for 1 minute.
+* **Wings** If the target is flying using its wings, it immediately falls 8m (4 squares), or 12 on a critical hit. The fall is gradual enough that if the target hits the ground, it takes no damage from the fall.
 
 ### Certain Strike
-Even when you don’t hit squarely, you can still score a glancing blow. As an action, make a Strike. It gains the following failure effect.
-Failure: Your attack deals any damage it would have dealt on a hit, except you roll the lowest possible number on any dice the attack would deal. 
+Even when you don’t hit squarely, you can still score a glancing blow. As an action, make a Strike. It gains the following failure effect.\
+**Failure**: Your attack deals any damage it would have dealt on a hit, excluding all damage dice.
 
 ### Combat assessment
 1 action\
