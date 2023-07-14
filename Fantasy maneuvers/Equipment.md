@@ -10,18 +10,18 @@ Armor increases your character’s defenses, but some medium or heavy armor can 
 
 |  Name | Category |  Traits | Price  | Base AC  |  Dex cap | Check penalty | Speed penalty | Might | Weight | Group |
 |---|---|---|---|---|---|---|---|---|---|---|
-|  Unarmored | Unarmored | — | — | 8 | — | — | — | — | — | — |
-| Explorers clothing | Unarmored | Comfort | 1sp | 8 | +5 | — | — | — | 1kg | Cloth |
-| Padded armor | Light | Comfort | 2sp | 9 | +4 | — | — | — | 3kg | Cloth |
-| Leather armor | Light | — | 2gp | 9 | +4 | -1 | — | — | 3kg | Leather |
-| Studded leather | Light | — | 3gp | 10 | +3 | -1 | — | +0 | 4kg | Leather |
-| Chain shirt | Light | Flexible, Noisy | 4gp | 10 | +3 | -2 | -2m | +0 | 2kg | Chain |
-| Hide armor | Medium | — | 2gp | 11 | +2 | -2 | -2m | +1 | 5kg | Cloth |
-| Scale mail  | Medium | — | 4gp | 11 | +2 | -2 | -2m | +1 | 5kg | Composite |
-| Chain mail | Medium | Flexible, Noisy | 5gp | 12 | +1 | -2 | -2m | +2 | 8kg | Mail |
-| Breasplate | Medium | — | 6gp | 12 | +1 | -2 | -2m | +2 | 6kg | Plate |
-| Splint | Heavy | — | 7gp | 13 | +1 | -3 | -4m | +3 | 25kg | Composite |
-| Plate | Heavy | — | 8gp | 14 | +0 | -3 | -4m | +3 | 30kg | Plate |
+|  Unarmored | Unarmored | — | — | 10 | — | — | — | — | — | — |
+| Explorers clothing | Unarmored | Comfort | 1sp | 10 | +5 | — | — | — | 1kg | Cloth |
+| Padded armor | Light | Comfort | 2sp | 11 | +4 | — | — | — | 3kg | Cloth |
+| Leather armor | Light | — | 2gp | 11 | +4 | -1 | — | — | 3kg | Leather |
+| Studded leather | Light | — | 3gp | 12 | +3 | -1 | — | +0 | 4kg | Leather |
+| Chain shirt | Light | Flexible, Noisy | 4gp | 12 | +3 | -2 | -2m | +0 | 2kg | Chain |
+| Hide armor | Medium | — | 2gp | 13 | +2 | -2 | -2m | +1 | 5kg | Cloth |
+| Scale mail  | Medium | — | 4gp | 14 | +2 | -2 | -2m | +1 | 5kg | Composite |
+| Chain mail | Medium | Flexible, Noisy | 5gp | 14 | +1 | -2 | -2m | +2 | 8kg | Mail |
+| Breasplate | Medium | — | 6gp | 14 | +1 | -2 | -2m | +2 | 6kg | Plate |
+| Splint | Heavy | — | 7gp | 15 | +1 | -3 | -4m | +3 | 25kg | Composite |
+| Plate | Heavy | — | 8gp | 16 | +0 | -3 | -4m | +3 | 30kg | Plate |
 
 ## Weapons
 ### Melee Weapons:
@@ -73,7 +73,7 @@ Armor increases your character’s defenses, but some medium or heavy armor can 
 | Sword | Versatile P | 1d8S | 2kg | 10sp |
 | Shield Bash | Shove, Shield | 1d6B | — | — |
 | Shortsword | Finesse, Light, Versatile S | 1d6P | 1kg | 8sp |
-| Trident | Thrown 8m | 1d8P | 2kg | 10sp |
+| Trident | Thrown 10m | 1d8P | 2kg | 10sp |
 | Whip | Disarm, Nonlethal, Reach, Trip | 1d4S | 0.5kg | 1sp |
 
 ### Ranged Weapons
@@ -85,8 +85,8 @@ Armor increases your character’s defenses, but some medium or heavy armor can 
 | Air repeater | — | 1d4P | 12m | 1kg | 30sp |
 | Blowgun | Nonlethal | 1P | 8m | 0.1kg | 1sp |
 | Dart | Light, Thrown | 1d4P | 8m | 0.1kg | 1cp |
-| Dueling pistol | Concussive, Fatal d8 | d4P | 10m | 1kg | 20sp |
-| Fire lance | Fatal d10, Two-handed | 1d6p | 4m | 1kg | 30sp |
+| Dueling pistol | Concussive, Fatal d8 | 64P | 10m | 1kg | 20sp |
+| Fire lance | Fatal d10, Two-handed | 1d8p | 4m | 1kg | 30sp |
 | Light crossbow | Two-handed | 1d8p | 20m | 3kg | 10sp |
 | Javelin | Thrown | 1d6P | 12m | 1kg | 2sp |
 
@@ -94,14 +94,15 @@ Armor increases your character’s defenses, but some medium or heavy armor can 
 #### Martial Weapons
 | Name | Traits | Damage | Range | Weight | Price |
 |---|---|---|---|---|---|
-| Arquebus | Concussive, Fatal d12, Knockback, Two-handed | 1d8P | 50m | 5kg | 80sp |
-| Blunderbuss | Concussive, Scatter 4m, Two-handed | 1d8P | 16m | 5kg | 50sp |
-| Coat Pistol | Concealable, Concussive, Fatal d8 | 1d4P | 12m | 2kg | 30sp |
-| Dragon mouth pistol | Concussive, Scatter 2m | d6 | 10m | 3kg | 40sp |
-| Flintlock musket | Concussive, Fatal d12, Two-handed | 1d8P | 30m | 4kg | 50sp |
-| Flintlock pistol | Concussive, Fatal d10 | 1d6P | 20m | 2kg | 30sp |
-| Hand cannon | Versatile, P, S | 1d6B | 20m | 3kg | 30sp |
-| Heavy crossbow | — | 1d10P | 40m | 5kg | 10sp |
+| Arquebus | Concussive, Fatal d12, Knockback, Two-handed | 1d10P | 50m | 5kg | 80sp |
+| Blunderbuss | Concussive, Scatter 4m, Two-handed | 1d10P | 16m | 5kg | 50sp |
+| Coat Pistol | Concealable, Concussive, Fatal d8 | 1d6P | 12m | 2kg | 30sp |
+| Dragon mouth pistol | Concussive, Scatter 2m | 1d8P | 10m | 3kg | 40sp |
+| Flintlock musket | Concussive, Fatal d12, Two-handed | 1d10P | 30m | 4kg | 50sp |
+| Flintlock pistol | Concussive, Fatal d10 | 1d8P | 20m | 2kg | 30sp |
+| Hand cannon | Versatile P | 1d8B | 20m | 3kg | 30sp |
+| Heavy crossbow | — | 2d6P | 40m | 5kg | 10sp |
+| Light pistol | Fatal d10, Light | 1d8B | 12m | 1kg | 20sp |
 | Longbow | Deadly d12, Propulsive, Volley 10m | d10P | 40m | 4kg | 30sp |
 | Shortbow | Deadly d10, Propulsive | d8P | 30m | 3kg | 25sp |
 | Sling staff | Propulsive | d10B | 20m | 2kg | 20sp |
