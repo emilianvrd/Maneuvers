@@ -23,22 +23,22 @@ Once per day, you can choose to empower a Flourish with the spell trait you are 
 ### Archmage
 Archmages are masters of all types of magic and you are now one of them.
 
-Once per day, you can perform a Flourish with the Spell without expending a use of it. You do not need to have the Flourish to perform it in this way.
+Once per day, you can perform a Flourish with the Spell trait. You do not need to have the Flourish or expend a use of it to perform it in this way.
 
 ### Armored
 You have trained wearing armor.
 
-You gain proficiency in light armor, medium armor, and shields. If you already had proficiency in light or medium armor, you instead gain proficiency in all armor and shield. If you had proficiency in medium or heavy armor, you ignore the speed penalty from wearing armor. If you already were proficient in all armor, you also gain a +1 circumstance bonus to AC while wearing armor.
+You gain proficiency in light armor and medium armor. If you already had proficiency in light or medium armor, you instead gain proficiency in all armor and shield. If you had proficiency in medium or heavy armor, you ignore the speed penalty from wearing armor. If you already were proficient in all armor, you also gain a +1 circumstance bonus to AC while wearing armor.
 
 ### Artificer
 You are a masterful creator of technological wonders and can use them to devastating effect.
 
-When you learn a Fighting Move, skill feat, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with advanced technology. In addition, whenever you or an ally makes an Ability check, you can use your reaction to create a minor invention to help. The target then gains a +1 circumstance bonus to the triggering check.
+When you learn a Fighting Move, Skill Feat, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with advanced technology. In addition, whenever you or an ally makes an Ability check, you can use your reaction to create a minor invention to help. The target then gains a +1 circumstance bonus to the triggering check.
 
 ### Artillerist
-An artillerist specializes in using heavy weaponry to devastating effect.
+An artillerist specializes in using heavy siege weaponry to devastating effect.
 
-You have crafted yourself a special cannon. The cannon is a Large object with 50 hp and 15 AC. As an action while the cannon is within 12m of you, you can cause the cannon to move up to 12m. In addition, when you perform a Fighting move or Flourish that deals damage and you cannon is within 12m of you, you can cause the effect to originate from the cannon instead of you. If you cause a Flourish to originate from the cannon instead, you gain a +2 item bonus to the damage.
+You have crafted yourself a special cannon or other siege weaponry. The cannon is a Large object with 50 hp and 15 AC. As an action while the cannon is within 12m of you, you can cause the cannon to move up to 12m. In addition, when you perform a Fighting move or Flourish that deals damage and you cannon is within 12m of you, you can cause the effect to originate from the cannon instead of you. If you cause a Flourish to originate from the cannon instead, you gain a +2 item bonus to the damage.
 
 ### Assassin
 You've trained to assassinate your foes, and you do so with tenacity and precision.
@@ -50,15 +50,22 @@ Bariarians are fierce warriors of primitive backround who can enter a battle rag
 
 As a Quick action, you can enter into a raging frenzy. If you do, you gain 5 temporary hit points and for 1 minute, you gain a +1 status bonus to Might checks and to damage rolls that add your Might. You can't wear heavy armor while using this ability. Once you activitate this ability, you can't use it again until 10 minutes have passed.
 
-### Battlesmith
-Masters of forging, battlesmiths forge razor-sharp weapons and unbreakable armor.
+### Bastion
+Some say offense is the best defense, but you know better. The best defense is a massive shield between you and your enemies.
 
-You can spend one minute enhancing a weapon or a suit of armor. if you enhance a weapon, the weapon gains a +1 item bonus to the damage it deals. If you enhance a suit of armor, giving its wearer a +1 circumstance to AC.
+You increase the circumstance bonus to AC provided by a shield by 1. In addition, you reduce the speed penalty due to wielding a shield by 2m (minimum 0).
+
+### Battlesmith
+Masters of forging, battlesmiths create razor-sharp weapons and unbreakable armor.
+
+You can spend one minute enhancing a weapon or a suit of armor. if you enhance a weapon, the weapon gains a +1 item bonus to the damage it deals. If you enhance a suit of armor it gives its wearer a +1 circumstance to AC.
 
 In any case, if you try to enhance a second item, the previous item immediatly loses its enhancement.
 
+In addition, you reduce the cost and time requiered to Craft an item by 20%.
+
 ### Bard
-Bards are inspiring muscisians who uses music to guide their magical powers.
+Bards are inspiring musicians who uses music's force to guide their magical powers.
 
 As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 such die at a time. You can use this ability a number of times equal to your charisma modifier per day. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
 
@@ -106,7 +113,7 @@ Druids are wielder of the powers of nature. They revere nature above all, gainin
 
 You can comprehend and communicate with plants and animals with an intelligence equal to or lower than -3, though they may be limited in their comprehension by their intelligence. You also ignore natural difficult terrain and greater difficult terrain.
 
-In addition, you learn a Fighting Move with the nature, beast, or plant trait, or a trait corresponding to one of the elemental damage types (acid, cold, fire, lightning, poison, and thunder)
+In addition, you learn a Fighting Move with the Nature, Beast, or Plant trait, or a trait corresponding to one of the elemental damage types (Acid, Cold, Fire, Lightning, Poison, and Thunder)
 
 ### Dual-wielder
 You wield two weapons and use them to attack your enemies in a flurry of strikes.
@@ -173,6 +180,11 @@ When you perform a Fighting move with the Fire trait, you gain a +1 circumstance
 You never miss a shot, no matter the distance.
 
 You ignore the penalty from attacking an enemy within your second range increment and the penalty for each increment after the second one is -1 for each range increment, instead of -2 for each range increment after the first. In addition, the range increment of any weapon you wield increases by 10m.
+
+### Shieldmaster
+You use your shield both for protecting yourself and your allies, and sometimes even for offense.
+
+When an ally within 2m of you is hit by a Strike, you can use your reaction to interpose the shield, giving the ally the shields circumstance bonus to AC. In addition, 
 
 ### Sniper
 Shooting distant enemies from hiding without being noticed is your specialty. 

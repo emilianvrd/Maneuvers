@@ -1,7 +1,7 @@
 # Ancestries
 Your character’s ancestry determines which people they call their own, whether it’s diverse and ambitious humans, insular but vivacious elves, traditionalist and family-focused dwarves, or any of the other folk who call Golarion home. A character’s ancestry and their experiences prior to their life as an adventurer—represented by a background—might be key parts of their identity, shape how they see the world, and help them find their place in it.
 
-## Dwarves
+## Dwarf
 
 *Dwarves have a well-earned reputation as a stoic and stern people, ensconced within citadels and cities carved from solid rock. While some see them as dour and humorless crafters of stone and metal, dwarves and those who have spent time among them understand their unbridled zeal for their work, caring far more about quality than quantity. To a stranger, they can seem untrusting and clannish, but to their friends and family, they are warm and caring, their halls filled with the sounds of laughter and hammers hitting anvils.*
 
@@ -759,3 +759,89 @@ Fierceness in battle runs through your blood, and you refuse to fall from your i
 
 **Winter Orc**
 Your ancestors survived in cold climates. You become trained in Survival, and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+
+## Warforged
+*Warforged are armored constructs created for war and violence. The first warforged were mindless automatons, but an unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. While originally built for war, many have found a calling outside of these brutal environments, or been abandoned after the war has ended. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.*
+
+Warforgeds are powerful constructs created with ancient technology from past human civilisations. They take on a variety of different forms, ranging from almost human to a tank with retractable pincers. Their strength, cunning, and versatility make them extraordinarily great combatants, and some nations have therefore created squadrons of these robots, despite their elevated cost. 
+
+**You might:**
+- Plan ahead, preparing multiple contingencies for even simple tasks.
+- Calculate the repercussions of your actions, inventions, and thoughts before sharing them.
+- See the logical value of everything
+
+**Others probably**
+- See you a only fit for war
+- Marvel at the extraordinary technology used to create you
+- View you as a mindless, emotionless killing machine
+
+**Physical description**
+Warforged have a wooden core covered partially with shining steel plates. Glowing green weins go through their green and brown bodies. Beyond this, warorged have drastically different appearences. Some barely reach the waist of a human, while others stand over 5 meters tall. They are generally very heavy for their size, weighing between 50 kilos for the small ones, to multiple tons. 
+
+Warforged are created to have similar senses to most demi- and near-humans. They can detect light, sound, and have many touch detectors located on their bodies. Since warforged are constructs, they are immune to dying of old age and can theoretically live forever with constant repairs.
+
+**History**
+Around 30 years ago, a group of explorers discovered what looked like an ancient battlefield littered with millions of partly destroyed robots. The technology used in constructing these robots had been partially preserved by their adamantine shells. By reverse-engineering these robots, the Alliance of worlds were able to create the warforgeds. Shortly after being built, they were implemented into almost all nations’ armies and managed to drive the pitnarcs away from Near space.
+
+**Society**
+Warforged have no society on their own as most live as soldiers in service to different nations, or organizations. Some warforgeds also work as bounty hunters, or have gained independence when their creator or employer died. A few warforged communities are also found in large cities in previously war-ravaged countries. Many warforgeds in these communities work tirelessy to give warforged the same rights as their biological companions.
+
+**Names**
+Most warforged are simply assigned a number, but they sometimes are given names by their comrades or to blend into society. Warforged names range from common names from any species, to more menacing sounding names.
+AT-5437, Blue-12, Bonebreaker, Eleven, Goldfire, Stonecrusher, Silverclaw, Warsmasher.
+
+**Adventurers**
+While most warforged are remain soldiers, some are created for special operations, while others have become independent. They typically adventure under direct assignment of a military, but some are specifically created to do good and save lives or have separeted from the military that created them.
+
+### Features
+
+**Hit Points**
+8
+
+**Size**
+Small, Medium or Large (your choice)
+
+**Speed**
+10m
+
+**Ability Boosts**
+Might, Intelligence, Free
+
+**Ability Flaws**
+Charisma
+
+**Languages**
+Common\
+You also get additional languages equal to 1 + your Intelligence (if it's positive). 
+
+**Constructed anatomy**
+Thanks to your robotic anatomy, you are immune to poison and disease, and effects that would give you the drained, or sickened conditions. You also don’t need to eat or drink and are immune to effects that would put you to sleep. To rest, you must spend 6 hours in an inert  state, though you remain conscious.
+
+**Damage control**
+You are immune to the dying condition. Unlike most constructs, when reduced to 0 hit points, you become unconscious, but are automatically stabilized (you are still subject to the rules for instant death, such as death effects, and taking more damage than your hit point maximum + your current hit points) If a creature uses a three-action activity to repair you and succeeds at a DC 15 engineering check, you regain 1 hit point. If you remain unconscious for 1d4+1 hours, you regain 1 hit point. Keep track of  the damage taken while at 0 hit points. If, at any point, the total damage taken is greater than half your hit points maximum, you automatically die and are destroyed.
+
+**Electricity vulnerability**
+Due to your constructed nature you gain Weakness 3 to lightning damage.
+
+**Equipment integration**
+You can integrate weapons or armor into your body. To integrate an item, you must spend 1 hour working with the item in your possession. An integrated weapon uses the normal amount of arms a weapon of that type would, but it can’t be disarmed and requires 1 hour of work to take off or on. An integrated armor is melded to your body and can’t be removed by anyone else and it requires 1 hour of work for you to take it off or on. You can sleep in your integrated armor without suffering any penalties.
+
+### Feats
+**Dual Form**
+Your body is specifically modified to being able to change into two different forms. You can use an action to change your shape into a vehicle, or to change back. While in your vehicle form, your walking speed increases by 6 meters (4 squares), but you can only take actions with the move trait and can’t wield weapons. When you transform, you can choose to have your worn equipment be placed in a compartment inside your vehicle form, or to still be worn. 
+    
+**Impersonator**
+Your body was augmented with processes and an appearance intended to blend in with humans more easily. You become trained in Deception (or another skill if you're already trained in Deception). You don't require a disguise kit when attempting Deception checks to Impersonate a human. In addition, you gain a +4 circumstance bonus to Impersonate checks to pretend that you're a human version of yourself, rather than a warforged. This bonus doesn't apply to other checks to Impersonate humans.
+
+**Integrate Equipment**
+You have learned how to integrate Adventuring gear (See Equipment; adventuring gear) into your body. To integrate an item, you must spend 1 hour working with the item in your possession. Any integrated gear can’t be disarmed, requires 1 hour of work to take off or on, and doesn’t occupy any hands. It still takes the normal amount of time or actions to manipulate.
+
+**Metallic body**
+The materials you are composed of resists ailments that attack the flesh. You gain a +1 circumstance bonus against being paralyzed, dazzled, deafened, fatigued, and against saving throws caused by an effect with the Mental trait.
+
+**Night Vision Adapters**
+You have augmented visual processing abilities. You gain Low-Light vision.
+
+**Proximity alert**
+You're unnaturally in tune with your surroundings and react instinctively to danger. You gain a +2 circumstance bonus to Perception checks made as initiative rolls.
+

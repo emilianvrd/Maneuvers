@@ -15,6 +15,17 @@ You can patch up wounds, even in combat. Attempt a DC 15 Medecine check. On a su
 
 You can use this Flourish three times per day.
 
+### Beam of Light
+Blinded, Light, Radiant, Spell\
+2 actions\
+Blinding sunlight flashes in a 20m radius sphere centered on a point you choose within 20m of you. Each creature in that light must make a Might saving throw. On a failed save, a creature takes 5d6 Radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn’t blinded by this Spell.
+
+A creature blinded by this Spell makes another Might saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
+
+This Spell dispels any darkness in its area that was created by a Spell. 
+
+You can use this Flourish three times per day. 
+
 ### Bless
 Buff, Spell\
 1 action\
@@ -92,7 +103,7 @@ You can use this Flourish three times per day.
 ### Dragon Breath
 Polymorph, Spell\
 2 actions\
-You partially into a dragon and exhale destructive energy. Each creature of your choice in a 12m cone or 30m line (your choice), takes 10d6 acid, cold, fire, lighning, or poison damage (your choice, the Spell gains the matching trait).
+You partially into a dragon and exhale destructive energy. Each creature of your choice in a 12m cone or 30m line (your choice), takes 10d6 acid, cold, fire, lightning, or poison damage (your choice, the Spell gains the matching trait).
 
 You can use this Flourish three times per day.
 
@@ -141,6 +152,8 @@ Fire, Spell\
 1 action\
 You wreathe yourself in protective flames. You gain Resistance 5 to Cold damage. In addition, whenever a creature within 2m of you touches you or hits you with a Strike, it takes 2d6 Fire damage.
 
+You can use this Flourish three times per day.
+
 ### Fireball
 Fire, Spell\
 2 actions\
@@ -155,10 +168,17 @@ You light up a weapon you are holding in flames. For 1 minute, you Strikes what 
 
 You can use this Flourish three times per day.
 
+### Fly
+Air, Spell\
+1 action\
+You lift a creature up in the air to let it fly. A creature of your choice within 12m of you gains a flying speed of 12m for 10 minutes. 
+
+You can use this Flourish three times per day.
+
 ### Force Blast
 Force, Spell\
 2 actions\
-You create a blast of pure magic to attack your foes. Each creature in a 12m cone must make a Basic Dexterity saving throw. On a failure, a target takes 8d6 + your Spellcasting ability modifier force damage, is pushed 4m away, and knocked prone. You can use this Flourish three times per day.
+You create a blast of pure magic to attack your foes. Each creature in a 12m cone must make a Basic Dexterity saving throw. On a failure, a target takes 8d6 + your Spellcasting ability force damage, is pushed 4m away, and knocked prone. You can use this Flourish three times per day.
 
 You can use this Flourish three times per day.
 
@@ -197,6 +217,39 @@ You fire a volley at all foes in an area. Make one ranged weapon Strike against 
 
 You can use this Flourish three times per day. 
 
+### Infernal Calling
+Conjuration, Fiend, Spell\
+2 actions\
+You gather diabolic magic to bring forth a devil from hell. When you cast the spell, choose the creature’s form: Conqueror, Corruptor, or Legioneer. This determines some of the creatures statitics, as noted in the creatured stat block. 
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours (including on the turn you summoned it). It obeys your verbal commands (no action required by you). If you issue such a commond or don’t issue any commands, it takes the Dodge action and uses its move to avoid danger. The spell lasts for 1 hour or until dispelled. If the spell lasts for the full hour or you are knocked unconcious while the spell is active, the creature doesn't disappear. Instead, you lose your control over the diabolic spirit and it becomes hostile towards you. 
+
+You can use this Flourish three times per day.
+
+#### Diabolic Spirit
+
+**Traits**: Devil, Fiend, Lawful Evil\
+**Size**: Medium\
+**Languages**: Common, Infernal; Telepathy 12m\
+**Skills**: Deception +6, Intimidation +6, Persuasion +6, Warfare Lore +6\
+Str: +3, Dex: +3, Con: +2, Int: +1, Wis: +0, Cha: +3\
+
+**AC**: 15 (Conqueror and Tempter only), 17 (Legioneer only)\
+**Saving throws**: Str: +3, Dex: +3, Con: +2, Int: +1,Wis: +0, Cha: +3\
+**HP**: 50; **Resistances**: Fire 5, **Weaknesses**: Radiant 5\
+**Reactions**:
+- **Shield Block** (Legioneer only) Trigger: A creature hits the diabolic spirit with a Strike and deals damage to it. Effect: The diabolic spirit interposes its shield, reducing the damage by 3. \
+**Speed**: 10m, Fly 10m
+
+##### Actions
+**Charming Gaze** (Tempter only): The diabolic spirit attemps to corrupt a creature within 12m of it. The creature must succed at a DC 15 Wisdom saving throw or be Charmed by the diabolic spirit and take a -1 penalty to attacks, ability checks, and saving throws for 1 minute. The diabolic spirit also gain a +2 circumstance bonus to Deception and Persuasion checks while Charmed in this way.\
+**Longsword**: Melee attack, +7 to hit (Versatile P), reach 2m. **Damage**: 1d8 + 3 Slashing\
+
+##### Other Features
+**Conqueror's Presence** (Conqueror only): Each other creature of the conquerer's choice within 12m of it gains a +1 circumstance bonus to damage. In addition, whenever the diabolic spirit hits a creature with its Longsword, the target must succed at a DC 12 Wisdom saving throw or become Frightened 1.
+
+**Greater Darkvision** The diabolic spirit with darkvision can see perfectly well in areas of darkness and dim light, including magical darkness.
+
 ### Inspiring speech
 Buff, Mental\
 10 minutes\
@@ -207,7 +260,7 @@ You can use this Flourish three times per day.
 ### Knockdown
 Prone\
 Quick action\
-You attempt to knock a foe off balance. Make a Melee Strike. On a hit, instead of dealing damage, the target is knocked prone. 
+You attempt to knock a foe off balance. Make a Melee Strike. On a hit, the target is also knocked prone. 
 
 You can use this Flourish three times per day.
 
@@ -217,6 +270,69 @@ Lightning, Spell\
 You lauch a bolt of Lightning. Each creature in a 40m line that is 4m wide must make a Dexterity saving throw or take 5d12 Lightning damage on a failure, or become stunned 1 on a critical failure, in addition to doubling the damage, as normal. 
 
 You can use this Flourish three times per day.
+
+### Living Construct
+Conjuration, Spell\
+2 action\
+You magically create a temporary golem to protect your companions and attack your foes. When you cast the spell, choose the creature’s form: Lightning-driven, Spell-driven, or Steam-driven. This determines some of the creatures statitics, as noted in the creatured stat block. The creature disappears when it drops to 0 hit points or when the spell ends. After 1 hour the spell automatically ends.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours (including on the turn you summoned it). It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
+
+You can use this Flourish three times per day.
+
+#### Constructed Spirit
+
+**Traits**: Construct, Lawful Neutral\
+**Size**: Large\
+**Languages**: Common\
+Str: +3, Dex: +1, Con: +3, Int: +2, Wis: -1, Cha: -2\
+
+**AC**: 18\
+**Saving throws**: Str: +3, Dex: +1, Con: +7, Int: +2, Wis: +3, Cha: +2\
+**HP**: 50; **Resistances**: Physical 5, **Weaknesses**: Lightning 5\
+**Heated Body** (Steam-driven only) When the Constructed Spirit takes damage from a creature within 2m of it, the creature takes 1d6 Fire damage.\
+**Speed**: 10m (Steam-driven and Spell-driven only), or 16m (Electricity-driven only)\
+
+##### Actions
+**Slam**: Melee attack, + 4 to hit (Shove), reach 2m. **Damage**: 1d4 + 3 Bludgeoning\
+**Hurl magic** (Spell-driven only): Ranged attack, +4 to hit (Magical), range 20m. **Damage**: 2d6 Force damage\
+**Power Up** (Electricity-driven only): (Lightning) The construct charges itself up. For 1 minute, the construct deals 1 Lightning damage when its hits with a Strike and becomes Quickened 1. After it has used this action, it can't do so again until 10 minutes have passed.
+
+##### Two-action activities
+**Unleash Energy**: (Flourish) The construct unleashes its powering energy. Each creature in a 16m cone must succed at a Dexterity saving throw or take 4d10 Fire (Steam-driven only), Lightning (Electricity damage only), or Force (Spell-driven only) damage. The construct can use this Flourish three times per day.
+
+### Nature's Ally
+Nature, Spell, Conjuration\
+2 actions\
+You conjure spirits from nature which take on the shape of a Medium fey. You determine it's appearence, but it is always clear it is a magical creature strongly attuned to nature. When you cast the spell, choose the creature’s form: Agile, Brutish, or Speedy. This determines some of the creatures statitics, as noted in the creatured stat block. The creature disappears when it drops to 0 hit points or when the spell ends. After 1 hour the spell automatically ends.
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours (including on the turn you summoned it). It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
+
+You can use this Flourish three times per day.
+
+#### Nature Spirit
+
+**Traits**: Fey, Neutral\
+**Size**: Medium\
+**Languages**: Common, Sylvan\
+**Skills**: Nature +5\
+Str: +3, Dex: +3, Con: +1, Int: +0, Wis: +2, Cha: +1\
+
+**AC**: 15\
+**Saving throws**: Str: +2, Dex: +6, Con: +1, Int: +1, Wis: +1, Cha: +1\
+**HP**: 60 (Brutish only) or 50 (Agile and Speedy only); **Resistances**: Poison 5\
+**Reactions**:\
+- **Name** Trigger: Effect:\
+other defenses\
+**Speed**: 12m, 16m (Speedy only)\
+
+#### Actions
+**Bash**: Melee attack, +7 to hit (Trip), reach 2m. **Damage**: 1d8 + 3 Bludgeoning\
+**Quick Cut** (Agile only): Melee attack, +7 to hit (Light, Finesse). **Damage**: 1d4 + 3 Slashing\
+**Thorn** (Agile only): +7 (Light). **Damage**: 1d4 + 3 Piercing\
+
+#### Other features
+**Fast** (Speedy only): The nature spirit is always Quickened 1. It can use this extra action only to Step or Stride. In addition, when the nature spirit Steps, it moves 4m without provoking opportunity attacks\
 
 ### Parting Shot
 Ranged\
@@ -239,10 +355,17 @@ You cause plants to grow from the ground in an 10m cube centered at a point with
 
 You can use this Flourish three times per day.
 
+### Protection from Energy
+Abjuration, Spell\
+1 action\
+You create a shield around a creature to protect it from a type of elemental energy. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder. The target gains resistance 20 to the damage type chosen for 1 hour. 
+
+You can use this Flourish three times per day.
+
 ### Quaking Stomp
 Earth, Nature, Spell\
-2 actions.
-You stomp the ground with such force that it creates a minor earthquake. Each creature within 30m of you must make a Might saving throw. On a failure, a target takes 5d12 Bludgeoning damage and is knocked prone. Objects and structures in the area takes the same amount of damage (no save). 
+2 actions\
+You stomp the ground with such force that it creates a minor earthquake. Each creature within 30m of you must make a Might saving throw. On a failure, a target takes 5d12 Bludgeoning damage and is knocked prone. Objects and structures in the area takes damage as if they have critically failed their saving throw. 
 
 You can use this Flourish three times per day.
 
@@ -265,7 +388,7 @@ Heal, Necromancy, Spell\
 10 minutes\
 You attempt to bring back life to someone recently deceased. Choose the corpse a creature within 10m of you that died within the past 24 hours. If the corpse isn't relatively intact or the creature doesn't want to come back to life, the Flourish fails. 
 
-If the spell is successfull, the creature return to life with 1 hit point, no uses of Flourishes remaining and other resources that recharges after a while, and still with any long-term debiliations of the old body. The creature is also permanently changed by its time in the afterlife, such as a slight personality shift, a streak of white in the hair, or a strange new birthmark.
+If the spell is successfull, the creature return to life with 1 hit point, no remaining uses of Flourishes and other resources that can only be used a limited number of times per day, and still with any long-term debiliations of the old body. The creature is also permanently changed by its time in the afterlife, such as a slight personality shift, a streak of white in the hair, or a strange new birthmark.
 
 You can use this Flourish once per day.
 
@@ -299,7 +422,7 @@ You can use this Flourish three times per day.
 ### Stoneskin
 Abjuration, Earth, Spell\
 1 action\
-A target you touch's skin hardens like stone. It gains resistance 5 to physical damage for 1 minute, except adamantine. 
+A creature you touch's skin hardens like stone. The creature gains resistance 5 to physical damage for 1 minute, except adamantine. 
 
 You can use this Flourish three times per day. 
 
@@ -307,17 +430,6 @@ You can use this Flourish three times per day.
 Blinded, Light, Radiant, Spell\
 2 actions\
 A beam of brilliant light flashes out from your hand in a 2m wide, 24m long line. Each creature in the line must make a Might saving throw. On a failed save, a creature takes 6d8 Radiant damage and is dazzled until the start of your next turn. On a successful save, it takes half as much damage and isn’t dazzled by this Spell. 
-
-This Spell dispels any darkness in its area that was created by a Spell. 
-
-You can use this Flourish three times per day. 
-
-### Sunburst
-Blinded, Light, Radiant, Spell\
-2 actions\
-Blinding sunlight flashes in a 20m radius sphere centered on a point you choose within 20m of you. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 5d6 Radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn’t blinded by this Spell.
-
-A creature blinded by this Spell makes another Might saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
 
 This Spell dispels any darkness in its area that was created by a Spell. 
 
@@ -351,7 +463,7 @@ You can use this Flourish three times per day.
 ### Thunderwave
 Thunder, Spell\
 2 actions\
-A wave of thunderous force sweeps out from you. Each creature in a 6m emenation must make a Constitution saving throw. On a failed save, a creature takes 8d8 thunder damage and is pushed 4m away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
+A wave of thunderous force sweeps out from you. Each creature in a 6m emenation must make a Might saving throw. On a failed save, a creature takes 8d8 thunder damage and is pushed 4m away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the Spell’s effect, and the Spell emits a thunderous boom audible out to 300 feet.
 
@@ -374,11 +486,18 @@ Cold, Wall, Spell\
 2 actions\
 You sculpt a barrier of ice within 30m of you that blocks sight and, once shattered, freezes foes. You create either a 1-meter-thick wall of ice in a straight line up to 20m long and 4m high (the wall doesn't have to be vertical, but it must be anchored on both sides to a solid surface) or a 1m thick, 4m radius hemisphere of ice. The ice that makes up the wall is opaque. If you wish, the wall can be of a smaller length, height, or radius. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the Spell is lost.
 
-Each 4m by 4m section of the wall has AC 15, and 25 Hit Points, and it's immune to critical hits, Cold damage, and precision damage. A section also has weakness to fire 10; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 4d6 Cold damage to any creature passing through it.
+Each 4m by 4m section of the wall has AC 15, and 25 Hit Points, and it's immune to critical hits, Cold damage, and precision damage. A section also has weakness to Fire 10; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 4d6 Cold damage to any creature passing through it.
 
 The wall lasts for 1 minute or umtil completely destroyed.
 
 You can use this Flourish three times per day. 
+
+### Water Breathing
+Nature, Spell, Water\
+1 action\
+You give up to 10 creatures of your choice within 20 of you the ability to breathe air and water, to ignore penalties for attacking underwater and a swimming speed of 10m. These benefits lasts for 1 hour, or until you perform this Flourish again. 
+
+You can use this Flourish three times per day.
 
 ### Weapon Barrage
 Spell\

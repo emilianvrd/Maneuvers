@@ -4,9 +4,9 @@
 ### Acid Splash
 Acid, Spell\
 2 actions\
-You create a globe of acid and splash it at your foes. Each creature in a 10m radius sphere centered at a point within 20m of you must make Dexterity saving throw or take 2d8 acid damage and 2d8 persistent acid damage. 
+You create a globe of Acid and splash it at your foes. Each creature in a 10m radius sphere centered at a point within 20m of you must make Dexterity saving throw or take 2d8 Acid damage and 2d8 persistent Acid damage. 
 
-If you have both hands free, or you are wielding a staff or other spellcasting foci in one hand and the other hand is free while performing this Fighting move, increase the damage of the initial acid damage to 2d10, but not the persistent acid damage.
+If you have both hands free, or you are wielding a staff or other spellcasting foci in one hand and the other hand is free while performing this Fighting move, increase the damage of the initial Acid damage to 2d10, but not the persistent Acid damage.
 
 ### Assisting Strike
 Buff\
@@ -15,7 +15,7 @@ You strike a specific point to help your ally's attack. Make a Strike with a wea
 
 ### Bomb
 1 action\
-You throw a bomb at a a target within 20m of you. Make an Ranged Strike. You can use either Might or Dexterity for this attack (your choice). On a hit, the target takes 1d8 Bludgeoning damage and 1d8   Fire damage. Regardless of if you hit or not, it and each creature and unattended object within 4m of it takes 2   Fire damage. This damage increases by 1 when you reach 4th level and 8th level. If you have both hands free when making this Strike, increase the damage to 1 Bludgeoning damage and 1d10   Fire damage.
+You throw a bomb at a a target within 20m of you. Make an Ranged Strike. You can use either Might or Dexterity for this attack (your choice). On a hit, the target takes 1d8 Bludgeoning damage and 1d8 Fire damage. Regardless of if you hit or not, it and each creature and unattended object within 4m of it takes 2 Fire damage. This damage increases by 1 when you reach 4th level and 8th level. If you have both hands free when making this Strike, increase the damage to 1 Bludgeoning damage and 1d10 Fire damage.
 
 ### Brutal Shove
 Push\
@@ -31,7 +31,7 @@ You carefully align your weapon with the edge of your blade, splitting the proje
 You target a specific area of your foe's anatomy to debilitating effect. As a two-action activity, declare a part of your foe's anatomy to target and make a Strike. If you hit and deal damage, the target takes one of the following effects, based on the body part you targeted. The GM should use the stated effects as a guideline when attacking creatures with stranger anatomy—for instance, applying the “arms” effect to a creature's tentacles if those are what the creature uses to attack.
 * **Arms** The target is enfeebled 2 until the end of your next turn. On a critical hit, it's also enfeebled 1 for 1 minute.
 * **Head** The target is stupefied 2 until the end of your next turn. On a critical hit, it's also stupefied 1 for 1 minute.
-* **Legs** The target takes a –3-meter status penalty to its Speeds until the end of your next turn. On a critical hit, it also takes a –1.5-meter status penalty to its Speeds for 1 minute.
+* **Legs** The target takes a –4 meter status penalty to its Speeds until the end of your next turn. On a critical hit, it also takes a –2 meter status penalty to its Speeds for 1 minute.
 * **Wings** If the target is flying using its wings, it immediately falls 8m (4 squares), or 12 on a critical hit. The fall is gradual enough that if the target hits the ground, it takes no damage from the fall.
 
 ### Certain Strike
@@ -99,12 +99,12 @@ You shoot an exploding projectile. Each creature in a 4m radius sphere centered 
 ### Fire Bolt
 Fire, Spell\
 1 action\
-You create a quick bolt of fire and launch it at a foe. Make a Ranged Spell Attack against a target within 60m of you. On a hit, the target takes 1d6+your Spellcasting modifier   Fire damage.
+You create a quick bolt of fire and launch it at a foe. Make a Ranged Spell Attack against a target within 60m of you. On a hit, the target takes 1d6+your Spellcasting modifier Fire damage.
 
 ### Flame Blade
 Fire, Spell\
 1 action\
-You create a sword of pure fire in an free hand then immediatly attack with it. Make a Melee Attack. On a success, the target takes 1d10 + your Spellcasting ability   Fire damage.
+You create a sword of pure fire in an free hand then immediatly attack with it. Make a Melee Attack. On a success, the target takes 1d10 + your Spellcasting ability Fire damage.
 
 ### Frostbite
 Cold, Spell\
@@ -138,7 +138,7 @@ You attack strikes fear into your foes. Make a Melee Strike. On a successs, the 
 ### Jump attack
 Movement\
 2 actions\
-You have learned how to use the momentum from a jump for extra damage. Make a Long Jump or a High Jump, then make Melee Strike. On a success, you gain a +10 circumstance bonus to damage and the target is pushed 2m away from you. If the Strike was made with a two-handed weapon, increase the circumstance bous to damage to +12.
+You have learned how to use the momentum from a jump for extra damage. Make a Long Jump or a High Jump, then make Melee Strike. On a success, you gain a +10 circumstance bonus to damage and the target is pushed 2m away from you. If the Strike was made with a two-handed weapon, increase the circumstance bonus to damage to +12.
 
 ### Necrotic Strike
 Necromancy, Necrotic, Spell\
@@ -148,7 +148,7 @@ You pour down unholy powers into a weapon you are holding. Make a Melee Strike. 
 ### Necrotic Touch
 Necromancy, Necrotic, Spell\
 1 action\
-You draw the life force out of a target. Make a Melee Spell Attack. On a hit, the target takes 1d8 + your Spellcasting ability necrotic damage and take a -1 status penalty to Might saving throws and be unable regain hit points. Both effects lasts until the start of your next turn.
+You draw the life force out of a target. Make a Melee Spell Attack. On a hit, the target takes 1d8 + your Spellcasting ability necrotic damage and take a -1 status penalty to Might saving throws and be unable regain hit points. Both effects lasts until the end of your next turn.
 
 ### Parrying Strike
 1 action\
@@ -162,7 +162,7 @@ You throw a pebble at a foe. Make Ranged Spell Attack against a foe within 12m o
 ### Piercing Icicle
 Cold, Piercing, Spell\
 1 action\
-You create a sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 Piercing damage and 1 + your Spellcasting ability Cold damage. The d4 is considered the damage die of this Fighting Move.
+You create a sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 Piercing damage and 1 + your Spellcasting ability Cold damage. The 1d4 is considered the damage die of this Fighting Move.
 
 ### Point-Blank Shot
 Ranged\
@@ -171,12 +171,12 @@ You take aim to pick off nearby enemies quickly. Make a Ranged Strike against a 
 
 ### Power Attack
 2 actions\
-You unleash a particularly powerful attack that clobbers your foe. Make a Melee Strike with a two handed weapon you are wielding. On a hit, the target takes twice the normal damage. On a critical hit, the target is also knocked Prone.
+You unleash a particularly powerful attack that clobbers your foe. Make a Melee Strike with a two handed weapon you are wielding. On a hit, the target takes twice the normal damage and is knocked prone.
 
 ### Pummeling Rubble
 Earth, Nature, Spell\
 1 action\
-You launch small stones and sand. Each creature in a 4m radius sphere centered on a point within 20m of you must make a Dexterity saving throw. On a failure, a target takes 1d4 + your Spellcasting ability modifier Bludgeoning damage.
+You launch small stones and sand. Each creature in a 4m radius sphere centered on a point within 20m of you must make a Dexterity saving throw. On a failure, a target takes 1d4 + your Spellcasting ability Bludgeoning damage.
 
 The area also becomes difficult terrain until cleared.
 
@@ -192,7 +192,7 @@ You pour down divine radience into a weapon you are holding. Make a Melee Strike
 ### Ray of Frost
 Cold, Spell\
 1 action\
-You send a freezing ray against a foe. A creature within 24m of you must succed on a Constitution Saving Throw or take 1d4 + your Spellcasting ability Cold damage and take a -2m status bonus to its speeds. 
+You send a freezing ray against a foe. A creature within 24m of you must succed on a Might Saving Throw or take 1d4 + your Spellcasting ability Cold damage and take a -2m status bonus to its speeds. 
 
 ### Reckless Attacks
 Quick action\
@@ -210,24 +210,24 @@ A shield of magical energy appears in front of you, protecting you and reflectin
 
 If you have both hands free, or you are wielding a staff or other spellcasting foci in one hand and the other hand is free while performing this Fighting move, increase the damage you reduce to 1 + your spellcasting ability.
 
-### Running Reload
-1 action\
-You can reload your weapon on the move. Move up to your speed or Step, then Interact to reload.
-
 ### Shocking Grasp
 Lightning, Spell\
 1 action\
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a Melee Spell Attack against the target. You gain a +2 bonus to the Attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 + your Spellcasting ablity modifier Lightning damage, and it can't take reactions until the start of its next turn.
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a Melee Spell Attack against the target. You gain a +2 bonus to the Attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 + your Spellcasting ability Lightning damage, and it can't take reactions until the start of its next turn.
+
+### Shielbreaker
+1 action\
+A shieldbreaker is a powerful move meant to punch through an opponents shield, but it can also be to break through other forms of protection. Make a Strike. If the target gains a circumstance bonus to AC, you reduce the bonus by 1. In addition, the source of the circumstance bonus takes damage equal to the damage the target takes.
 
 ### Shield Strike
 Shield\
 1 action\
-You make a quick bash with your shield. Make a Melee Strike with your shield. On a hit, you increase the damage die of the shield by one step and increase the circumstance bonus provided by the shield by +1 until the start of your next turn.
+You make a quick bash with your shield. Make a Melee Strike with your shield. On a hit, you increase the damage die of the shield by one step for this Strike and increase the circumstance bonus provided by the shield by 1 until the start of your next turn.
 
 ### Shielded Charge
 Shield\
 1 action\
-You move up to your speed without provoking opportunity attacks and then make a Strike with your shield. You must end your move closer to an enemy than when you started. On a hit, increase the damage die of the weapon by one step.
+You move up to your speed without provoking opportunity attacks and then make a Strike with your shield. You must end your move closer to an enemy than when you started. On a hit, increase the damage die of the weapon by one step for the damage of this Strike.
 
 ### Skirmish Strike
 Movement\
@@ -260,4 +260,4 @@ You make a wide swing with your weapon. Make a Melee Strike against every target
 ### You're Next
 Intimidation\
 Reaction\
-After you've downed a foe, you menacingly point out to a foe that it's next. As a Reaction when you reduce a foe to 0 hp, you attempt to Demoralize a creature that witnessed you reduce the foe to 0 hp.
+After you've downed a foe, you menacingly point out to a foe that it's next. As a Reaction when you reduce a foe to 0 hp, you can attempt to Demoralize a creature that witnessed you reduce the foe to 0 hp.
