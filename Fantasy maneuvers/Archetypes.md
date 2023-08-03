@@ -40,6 +40,8 @@ An artillerist specializes in using heavy siege weaponry to devastating effect.
 
 You have crafted yourself a special cannon or other siege weaponry. The cannon is a Large object with 50 hp and 15 AC. As an action while the cannon is within 12m of you, you can cause the cannon to move up to 12m. In addition, when you perform a Fighting move or Flourish that deals damage and you cannon is within 12m of you, you can cause the effect to originate from the cannon instead of you. If you cause a Flourish to originate from the cannon instead, you gain a +2 item bonus to the damage.
 
+If your cannon is ever destroyed, you can spend 2 hours to repair it to full hit points.
+
 ### Assassin
 You've trained to assassinate your foes, and you do so with tenacity and precision.
 

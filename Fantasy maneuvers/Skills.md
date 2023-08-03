@@ -14,7 +14,7 @@ Skills represent your training in a specific field. When you make a skill check,
 | **Lore** | Lore is a special skill that lets you recall knowledge on a specific topic. Lore have many subcategories such as Forest lore, Sailing lore, or Warfare lore. Each subcategory counts as its own skill, so you can have proficiency in multiple Lore subcategories, but your proficiency in a subcategory only applies to that subcategory and not all Lore checks.|
 | **Medecine** | You can patch up wounds and help people recover from diseases and poisons. |
 | **Nature** | You know a great deal about the natural world, and you command and train animals and magical beasts. |
-| **Perception** |  |
+| **Perception** | Perception measures your ability to be aware of your environment, including detecting sneaking creatures and finding hidden objects. |
 | **Performance** | You are skilled at a form of performance, using your talents to impress a crowd or make a living. |
 | **Persuasion** | You influence others through negotiation and flattery. |
 | **Religion** | The secrets of deities, dogma, faith, and the realms of divine creatures both sublime and sinister are open to you. You also understand how divine magic works, though your training imparts a religious slant to that knowledge. |

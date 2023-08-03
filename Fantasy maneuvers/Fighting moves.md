@@ -40,7 +40,7 @@ Even when you don’t hit squarely, you can still score a glancing blow. As an a
 
 ### Combat assessment
 1 action\
-You make a telegraphed attack to learn about your foe. Make a Melee Strike. On a hit, you can immediately attempt a check to Recall Knowledge about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge. 
+You make a telegraphed attack to learn about your foe. Make a Melee Strike. On a hit, you can immediately attempt a check to Recall Knowledge about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge. On a success on the Recall Knowledgge check, the next target who makes an attack against the target before the end of your next turn gains a +1 circumstance bonus to hit.
 
 ### Combat Grab
 Grapple\

@@ -771,7 +771,7 @@ Warforgeds are powerful constructs created with ancient technology from past hum
 - See the logical value of everything
 
 **Others probably**
-- See you a only fit for war
+- See you as only fit for war
 - Marvel at the extraordinary technology used to create you
 - View you as a mindless, emotionless killing machine
 
