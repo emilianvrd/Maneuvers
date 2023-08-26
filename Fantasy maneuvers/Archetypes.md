@@ -57,6 +57,11 @@ Some say offense is the best defense, but you know better. The best defense is a
 
 You increase the circumstance bonus to AC provided by a shield by 1. In addition, you reduce the speed penalty due to wielding a shield by 2m (minimum 0).
 
+### Battlegenius
+While some fight solely using raw strength, you know that a well-placed strike can often be much more efficent.
+
+When you make a Strike, you can choose to add your Intelligence to the attack roll and damage roll instead of your Might or Dexterity
+
 ### Battlesmith
 Masters of forging, battlesmiths create razor-sharp weapons and unbreakable armor.
 
@@ -175,11 +180,6 @@ You focus on bizzare mutagenic transformations.
 
 Whenever you learn a Fighting Move or Flourish with the Polymorph and Spell traits, it loses the Spell trait. In addition, when you Perform a Flourish with the Polymorph trait, you gain 2d6 temporary hit points that lasts for 1 minute or until the Flourish's effect ends, whichever comes last.
 
-### Natural Leader
-You're naturally good at getting people to listen to you and to follow your advice, or commands. 
-
-
-
 ### Pistol prodigy
 You're extremely deadly when armed with a single firearm.
 
@@ -226,7 +226,7 @@ When you perform a Flourish, roll a d20, then consult the table below to determi
 | 7 |  Each creature in a 12m emenation takes 1d10 necrotic damage. You regain hit points equal to the highest damage dealt to any creature. |
 | 8-12 | A target of your choice within 12m of you takes 2d10 damage of the same type as the Flourish you just performed. If the Flourish dealt multiple damage types, the GM determines randomly which one applies. If the Flourish did not deal damage, the damage is fire damage. |
 | 13-15 | One creature within 12m of you regains 2d10 hit points. |
-| 16 | You teleport to an unoccupied space within 20m of you. |
+| 16 | You teleport to an unoccupied space of your choice that you can see within 20m of you. |
 | 17 | You become invisible for 1 minute or until you make a Strike or perform a Fighting move or Flourish, whichever comes first. |
 | 18 | You gain a fly speed of 12m for 1 minute. |
 | 19 | You gain an extra action. |
