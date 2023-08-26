@@ -24,7 +24,7 @@ Trickster are cunning explorers and combatants. They learn a wide variety of ski
 **Weapon proficeincy**: Simple weapons
 
 ### Skilled
-You become trained in four different skills. Additionally, choose one skill you are trained with. You gain a +2 bonus to this skill.
+You become trained in four different skills. Additionally, you gain another skill feat and can choose one skill you are trained with. You gain a +2 bonus to this skill.
 
 ### Versatile defense
 You add your proficiency bonus to two different types of saving throws of your choice: Might, Dexterity, Intelligence, Wisdom, or Charisma saving throws. At the end of a Rest, you can change which two saving throws you add your proficiency bonus to.
@@ -33,7 +33,7 @@ You add your proficiency bonus to two different types of saving throws of your c
 Warrior are masters of martial combat and are skilled with a variety of weapons and armor. 
 
 **Ability boost**: Might or Dexterity\
-**Hit points**: 70\
+**Hit points**: 75\
 **Armor proficiency**: Light, Medium, and Heavy armor\
 **Weapon proficeincy**: Simple and Martial weapons
 

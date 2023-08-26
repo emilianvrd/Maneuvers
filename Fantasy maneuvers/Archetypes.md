@@ -45,12 +45,12 @@ If your cannon is ever destroyed, you can spend 2 hours to repair it to full hit
 ### Assassin
 You've trained to assassinate your foes, and you do so with tenacity and precision.
 
-If you Strike a Surprised creature, you deal an additional 2d6 Precision damage. You can only gain this benefit once per encounter.
+If you Strike a Surprised creature, you deal an additional 3d6 Precision damage. You can only gain this benefit once per encounter.
 
 ### Barbarian
 Bariarians are fierce warriors of primitive backround who can enter a battle rage.
 
-As a Quick action, you can enter into a raging frenzy. If you do, you gain 5 temporary hit points and for 1 minute, you gain a +1 status bonus to Might checks and to damage rolls that add your Might. You can't wear heavy armor while using this ability. Once you activitate this ability, you can't use it again until 10 minutes have passed.
+Once during your turn, you can use a Free action to enter into a raging frenzy. If you do, you gain 5 temporary hit points and for 1 minute, you gain a +1 status bonus to Might checks and to damage rolls that add your Might. You can't wear heavy armor while using this ability. Once you activitate this ability, you can't use it again until 10 minutes have passed.
 
 ### Bastion
 Some say offense is the best defense, but you know better. The best defense is a massive shield between you and your enemies.
@@ -69,7 +69,7 @@ In addition, you reduce the cost and time requiered to Craft an item by 20%.
 ### Bard
 Bards are inspiring musicians who uses music's force to guide their magical powers.
 
-As a Quick action, you can choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 such die at a time. You can use this ability a number of times equal to your charisma modifier per day. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
+Once during your turn, you can use a Free action to you choose a creature other than yourself within 20m of you and give it a d6. Once within the next ten minutes, the creature can roll the die and add it to any one ability check they make. Once the d6 is rolled, it is lost. A creature can't have more than 1 such die at a time. You can use this ability a number of times equal to your charisma modifier per day. In addition, you learn a Fighting Move with the Spell and Mental or Thunder trait.
 
 ### Berserker
 Berserkers are fearless fighters who charge headlong into battle, shrugging off wounds that would be lethal to most.
@@ -92,7 +92,7 @@ When a target is affected by a Fighting Move with the Cold trait, they take a -2
 ### Diviner
 Divination is the school of magic that allows a creature to see and predict the future. The most powerful diviners are even able to change it.
 
-When you Rest, you recieve a vision from the GM about something significant that will happen that day. The vision might be cryptic and it might not be immediatly apparent what the vision is about. For example the GM might say: "You see an ancient leather-wrapped tome in an ancient structure, but there's a dark presence looming over it".
+When you Rest, you recieve a vision from the GM about a significant event that will happen that day. The vision might be cryptic and it might not be immediatly apparent what the vision is about. For example the GM might say: "You see an ancient leather-wrapped tome in an ancient structure, but there's a dark presence looming over it".
 
 In addition, the glimpses of the future you constantly recieve allows you to subtly alter it. When you finish a Rest, roll a d20. At any point before you finish another rest, you can replace any roll on a d20 you or another creature rolls while within 20m of you with the result of your d20. Once you replace a die with this feature, you can't do it again until you finish a Rest, at which point you roll another die.
 
@@ -148,15 +148,22 @@ Finally, when you cast a Spell with a range of touch, your familiar can deliver 
 ### Geomancer
 You know how to use the earth to crush your foes and protect yourself. 
 
-When you perform a Fighting move or Flourish with the Earth trait, you gain resistance 5 to bludgeoning, piercing, and slashing damage until the start of your next turn. In addition, you learn a Fighting Move with the Earth trait.
+When you perform a Fighting move or Flourish with the Earth trait, you gain resistance 5 to Bludgeoning, Piercing, and Slashing damage until the start of your next turn. In addition, you learn a Fighting Move with the Earth trait.
 
 ### Gunslinger
 While some fear projectile weapons, you savor the searing flash, wild kick, and cloying smoke that accompanies a gunshot.
 
 You increase the damage die of any firearm you wield by one step. In addition, increase the die of any Fatal trait by one step. For example, a flintlock pistol increases its damage die to 1d10 and increases its Fatal trait to Fatal d12.
 
+### Inspirer
+Fear and desperation never lasts long around you, for your words inspire hope and courage into the hearts of your allies. 
+
+Allies within 12m of you gain a +2 circumstance bonus against Fear effects while you are conscious. Additionally, whenever an ally succeds at a saving throw against a Fear effect or critically succeeds at an attack against an enemy, you can use you reaction to give them temporary hit points equal to your Charisma.
+
 ### Mage slayer
-You have learned special techiques to fight Spellcasters. Whenever a creature within your reach casts a Spell, you can use your reaction to make a Melee Strike against the target. On a hit, the target must make a Might saving throw against your Might or Dexterity DC or they lose the action or actions used to cast the Spell.
+You have learned special techiques to fight spellcasters. Perhaps you lost a family member of friend to a magical accident, or you nearly got killed by an evil sorcerer. Whatever the reason, you now hold a grudge against magic-wielders and is ready to fight them wherever and whenever they may appear.
+
+Whenever a creature within your reach casts a Spell, you can use your reaction to make a Melee Strike against the target. On a hit, the target must make a Might saving throw against your Might or Dexterity DC or they lose the action or actions used to cast the Spell.
 
 ### Martial artist
 You are a master at using martial arts and fighting unarmed.
@@ -167,6 +174,11 @@ You unarmed blows are as deadly as the sharpest swords. Increase the damage die 
 You focus on bizzare mutagenic transformations.
 
 Whenever you learn a Fighting Move or Flourish with the Polymorph and Spell traits, it loses the Spell trait. In addition, when you Perform a Flourish with the Polymorph trait, you gain 2d6 temporary hit points that lasts for 1 minute or until the Flourish's effect ends, whichever comes last.
+
+### Natural Leader
+You're naturally good at getting people to listen to you and to follow your advice, or commands. 
+
+
 
 ### Pistol prodigy
 You're extremely deadly when armed with a single firearm.

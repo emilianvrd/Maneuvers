@@ -1,5 +1,5 @@
 # Basics of play
-At 1st level, choose a type, a background, an ancestry and a heritage, 2 archtype feats, 4 skills, 2 skill feats, 1 ancestry feat, 3 fighting moves, 2 flourishes.\
+At 1st level, choose a type, a background, an ancestry, 2 archetype feats, 4 skills, 2 skill feats, 1 ancestry feat, 3 fighting moves, 2 flourishes.\
 2nd: 1 Fighting move, 1 Skill feat\
 3rd: 1 Skill feat, 1 Skill\
 4th: 1 Archetype, Ability increase\
@@ -13,7 +13,7 @@ At 1st level, choose a type, a background, an ancestry and a heritage, 2 archtyp
 Each character gains 2 actions, a Move, a Quick action, a Reaction and an infinite number of Free actions each turn.
 
 ### Empower
-When performing a Flourish, a you can choose to Empower it. The flourish you want to Empower must be one that can be used 3 times per day and you must have all uses left. When you empower an ability, you gain a +2 bonus to hit and the Flourish deals double the damage it normally deals. A Flourish sometimes also or instead adds special abilities when Empowered.
+When performing a Flourish, a you can choose to Empower it. The flourish you want to Empower must be one that can be used 3 times per day and you must have all uses left. When you empower a Flourish, it deals double the damage it normally deals. A Flourish sometimes also or instead adds special abilities when Empowered.
 
 ## Spells 
 Performing an action with the Spell trait is called casting a spell. The first time you select an ability with the Spell trait, choose Intelligence, Wisdom, or Charisma. The chosen ability becomes your spellcasting ability and is often referenced in Fighting Moves and Flourishes and sometimes in Skill feats, Archtypes and other features or abilities. Your spell save DC equals 10 + your spellcasting ability and your attack modifier is 4 (the proficieny bonus) + your spellcasting ability.

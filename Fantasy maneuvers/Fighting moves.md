@@ -20,7 +20,7 @@ You throw a bomb at a a target within 20m of you. Make an Ranged Strike. You can
 ### Brutal Shove
 Push\
 1 action\
-You make a powerful strike to push your foe away. Make a Melee Strike with a two handed weapon. On a success, the target is also moved 4m away from you, or takes a -2 circumstance penalty to AC if the area it would be moved into is occupied.
+You make a powerful strike to push your foe away. Make a Melee Strike with a two handed weapon. On a success, the target is also moved 4m away from you, or becomes Off-guard until the start of your next turn if the area it would be moved into is occupied.
 
 ### Bullet split
 Ranged\
@@ -143,12 +143,12 @@ You have learned how to use the momentum from a jump for extra damage. Make a Lo
 ### Necrotic Strike
 Necromancy, Necrotic, Spell\
 1 action\
-You pour down unholy powers into a weapon you are holding. Make a Melee Strike. On a hit, you can change the damage into necrotic damage. If you do so, you gain a +2 circumstance bonus to the damage.
+You pour down unholy powers into a weapon you are holding. Make a Melee Strike. On a hit, you can change the damage into Necrotic damage. If you do so, you gain a +2 circumstance bonus to the damage.
 
 ### Necrotic Touch
 Necromancy, Necrotic, Spell\
 1 action\
-You draw the life force out of a target. Make a Melee Spell Attack. On a hit, the target takes 1d8 + your Spellcasting ability necrotic damage and take a -1 status penalty to Might saving throws and be unable regain hit points. Both effects lasts until the end of your next turn.
+You draw the life force out of a target. Make a Melee Spell Attack. On a hit, the target takes 1d8 + your Spellcasting ability Necrotic damage and take a -1 status penalty to Might saving throws and be unable regain hit points. Both effects lasts until the end of your next turn.
 
 ### Parrying Strike
 1 action\
@@ -162,7 +162,7 @@ You throw a pebble at a foe. Make Ranged Spell Attack against a foe within 12m o
 ### Piercing Icicle
 Cold, Piercing, Spell\
 1 action\
-You create a sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 Piercing damage and 1 + your Spellcasting ability Cold damage. The 1d4 is considered the damage die of this Fighting Move.
+You create a razor-sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 Piercing damage and 1 + your Spellcasting ability Cold damage. The 1d4 is considered the damage die of this Fighting Move.
 
 ### Point-Blank Shot
 Ranged\
@@ -217,7 +217,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 ### Shielbreaker
 1 action\
-A shieldbreaker is a powerful move meant to punch through an opponents shield, but it can also be to break through other forms of protection. Make a Strike. If the target gains a circumstance bonus to AC, you reduce the bonus by 1. In addition, the source of the circumstance bonus takes damage equal to the damage the target takes.
+A shieldbreaker is a powerful move meant to punch through an opponents shield, but it can also be to break through other forms of protection. Make a Strike. If the target gains a circumstance bonus to AC, you reduce the bonus by 2. In addition, the source of the circumstance bonus takes damage equal to the damage the target takes.
 
 ### Shield Strike
 Shield\
@@ -227,7 +227,7 @@ You make a quick bash with your shield. Make a Melee Strike with your shield. On
 ### Shielded Charge
 Shield\
 1 action\
-You move up to your speed without provoking opportunity attacks and then make a Strike with your shield. You must end your move closer to an enemy than when you started. On a hit, increase the damage die of the weapon by one step for the damage of this Strike.
+You move up to your speed without provoking opportunity attacks and then make a Strike with your shield. You must end your move closer to an enemy than when you started. On a hit, increase the damage die of the shield by one step for the damage of this Strike.
 
 ### Skirmish Strike
 Movement\
@@ -242,7 +242,7 @@ You fire at an enemy while targeting a part of its anatomy that will disrupt its
 ### Vampric Touch
 Necromancy, Necrotic, Spell\
 1 action\
-You absorb the life energy of a target you touch. Make a Melee Spell attack. On a hit, the target takes 1d4 + your spellcasting ability necrotic damage. You also gain 1d6 temporary hit points that lasts until the end of your next turn.
+You absorb the life energy of a target you touch. Make a Melee Spell attack. On a hit, the target takes 1d4 + your spellcasting ability Necrotic damage. You also gain 1d6 temporary hit points that lasts until the end of your next turn.
 
 ### Vicious Mockery
 Mental, Spell\

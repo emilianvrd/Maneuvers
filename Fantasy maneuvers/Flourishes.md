@@ -11,7 +11,7 @@ You can use this Flourish three times per day.
 ### Battle Medecine
 Heal\
 1 action\
-You can patch up wounds, even in combat. Attempt a DC 15 Medecine check. On a success, a target within 2m of you regains 4d8+4 hp. 
+You can patch up wounds, even in combat. Attempt a DC 15 Medecine check. On a success, a target within 2m of you regains 4d8+4 hp. On a critical success, the target regains 6d8+6 hp.
 
 You can use this Flourish three times per day.
 
@@ -99,6 +99,11 @@ Radiant, Spell\
 You call down divine power into a weapon you are wielding. Make a Melee Strike. On a success, the target takes an additional 2d8 Radiant damage. You can use this Flourish three times per day. When you have expended all uses, you can expend a use of another Flourish to gain the ability to use Divine Smite an additional time before the next the day. The chosen Flourish must be one that can be used three times per day. 
 
 You can use this Flourish three times per day.
+
+### Dispel Magic
+Spell\
+1 action\
+Choose one creature, object, or magical effect within range. Any Spell on the target ends.
 
 ### Dragon Breath
 Polymorph, Spell\
@@ -232,10 +237,9 @@ You can use this Flourish three times per day.
 **Size**: Medium\
 **Languages**: Common, Infernal; Telepathy 12m\
 **Skills**: Deception +6, Intimidation +6, Persuasion +6, Warfare Lore +6\
-Str: +3, Dex: +3, Con: +2, Int: +1, Wis: +0, Cha: +3\
+Mig: +3, Dex: +3, Int: +1, Wis: +0, Cha: +3
 
 **AC**: 15 (Conqueror and Tempter only), 17 (Legioneer only)\
-**Saving throws**: Str: +3, Dex: +3, Con: +2, Int: +1,Wis: +0, Cha: +3\
 **HP**: 50; **Resistances**: Fire 5, **Weaknesses**: Radiant 5\
 **Reactions**:
 - **Shield Block** (Legioneer only) Trigger: A creature hits the diabolic spirit with a Strike and deals damage to it. Effect: The diabolic spirit interposes its shield, reducing the damage by 3. \
@@ -285,21 +289,20 @@ You can use this Flourish three times per day.
 **Traits**: Construct, Lawful Neutral\
 **Size**: Large\
 **Languages**: Common\
-Str: +3, Dex: +1, Con: +3, Int: +2, Wis: -1, Cha: -2\
+Mig +3, Dex: +1, Int: +2, Wis: -1, Cha: -2
 
 **AC**: 18\
-**Saving throws**: Str: +3, Dex: +1, Con: +7, Int: +2, Wis: +3, Cha: +2\
-**HP**: 50; **Resistances**: Physical 5, **Weaknesses**: Lightning 5\
+**HP**: 50; **Resistances**: Physical 5, **Immunities**: Mental, **Weaknesses**: Lightning 5\
 **Heated Body** (Steam-driven only) When the Constructed Spirit takes damage from a creature within 2m of it, the creature takes 1d6 Fire damage.\
 **Speed**: 10m (Steam-driven and Spell-driven only), or 16m (Electricity-driven only)\
 
 ##### Actions
-**Slam**: Melee attack, + 4 to hit (Shove), reach 2m. **Damage**: 1d4 + 3 Bludgeoning\
+**Slam**: Melee attack, + 4 to hit (Shove), reach 2m. **Damage**: 1d4 + 4 Bludgeoning\
 **Hurl magic** (Spell-driven only): Ranged attack, +4 to hit (Magical), range 20m. **Damage**: 2d6 Force damage\
-**Power Up** (Electricity-driven only): (Lightning) The construct charges itself up. For 1 minute, the construct deals 1 Lightning damage when its hits with a Strike and becomes Quickened 1. After it has used this action, it can't do so again until 10 minutes have passed.
+**Power Up** (Electricity-driven only): (Lightning) The construct charges itself up. For 1 minute, the construct deals 1 Lightning damage when its hits with a Strike and becomes Quickened 1. After it has used this action, it can't do so again until 10 minutes have passed, or until it takes Lightning damage.
 
 ##### Two-action activities
-**Unleash Energy**: (Flourish) The construct unleashes its powering energy. Each creature in a 16m cone must succed at a Dexterity saving throw or take 4d10 Fire (Steam-driven only), Lightning (Electricity damage only), or Force (Spell-driven only) damage. The construct can use this Flourish three times per day.
+**Unleash Energy**: (Flourish) The construct unleashes its powering energy. Each creature in a 16m cone must succed at a Dexterity saving throw against your personal DC or take 4d10 Fire (Steam-driven only), Lightning (Electricity only), or Force (Spell-driven only) damage. The construct can use this Flourish three times per day.
 
 ### Nature's Ally
 Nature, Spell, Conjuration\
@@ -319,7 +322,7 @@ You can use this Flourish three times per day.
 Str: +3, Dex: +3, Con: +1, Int: +0, Wis: +2, Cha: +1\
 
 **AC**: 15\
-**Saving throws**: Str: +2, Dex: +6, Con: +1, Int: +1, Wis: +1, Cha: +1\
+**Saving throws**: Might +1, Dex: +6, Int: +1, Wis: +1, Cha: +1\
 **HP**: 60 (Brutish only) or 50 (Agile and Speedy only); **Resistances**: Poison 5\
 **Reactions**:\
 - **Name** Trigger: Effect:\
@@ -344,7 +347,7 @@ You can use this Flourish three times per day.
 ### Piercing Shot
 Ranged\
 1 action\
-You make a powerful shot that pierces everything it hits. Each creature and object in a 40m line must make a Dexterity saving throw or take 3d10+your Dexterity modifier Piercing damage. An solid object in the path that isn't reduced to 0 hp stops the shot. 
+You make a powerful shot that pierces everything it hits. Each creature and object in a 40m line must make a Dexterity saving throw or take 3d10 + your Dexterity modifier Piercing damage. An solid object in the path that isn't reduced to 0 hp stops the shot. 
 
 You can use this Flourish three times per day.
 
