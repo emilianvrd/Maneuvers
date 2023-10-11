@@ -18,7 +18,7 @@ Skills represent your training in a specific field. When you make a skill check,
 | **Performance** | You are skilled at a form of performance, using your talents to impress a crowd or make a living. |
 | **Persuasion** | You influence others through negotiation and flattery. |
 | **Religion** | The secrets of deities, dogma, faith, and the realms of divine creatures both sublime and sinister are open to you. You also understand how divine magic works, though your training imparts a religious slant to that knowledge. |
-| **Sleight of hand** | You have trained using your hands for various tasks such as palming objects, picking locks or disabling devices. |
+| **Sleight of hand** | You have trained using your hands for palming objects, picking locks or disabling devices. |
 | **Society** | You understand the people and systems that make civilization run, and you know the historical events that make societies what they are today. Further, you can use that knowledge to navigate the complex physical, societal, and economic workings of settlements.  |
 | **Stealth** | You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item. |
 | **Survival** | You are adept at living in the wilderness, foraging for food and building shelter, and with training you discover the secrets of tracking and hiding your trail.  |
