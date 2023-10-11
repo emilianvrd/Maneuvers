@@ -11,12 +11,14 @@ A magical shield surrounds you. The shield has 5 hit points. Whenever you take d
 ### Alchemist
 There’s no sight more beautiful to you than a strange brew bubbling in a beaker, and you consume your ingenious elixirs with abandon. You’re fascinated by uncovering the secrets of science and the natural world, and you’re constantly experimenting in your lab or on the go with inventive concoctions for every eventuality. You are fearless in the face of risk, hurling explosive or toxic creations at your foes. 
 
-When you learn a Fighting Move, Skill feat, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with potent elixirs or alchemical bombs. After you finish a Long Rest, you can choose to expend a use of a Flourish with this modification. If you do, the Flourish doesn't take effect immediatly. Instead, you create an elixir or alchemical bomb. You or an ally can then use the number of actions it would take to Perform the Flourish to activate the Flourish and cause it to have its normal effects. The creature that activated the Flourish is treated as the one who Performed the Flourish, except that the Flourish uses you Spell Save DC or Spell attack bonus.
+When you learn a Fighting Move, Talent, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with potent elixirs or alchemical bombs. It still counts as a Spell for the purpose of determining if a Circumstance, Status, Item or Enhancement bonus or penalty applies to it. 
+
+When you perform a Fighting Move, Talent, or Flourish, you can choose to store the effect as an alchemical bomb or elixir. If you do, the Flourish doesn't take effect immediatly. You or an ally can then use the number of actions it would take to Perform the Fighting Move, Talent or Flourish again to activate it and cause it to have its normal effects. The creature that activated the Fighting Move, Talent, or Flourish is treated as the one who performed the Fighting Move, Talent, or Flourish for the purpose of determining the point of origin for the ability and may gain a an increased damage die if the one performing the Fighting Move, Talent or Flourish has a free hand when performing it, but you still use your statistics for everything else, such as the attack bonus added to the attack. 
 
 You also learn a Fighting Move with the Spell trait, but it loses that trait immediatly after you learn it.
 
 ### Arcanomancer
-You are a specialist in arcane magic and you have become increadibly adept at using it. 
+You are a specialist in arcane magic and you have become incredibly adept at using it. 
 
 Once per day, you can choose to empower a Flourish with the spell trait you are performing without expending all three uses of the Flourish. You can use this ability even if you don't have three uses of the Flourish left. As normal, you can only empower a Flourish that can be used three times per day.
 
@@ -33,7 +35,9 @@ You gain proficiency in light armor and medium armor. If you already had profici
 ### Artificer
 You are a masterful creator of technological wonders and can use them to devastating effect.
 
-When you learn a Fighting Move, Skill Feat, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with advanced technology. In addition, whenever you or an ally makes an Ability check, you can use your reaction to create a minor invention to help. The target then gains a +1 circumstance bonus to the triggering check.
+When you learn a Fighting Move, Talent, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with advanced technology. It still counts as a Spell for the purpose of determining if a Circumstance, Status, Item or Enhancement bonus or penalty applies to it. 
+
+In addition, whenever you or an ally makes an Ability check, you can use your reaction to create a minor invention to help. The target then gains a +1 circumstance bonus to the triggering check.
 
 ### Artillerist
 An artillerist specializes in using heavy siege weaponry to devastating effect.
@@ -79,7 +83,7 @@ Once during your turn, you can use a Free action to you choose a creature other 
 ### Berserker
 Berserkers are fearless fighters who charge headlong into battle, shrugging off wounds that would be lethal to most.
 
-You gain a +2 circumstance bonus against effects that would cause you to be Frightened. In addition, when you would gain the Wounded condition, you can use a free action to prevent it. Once you have used this free action, you can't use it again for 1 hour.
+You gain a +2 circumstance bonus against Fear effects. In addition, when you would gain the Wounded condition, you can use a free action to prevent it. Once you have used this free action, you can't use it again for 1 hour.
 
 ### Cleric 
 Deities work their will upon the world in infinite ways, and you serve as one of their most stalwart mortal servants. Blessed with divine magic, you live the ideals of your faith, adorn yourself with the symbols of your church, and wield powers to heal and protect your allies.
@@ -118,14 +122,14 @@ You no longer require a free hand to reload one-handed ranged weapons you are ho
 ### Druid
 Druids are wielder of the powers of nature. They revere nature above all, gaining their Spells from the force of nature itself.
 
-You can comprehend and communicate with plants and animals with an intelligence equal to or lower than -3, though they may be limited in their comprehension by their intelligence. You also ignore natural difficult terrain and greater difficult terrain.
+You can comprehend and communicate with plants and animals with an Intelligence equal to or lower than -3, though they may be limited in their comprehension by their intelligence. You also ignore natural difficult terrain and natural greater difficult terrain.
 
 In addition, you learn a Fighting Move with the Nature, Beast, or Plant trait, or a trait corresponding to one of the elemental damage types (Acid, Cold, Fire, Lightning, Poison, and Thunder)
 
 ### Dual-wielder
 You wield two weapons and use them to attack your enemies in a flurry of strikes.
 
-When you hit a creature with your third Strike on a turn, you gain a +2 circumstance bonus to the damage.
+When you hit a creature with the Strike made as a Free action gained by dual-wielding, you gain a +2 circumstance bonus to the damage.
 
 ### Duelist
 Across the world, students in martial academies practice with their blades to master one-on-one combat. The libraries of such schools hold deep troves of information detailing hundreds of combat techniques, battle stances, and honorable rules of engagement. Those who gain admission to such schools might train in formalized duels—and that's certainly the more genteel route to take. However, others assert that there's no better place to try out dueling techniques than in the life-and-death struggles common to an adventurer's life.
@@ -178,7 +182,9 @@ You unarmed blows are as deadly as the sharpest swords. Increase the damage die 
 ### Mutagenist
 You focus on bizzare mutagenic transformations.
 
-Whenever you learn a Fighting Move or Flourish with the Polymorph and Spell traits, it loses the Spell trait. In addition, when you Perform a Flourish with the Polymorph trait, you gain 2d6 temporary hit points that lasts for 1 minute or until the Flourish's effect ends, whichever comes last.
+Whenever you learn a Fighting Move or Flourish with the Polymorph and Spell traits, it loses the Spell trait. It still counts as a Spell for the purpose of determining if a Circumstance, Status, Item or Enhancement bonus or penalty applies to it. 
+
+In addition, when you Perform a Flourish with the Polymorph trait, you gain 2d6 temporary hit points that lasts for 1 minute or until the Flourish's effect ends, whichever comes last.
 
 ### Pistol prodigy
 You're extremely deadly when armed with a single firearm.
@@ -203,12 +209,12 @@ When an ally within 2m of you is hit by a Strike, you can use your reaction to i
 ### Sniper
 Shooting distant enemies from hiding without being noticed is your specialty. 
 
-If you are Hidden from an enemy when you make a ranged Strike, you can immediatly afterwards make a Stealth check to Hide with a -5 circumstance penalty.
+If you are Hidden from an enemy when you make a ranged Strike, you can immediatly afterwards make a Stealth check to Hide with a -5 Circumstance penalty.
 
 ### Skill master
 You have mastered more skills than most.
 
-You gain proficiency in two skills of your choice. Additionally, choose one skill. You gain a +2 bonus to the skill.
+You gain proficiency in two skills of your choice. Additionally, choose one skill. You gain a +2 Enhancement bonus to the skill.
 
 ### Sorcerer
 You didn’t choose to become a spellcaster—you were born one. There's magic in your blood, but the power you carry is both a blessing and a curse.
