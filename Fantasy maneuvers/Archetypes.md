@@ -13,7 +13,9 @@ There’s no sight more beautiful to you than a strange brew bubbling in a beake
 
 When you learn a Fighting Move, Talent, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with potent elixirs or alchemical bombs. It still counts as a Spell for the purpose of determining if a Circumstance, Status, Item or Enhancement bonus or penalty applies to it. 
 
-When you perform a Fighting Move, Talent, or Flourish, you can choose to store the effect as an alchemical bomb or elixir. If you do, the Flourish doesn't take effect immediatly. You or an ally can then use the number of actions it would take to Perform the Fighting Move, Talent or Flourish again to activate it and cause it to have its normal effects. The creature that activated the Fighting Move, Talent, or Flourish is treated as the one who performed the Fighting Move, Talent, or Flourish for the purpose of determining the point of origin for the ability and may gain a an increased damage die if the one performing the Fighting Move, Talent or Flourish has a free hand when performing it, but you still use your statistics for everything else, such as the attack bonus added to the attack. 
+When you perform a Fighting Move, Talent, or Flourish, you can choose to store the effect as an alchemical bomb or elixir. If you do, the Flourish doesn't take effect immediatly. You or an ally can then again use the number of actions it would take to Perform the Fighting Move, Talent or Flourish to activate it and cause it to have its normal effects. The stored Fighting Move, Talent or Flourish lasts for 1 hour or until you store another Fighting Move, Talent or Flourish.
+
+The creature that activated the Fighting Move, Talent, or Flourish is treated as the one who performed the Fighting Move, Talent, or Flourish for the purpose of determining the point of origin for the ability and may gain a an increased damage die if the one performing the Fighting Move, Talent or Flourish has a free hand when performing it, but you still use your statistics for everything else, such as the attack bonus added to the attack. 
 
 You also learn a Fighting Move with the Spell trait, but it loses that trait immediatly after you learn it.
 
@@ -256,4 +258,10 @@ You are an versatile student of the arcane arts, using your mastery of magic to 
 
 Your studies have granted you greater flexibility with your Spells. When you Perform a Flourish with the Spell trait that can be used three times per day, you can choose to instead expend a use of a different Flourish with the Spell trait that can be used three times per day. 
 
-In addition, once per day, you can Perform a Flourish with the Spell trait that can be used three times per day without expending a use of the Flourish.
+In addition, you have acquiered a special book for containing magical spells. This book may take may many different shapes and its exact appearence is up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like "The Crimson Libram", or something more academic, like "A Field Study in Practical Transmutation".
+
+Your Spellbook contains all the Fighting Moves, Talents, and Flourishes you know. In addition, choose three more Fighting Moves, Talents and Flourishes. You don't learn these abilities and cannot use them, but they are added to you Spellbook. Each day, after you Rest, you can choose one or more of the Fighting Moves, Talents, and Flourishes you have learned and replace them with any other Fighting Moves, Talents and Flourishes that are in the Spellbook, but that you couldn't use. You can now use the new ability, but not the one you replaced. You must replace a Fighting Move with another Fighting Move, a Talent with another Talent, and a Flourish with another Flourish.
+
+For example, Joe the Wizard knows the Fighting Move "Acid Splash", but wants to replace it. He has the Fighting Moves "Fireblade", "Frostbite", and "Ray of Frost" and the Flourishes "Cone of Cold, "Fireball", and "Living Construct". After a Rest, Joe could then replace "Acid Splash" with "Fireblade" or "Frostbite", but he could not replace it with "Fireball" or "Living Construct". If Joe replaced "Acid Splash", but later wanted Perform it again, he would have to take a Rest and replace one his Fighting Moves again.
+
+Your spellbook can only contain formulas for Fighting Moves, Talents and Flourishes with the Spell trait. All other abilities function normally.
