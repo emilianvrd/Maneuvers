@@ -1,5 +1,18 @@
 # Flourishes
 
+Template
+
+
+**Critical Success**: The target takes  damage.\
+**Success**: The target takes  damage.
+**Failure**: The target takes  damage.
+**Critical Failure**: The target is unaffected.
+
+**Critical Success**: 
+**Success**: 
+**Failure**: 
+**Critical Failure**: 
+
 ## 1st
 ### Archer's Aim
 Ranged\
@@ -18,9 +31,12 @@ You can use this Flourish once per day.
 ### Beam of Light
 Blinded, Light, Radiant, Spell\
 2 actions\
-Blinding sunlight flashes in a 20m radius sphere centered on a point you choose within 20m of you. Each creature in that light must make a Might saving throw. On a failed save, a creature takes 5d6 Radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn’t blinded by this Spell.
+Blinding sunlight flashes in a 10m radius sphere centered on a point you choose within 20m of you. Make a Spell attack against its Might Defense DC.
 
-A creature blinded by this Spell makes another Might saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
+**Critical Success**: The creature takes 10d6 Radiant damage and is Blinded for 1 minute. The creature can use an Interact action to rub its eyes and remove the blinded condition.\
+**Success**: The creature takes 5d6 Radiant damage and is Blinded until the start of your next turn. The creature can use an Interact action to rub its eyes and remove the blinded condition.\
+**Failure**: The creature takes 3d6 Radiant damage.\
+**Critical Failure**: The creature is unaffected.
 
 This Spell dispels any darkness in its area that was created by a Spell. 
 
@@ -36,33 +52,38 @@ You can use this Flourish once per day.
 ### Burning Inferno
 Fire, Spell\
 2 actions\
-Waves of flames expands outwards from you. Each creature other than you within 10m of you must make a Dexterity saving throw or take 5d6 Fire damage. For the next minute, each creature other than you that starts its turn in the area must make a Dexterity saving throw or take 5d6 Fire damage. 
+Waves of flames expands outwards from you. Make a Spell attack against each creature within 10m of you. The area within 10m of you then becomes covered in fiery flames, dealing 2d6 Fire damage to all creatures that starts its turn or moves into the area for the first time each turn before 1 minute has passed.
 
-You can use this flourish once per day.
+**Critical Success**: The target takes 10d6 Fire damage.\
+**Success**: The target takes 5d6 Fire damage.\
+**Failure**: The target is unaffected.
+
+You can use this Flourish once per day.
 
 ### Chef
 Heal, Buff\
 10 minutes\
 You know how to cook delicious and restorative foods. By spendig 10 minutes cooking food, you can create food for up to 10 people. A person that spends a minute eating the food regains 15hp and gains a +1 status bonus to attack rolls for 1 hour.
 
-A person can benefit from this flourish only once per day.
+A person can benefit from this Flourish only once per day.
 
 ### Cone of Cold
 Cold, Spell\
 2 actions\
-Icy cold rushes forth from your hands. Each creature in a 16m cone must make a Might saving throw against your Spell save DC or take 8d8 Cold damage. On a critical failure, the target is partly encased in ice and is slowed 1 until the end of its next turn. 
+Icy cold rushes forth from your hands. Make a Spell attack roll against each creature in a 16m cone's Might Defense DC.
+
+**Critical Success**: The target takes 18d8 Cold damage and is slowed 1 until the end of its next turn as it becomes partially encased in ice.\
+**Success**: The target takes 8d8 cold damage.\
+**Failure**: The target takes 4d8 cold damage.\
+**Critical Failure**: the target is unaffected.
 
 You can use this Flourish once per day.
+
 
 ### Dazing Blow
 Daze\
 1 action\
-You pummel a foe, hoping to stagger them. Make a melee Strike. The weapon damage from this Strike is Bludgeoning damage. If the Strike hits, the creature must attempt a Might save; this is an incapacitation effect.
-
-Critical Success: The creature is unaffected.\
-Success: The creature is stunned 1.\
-Failure: The creature is stunned 2.\
-Critical Failure: The creature is stunned 3.
+You pummel a foe with a blunt part of your weapon, hoping to stagger them. Make a melee Strike. On a hit, the target is also Stunned 1, or Stunned 2 on a Critical Success. The weapon damage from this Strike is Bludgeoning damage. 
 
 You can use this Flourish once per day.
 
@@ -76,7 +97,7 @@ You can use this Flourish once per day.
 ### Destructive Wave
 Necrotic or Radiant, Thunder, Spell\
 2 actions\
-You strike the ground, creating a burst of energy that ripples outward from you. Each creature of your choice within 6m of you must make a Might saving throw or take 5d6 thunder damage and 5d6 Radiant or Necrotic damage (your choice when you select this Spell. The Spell also gain the appropriate trait). A target is also knocked prone on a failure, or is pushed 4m away, knocked prone, and takes 4d6 additional Bludgeoning damage on a critical failure. 
+You strike the ground, creating a burst of energy that ripples outward from you. Make a Basic Spell attack against the Might Defense DC of each creature of your choice within 6m of you to deal 5d6 Radiant or Necrotic damage (your choice when you select this Spell. The Spell also gain the appropriate trait) and 5d6 Thunder damage. A target is also knocked prone and pushed 2m away on a Critical Success.
 
 You can use this Flourish once per day.
 
@@ -89,60 +110,75 @@ You can use this Flourish once per day.
 ### Divine Blast
 Radiant\
 Spell\
-You blast your foes with divine power. Each creature of your choice within 24m of you must make a Dexterity saving throw or take 7d8 Radiant damage. Undead and fiends in the area takes an additional 2d8 damage. 
+You blast your foes with divine power. Make a Basic Spell attack against the Dexterity Defense DC of each creature of your choice within 24m to deal 7d8 Radiant damage to it, or 9d8 if it is an undead of fiend. 
 
 You can use this Flourish once per day.
 
 ### Divine Smite
 Radiant, Spell\
 1 action\
-You call down divine power into a weapon you are wielding. Make a Melee Strike. On a success, the target takes an additional 2d8 Radiant damage. You can use this Flourish once per day. When you have expended all uses, you can expend a use of another Flourish to gain the ability to use Divine Smite an additional time before the next the day. The chosen Flourish must be one that can be used once per day. 
+You call down divine power into a weapon you are wielding. Make a Melee Strike. On a success, the target takes an additional 2d8 Radiant damage. 
 
-You can use this Flourish once per day.
+You can use this Flourish once per day. When you have expended all uses, you can expend a use of another Flourish to gain the ability to use Divine Smite an additional time before the next the day. The chosen Flourish must be one that can be used once per day. 
 
 ### Dispel Magic
 Spell\
 1 action\
-Choose one creature, object, or magical effect within range. Any Spell on the target ends.
+Choose one creature, object, or magical effect within 30m of you. Any Spell on the target ends.
 
 ### Dragon Breath
 Polymorph, Spell\
 2 actions\
-You partially into a dragon and exhale destructive energy. Each creature of your choice in a 12m cone or 30m line (your choice), takes 10d6 acid, cold, fire, lightning, or poison damage (your choice, the Spell gains the matching trait).
+You partially into a dragon and exhale destructive energy. Make a Basic Spell attack against the Dexterity Defense DC of each creature of your choice within a 12m cone or 30m line (your choice) to deal 10d6 acid, cold, fire, lightning, or poison damage (your choice, the Spell gains the matching trait).
 
 You can use this Flourish once per day.
 
 ### Earth Ripple
 Earth, Nature, Spell\
 2 actions\
-you cause spikes to rise from the ground around you. Each creature within 12m of you must make a Dexterity saving throw or take 6d10 Piercing damage and be grappled until the end of it's next turn, as it is impaled by the spike. The target can use an action to free itself.
+you cause spikes to rise from the ground around you. Make a Basic Spell attack against each creature within 12m of you to deal 6d10 piercing damage or be Immobilized until the end of its next turn as it is impaled by the spike. The target can use an action to free itself.
 
 You can use this Flourish once per day.
 
 ### Earthen Grasp
 Earth, Nature, Spell\
 2 actions\
-You choose a 2m-square unoccupied space on the ground that you can see within 12m of you. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 2m of it. The target must make a Might saving throw. On a failed save, the target takes 6d6 Bludgeoning damage and is restrained for 1 minute.
+You choose a 2m-square unoccupied space on the ground that you can see within 12m of you. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 2m of it. Make a Spell attack against the Might DC of a creature you can see within 2 of it with the following effects:
 
-As an action, you can cause the hand to crush the restrained target, who must make a Might saving throw. It takes 6d6 Bludgeoning damage on a failed save, or half as much damage on a successful one.
+**Critical Success**: The target takes 16d6 Bludgeoning damage and is Restrained for 1 minute or until it Escapes.\
+**Success**: The target takes 8d6 Bludgeoning damage and is Grappled by the hand for 1 minute or until it Escapes.
+**Failure**: The target takes 4d6 Bludgeoning damage.
+**Critical Failure**: The target is unaffected.
 
-To break out, the restrained target can use an action to make a Might check against your Spell save DC. On a success, the target escapes and is no longer restrained by the hand.
+As an action, you can cause the hand to crush the Grappled or Restrained target by making a Basic Spell attack against the Might Defense DC of the target to deal 4d6 Bludgeoning damage.
 
-As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within 12m of you. The hand releases a restrained target if you do either.
+As an action, you can cause the hand to instead reach for a different creature or to move to a different unoccupied space within 12m of you. The hand releases a Grappled or Restrained target if you do either.
 
 You can use this Flourish once per day.
 
 ### Ensnaring Plant
 Nature, Spell\
 1 action\
-You cause a Medium plant to rise up from the ground in an unoccupied square within 30m of you. The plant then immediatly attempts to grab a creature within 2m of it. The creature must make a Dexterity Saving Throw or be Restrained for 1 minute. The target can attempt an Athletics or Acrobatics check as an action to try to break free, ending the Spell on a success.
+You cause a Medium plant to rise up from the ground in an unoccupied square within 30m of you. The plant then immediatly attempts to grab a creature within 2m of it. Make a Spell Attack against the Dexterity Defense DC of the creature.
+
+**Critical Success**: The target takes 6d8 Bludgeoning damage and is Restrained for 1 minute or unitl it Escapes.\
+**Success**: The target is Restrained for 1 minute or until it escapes.
+**Failure**: The target is Grappled for 1 round or until it escapes.
+**Critical Failure**: The target is unaffected.
 
 You can use this Flourish once per day.
 
 ### Erupting Earth
 Earth, Nature, Spell\
 2 actions\
-Choose a point you can see on the ground within 30m of you. A fountain of churned earth and stone erupts in a 6m cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 6d10 Bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared away. Each 2m-square portion of the area requires at least 1 minute to clear by hand.
+Choose a point you can see on the ground within 30m of you. A fountain of churned earth and stone erupts in a 6m cube centered on that point. Make a Basic Spell attack against the Dexterity Defense DC each creature in the area.
+
+**Critical Success**: The target takes 12d10 Bludgeoning damage.\
+**Success**: The target takes 6d10 Bludgeoning damage.
+**Failure**: The target takes 3d10 Bludgeoning damage.
+**Critical Failure**: The target is unaffected.
+
+Additionally, the ground in that area becomes difficult terrain until cleared away. Each 2m-square portion of the area requires at least 1 minute to clear by hand.
 
 You can use this Flourish once per day.
 
@@ -162,13 +198,13 @@ You can use this Flourish once per day.
 ### Fireball
 Fire, Spell\
 2 actions\
-You engulf your foes in a ball of fire. Each creature in a 12m radius circle centered at a point within 30m of you must make a Basic Dexterity saving throw or take 10d6 Fire damage. You can use this Flourish once per day.
+You engulf your foes in a ball of fire. Make a Basic Spell attack against the Dexterity Defense DC ofeach creature in a 12m radius circle centered at a point within 30m of you to deal 10d6 Fire damage. 
 
 You can use this Flourish once per day.
 
 ### Flame Blade
 Fire, Spell\
-Quick action\
+Free action\
 You light up a weapon you are holding in flames. For 1 minute, you Strikes what that weapon deal Fire damage instead of its normal damage type and it gains a +2 status bonus to damage. You can use this Flourish once per day.
 
 You can use this Flourish once per day.
@@ -183,35 +219,35 @@ You can use this Flourish once per day.
 ### Force Blast
 Force, Spell\
 2 actions\
-You create a blast of pure magic to attack your foes. Each creature in a 12m cone must make a Basic Dexterity saving throw. On a failure, a target takes 8d6 + your Spellcasting ability force damage, is pushed 4m away, and knocked prone. You can use this Flourish once per day.
+You create a blast of pure magic to attack your foes. Make a Basic Spell attack against the Dexterity Defense DC of each creature in a 10m cone to deal 8d8 Force damage. On a failure it is also pushed 4m away and knocked prone.
 
 You can use this Flourish once per day.
 
 ### Harm
 Necrotic, Necromancy, Spell\
 2 actions\
-You channel negative energy. Each living creature within 12m of you must make a Might saving throw or take 5d10 Necrotic damage. Each undead creature within 12m of you regains 5d10hp. You can use this Flourish once per day.
+You channel negative energy. Make a Basic Spell attack against the Might Defense DC of each living creature within 12m to deal 5d10 Necrotic damage. Each undead creature within 12m of you regains 5d10hp.
 
 You can use this Flourish once per day.
 
 ### Heal
 Heal, Radiant, Spell\
 2 actions\
-You channel positive energy. Each undead creature within 12m of you must make a Might saving throw or take 5d10 Necrotic damage. Each living creature within 12m of you regains 5d10hp. You can use this Flourish once per day.
+You channel positive energy. Make a Basic Spell attack against the Might Defense DC of each undead creature within 12m to deal 5d10 Radiant damage. Each living creature within 12m of you regains 5d10hp.
 
 You can use this Flourish once per day.
 
 ### Healing word
 Heal, Mental, Spell\
 1 actions\
-A creature of your choice that you can see within 12m of you regains hit points equal to 6d4 + your Spellcasting ability. This Spell has no effect on undead or constructs. You can use this Flourish once per day. 
+A creature of your choice that you can see within 12m of you regains 8d4 hit points. This Spell has no effect on undead or constructs. 
 
 You can use this Flourish once per day.
 
 ### Holy Weapon
 Radiant, Spell\
 Quick action\
-You imbude your weapon with divine power. For 1 minute, your Strikes deal an extra 1d4 Radiant damage. You can use this Flourish once per day. 
+You imbude your weapon with divine power. For 1 minute, your Strikes deal an extra 1d4 Radiant damage. 
 
 You can use this Flourish once per day.
 
@@ -246,7 +282,15 @@ Mig: +3, Dex: +3, Int: +1, Wis: +0, Cha: +3
 **Speed**: 10m, Fly 10m
 
 ##### Actions
-**Charming Gaze** (Tempter only): The diabolic spirit attemps to corrupt a creature within 12m of it. The creature must succed at a DC 15 Wisdom saving throw or be Charmed by the diabolic spirit and take a -1 penalty to attacks, ability checks, and saving throws for 1 minute. The diabolic spirit also gain a +2 circumstance bonus to Deception and Persuasion checks while Charmed in this way.\
+**Charming Gaze** (Tempter only): The diabolic spirit attemps to corrupt a creature within 12m of it. It makes a Spell attack with a +7 to its attack against the Wisdom Defense DC of the creature. 
+
+**Critical Success**: The target is Charmed by the diabolic spirit and takes a -1 staus penalty to all its DCs for 1 hour.
+**Success**: The target is Charmed by the diabolic spirit and takes a -1 status penalty to all DCs for 1 minute
+**Failure**: The target takes a -1 status penalty to all its DCs for 1 round.
+**Critical Failure**: 
+
+The diabolic spirit gains a +2 circumstance bonus to Deception and Persuasion checks against a creature Charmed in this way.\
+
 **Longsword**: Melee attack, +7 to hit (Versatile P), reach 2m. **Damage**: 1d8 + 3 Slashing\
 
 ##### Other Features
@@ -257,13 +301,13 @@ Mig: +3, Dex: +3, Int: +1, Wis: +0, Cha: +3
 ### Inspiring speech
 Buff, Mental\
 10 minutes\
-You spend 10 minutes inspriring your companions. Up to 10 creatures who listened to your speech gains 6d8 temporary hit points. 
+You spend 10 minutes inspriring your companions. Up to 10 creatures who listened to your speech gains 6d8 temporary hit points that lasts until the next time you use this Flourish. 
 
 You can use this Flourish once per day.
 
 ### Knockdown
 Prone\
-Quick action\
+Free action\
 You attempt to knock a foe off balance. Make a Melee Strike. On a hit, the target is also knocked prone. 
 
 You can use this Flourish once per day.
@@ -271,14 +315,14 @@ You can use this Flourish once per day.
 ### Lightning Bolt
 Lightning, Spell\
 2 actions\
-You lauch a bolt of Lightning. Each creature in a 40m line that is 4m wide must make a Dexterity saving throw or take 5d12 Lightning damage on a failure, or become stunned 1 on a critical failure, in addition to doubling the damage, as normal. 
+You lauch a bolt of Lightning. Make a Basic Spell attack against the Dexteruty Defense DC of each creature in a 40m line that is 4m wide to deal 5d12 Lightning damage. On a Critical Success, the target is also stunned 1. 
 
 You can use this Flourish once per day.
 
 ### Living Construct
 Conjuration, Spell\
 2 action\
-You magically create a temporary golem to protect your companions and attack your foes. When you cast the spell, choose the creature’s form: Lightning-driven, Spell-driven, or Steam-driven. This determines some of the creatures statitics, as noted in the creatured stat block. The creature disappears when it drops to 0 hit points or when the spell ends. After 1 hour the spell automatically ends.
+You magically create a temporary golem to protect your companions and attack your foes. When you cast the spell, choose the creature’s form: Lightning-driven, Spell-driven, or Steam-driven. This determines some of the creatures statitics, as noted in the creatures stat block. The creature disappears when it drops to 0 hit points or when the spell ends. After 1 hour the spell automatically ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours (including on the turn you summoned it). It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
 
@@ -297,12 +341,12 @@ Mig +3, Dex: +1, Int: +2, Wis: -1, Cha: -2
 **Speed**: 10m (Steam-driven and Spell-driven only), or 16m (Electricity-driven only)\
 
 ##### Actions
-**Slam**: Melee attack, + 4 to hit (Shove), reach 2m. **Damage**: 1d4 + 4 Bludgeoning\
-**Hurl magic** (Spell-driven only): Ranged attack, +4 to hit (Magical), range 20m. **Damage**: 2d6 Force damage\
+**Slam**: Melee attack, + 5 to hit (Shove), reach 2m. **Damage**: 1d4 + 4 Bludgeoning\
+**Hurl magic** (Spell-driven only): Ranged attack, +5 to hit (Magical), range 20m. **Damage**: 2d6 Force damage\
 **Power Up** (Electricity-driven only): (Lightning) The construct charges itself up. For 1 minute, the construct deals 1 Lightning damage when its hits with a Strike and becomes Quickened 1. After it has used this action, it can't do so again until 10 minutes have passed, or until it takes Lightning damage.
 
 ##### Two-action activities
-**Unleash Energy**: (Flourish) The construct unleashes its powering energy. Each creature in a 16m cone must succed at a Dexterity saving throw against your personal DC or take 4d10 Fire (Steam-driven only), Lightning (Electricity only), or Force (Spell-driven only) damage. The construct can use this Flourish once per day.
+**Unleash Energy**: Ranged attack + 5 to hit (Flourish), area 12m cone. **Damage**: 5d10 Fire (Steam-driven only), Lightning (Electricity only), or Force (Spell-driven only). The construct can use this Flourish once per day.
 
 ### Nature's Ally
 Nature, Spell, Conjuration\
@@ -368,7 +412,8 @@ You can use this Flourish once per day.
 ### Quaking Stomp
 Earth, Nature, Spell\
 2 actions\
-You stomp the ground with such force that it creates a minor earthquake. Each creature within 30m of you must make a Might saving throw. On a failure, a target takes 5d12 Bludgeoning damage and is knocked prone. Objects and structures in the area takes damage as if they have critically failed their saving throw. 
+You stomp the ground with such force that it creates a minor earthquake. Make a Basic Spell attack against the Might Defense DC of each creature and object of your choice within 20m of you to deal 5d12 Bludgeoning damage. On a failure, the target is also knocked prone.
+Objects take double damage from this Flourish.
 
 You can use this Flourish once per day.
 
@@ -382,7 +427,12 @@ You can use this Flourish once per day.
 ### Ray of Enfeeblement
 Debuff, Necromancy, Spell\
 2 actions\
-A ray with the power to sap a foe's strength flashes from your hand. A target within 24m of you must make a Might saving throw. Each creature within 10m of the original target must also make this Might saving throw. On a failure, a target takes a -2 penalty attack rolls and ability checks for 1 minute. 
+A ray with the power to sap a foe's strength flashes from your hand. Make a Basic Spell attack against the Might Defense DC of each creature within a 6m burst centered at a point within 24m of you.
+
+**Critical Success**: The target takes 4d8 damage and takes a -3 penalty to all its DCs for 1 minute.\
+**Success**: The target takes 2d8 Necrotic damage and takes a -2 penalty to all its DCs for 1 minute.
+**Failure**: The target takes 2d8 Necrotic damage.
+**Critical Failure**: The target is unaffected.
 
 You can use this Flourish once per day.
 
@@ -418,7 +468,7 @@ You can use this Flourish once per day.
 ### Spellstrike
 Spell\
 2 actions\
-Your have learned how to channel magic into you strikes. You expend a use of a different Flourish that requires you to make a Spell attack and make an Strike. Your Spell is coupled with your attack, using your attack roll result to determine the effects of both the Strike and the Flourish. 
+Your have learned how to channel magic into you strikes. You expend a use of a different Flourish that requires you to make a Spell attack and then make a Strike. Your Spell is coupled with your attack, using your attack roll result to determine the effects of both the Strike and the Flourish. 
 
 You can use this Flourish once per day. 
 
@@ -432,7 +482,12 @@ You can use this Flourish once per day.
 ### Sunbeam
 Blinded, Light, Radiant, Spell\
 2 actions\
-A beam of brilliant light flashes out from your hand in a 2m wide, 24m long line. Each creature in the line must make a Might saving throw. On a failed save, a creature takes 6d8 Radiant damage and is dazzled until the start of your next turn. On a successful save, it takes half as much damage and isn’t dazzled by this Spell. 
+A beam of brilliant light flashes out from your hand in a 2m wide, 20m long line. Make a Spell attack against the Might Defense DC of each creature in the line.
+
+**Critical Success**: The target takes 12d8 Radiant damage and is Dazzled for 1 minute.\
+**Success**: The target takes 6d8 Radiant damage and is Dazzled until the start of your next turn.
+**Failure**: The target takes 3d8 Radiant damage.
+**Critical Failure**: The target is unaffected.
 
 This Spell dispels any darkness in its area that was created by a Spell. 
 
@@ -440,7 +495,12 @@ You can use this Flourish once per day.
 
 ### Suggestion
 Enchantment, Incapatiation, Mental, Spell\
-Your honeyed words are difficult for creatures to resist. You suggest a course of action to the target, which must be phrased in such a way as to seem like a logical course of action to the target and can't be self-destructive or obviously against the target's self-interest. A creature within 20m of you must attempt a Will save.
+Your honeyed words are difficult for creatures to resist. You suggest a course of action to the target, which must be phrased in such a way as to seem like a logical course of action to the target and can't be self-destructive or obviously against the target's self-interest. Make a Spell attack against the Wisdom Defense DC of a creature within 20m
+
+**Critical Success**: As Success, but the base duration is 1 hour.
+**Success**: The target immediately follows your suggestion. The spell has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious negative effects.
+**Failure**: The target is unaffected and thinks you were talking to them normally, not casting a spell on them.
+**Critical Failure**: The target is unaffected and knows you tried to control it.
 
 Critical Success The target is unaffected and knows you tried to control it.
 Success The target is unaffected and thinks you were talking to them normally, not casting a spell on them.
@@ -459,28 +519,28 @@ You can use this Flourish once per day.
 ### Thunderous Smite
 Thunder, Spell\
 1 action\
-Your weapon rings with thunder that is audible within 300 feet of you. Make a Melee Strike. On a success, the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Might saving throw or be pushed 10 feet away from you and knocked prone. 
+Your weapon rings with thunder that is audible within 300 feet of you. Make a Melee Strike. On a success, the attack deals an extra 2d6 thunder damage to the target and it is pushed 2m away and knocked Prone.
 
 You can use this Flourish once per day. 
 
 ### Thunderwave
 Thunder, Spell\
 2 actions\
-A wave of thunderous force sweeps out from you. Each creature in a 6m emenation must make a Might saving throw. On a failed save, a creature takes 8d8 thunder damage and is pushed 4m away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
+A wave of thunderous force sweeps out from you. Make a Basic Spell attack against the Might Defense DC of each creature within 6m of you. On a success, the target is also pushed 4m away from you.
 
-In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the Spell’s effect, and the Spell emits a thunderous boom audible out to 300 feet.
+In addition, unsecured objects that are completely within the area of effect are automatically pushed 4m away from you by the Spell’s effect, and the Spell emits a thunderous boom audible out to 300 feet.
 
 You can use this Flourish once per day. 
 
 ### Unnerving Prowess
 Frightened\
 1 action\
-Your incredible skill with your weapons unnerves your foes. Make a Melee Strike. On a hit, you automatically disarms the target and it becomes frightened 1. 
+Your incredible skill with your weapons unnerves your foes. Make a Melee Strike. On a hit, you automatically disarms the target and it becomes Frightened 1. 
 
 You can use this Flourish once per day. 
 
 ### Vampric Exsanguination
-You draw in the blood and life force of other creatures through your outstretched arms. All living creatures in a 20m cone must succed at a Might saving throw or take 8d6 Necrotic damage. You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.
+You draw in the blood and life force of other creatures through your outstretched arms. Make a Basic Spell attack against the Might Defense DC of each living creature in a 20m cone. You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.
 
 You can use this Flourish once per day. 
 
@@ -505,13 +565,13 @@ You can use this Flourish once per day.
 ### Weapon Barrage
 Spell\
 2 actions\
-You conjure dosens of weapons and lauch them at your foes. Each creature in a 14m long line that is 6m wide must make a Dexterity saving throw or take 6d10 Bludgeoning, Piercing, or Slashing damage (your choice for each target). 
+You conjure dosens of weapons and lauch them at your foes. Make a Basic Spell attack against the Dexterity Defense DC of each creature in a 14m long line that is 6m wide to deal 6d10 Bludgeoning, Piercing, or Slashing damage (your choice for each target). 
 
 You can use this Flourish once per day. 
 
 ### Wrathful Smite
 Fear, Mental, Spell\
 1 action\
-You call down divine wrath on your foes. Make a Melee Strike. On a success, the targets takes an extra 1d6 mental damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or become frightened 2 of you. 
+You call down divine wrath on your foes. Make a Melee Strike. On a success, the targets takes an extra 1d6 mental damage. Additionally, if the target is a creature, it becomes Frightened 1.
 
 You can use this Flourish once per day. 

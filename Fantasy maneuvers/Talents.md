@@ -15,6 +15,8 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 
 A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
+You can have no more than one Alarm active at a time.
+
 ### Animal Friendship
 Beasts, Nature, Spell\
 2 actions\
@@ -48,7 +50,7 @@ Your charm allows you to win over those you lie to. When you get a critical succ
 
 ### Codebreaker
 Society\
-Comstant\
+Constant\
 Your skill with languages and codes is so great that you can decipher information with little more than a quick read through a text. You can Decipher Writing using Society while reading at normal speed. If you slow down and spend the full amount of time that’s ordinarily required and roll a success, you get a critical success; if you critically succeed while spending the normal amount of time, you gain a nearly word-for-word understanding of the document.
 
 ### Confabulator
@@ -63,8 +65,10 @@ You zealously monitor a patient’s progress to administer treatment faster. Whe
 
 ### Dancing Lights
 Light, Spell\
-Quick action\
-You create four dancing lights at different points within 20m of you. Each dancing light sheds bright light for up to 6m and dim light for an additional 6m. As a Quick action on subsequent turns, you can move each of the lights to a different posisition within 20m of you. If at any point one of the lights are more than 20m from you, that light fades.
+Free action\
+You create four dancing lights at different points within 20m of you. Each dancing light sheds bright light for up to 6m and dim light for an additional 6m. As a Free action on subsequent turns, you can move each of the lights to a different posisition within 20m of you. If at any point one of the lights are more than 20m from you, that light fades.
+
+The lights fades after 10 minutes have passed or if you use this Talent again.
 
 ### Detect Magic
 Divination, Spell\
@@ -300,12 +304,12 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 
 If you cast this spell multiple times, you can only have one of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
 
-### Quick Jump
+### Free Jump
 Movement\
 1 action\
 You can use High Jump and Long Jump as a single action instead of 2 actions. If you do, you don’t perform the initial Stride (nor do you fail if you don’t Stride 10 feet). In addition, you increase the vertical distance you move when you High Jump by 2m and the horizontal distance you move when you Long Jump by 4m.
 
-### Quick Squeeze
+### Free Squeeze
 Acrobatics\
 Constant\
 You are particularly good at rapidly squeezing into and through tight spaces. You can Squeeze a single action, and you gain a +2 circumstance bonus to any check you required to Squeeze.

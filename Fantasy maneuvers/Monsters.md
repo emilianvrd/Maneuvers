@@ -9,7 +9,7 @@ Description
 **Size**: \
 **Languages**: \
 **Skills**: \
-Mig: , Dex: , Int: , Wis: , Cha: \
+Mgt: , Dex: , Int: , Wis: , Cha: \
 **Items**: \
 **Challenge Rating**: 
 

@@ -15,7 +15,9 @@ You strike a specific point to help your ally's attack. Make a Strike with a wea
 
 ### Bomb
 1 action\
-You throw a bomb at a a target within 20m of you. Make an Ranged Strike. You can use either Might or Dexterity for this attack (your choice). On a hit, the target takes 1d8 Bludgeoning damage and 1d8 Fire damage. Regardless of if you hit or not, it and each creature and unattended object within 4m of it takes 2 Fire damage. This damage increases by 1 when you reach 4th level and 8th level. If you have both hands free when making this Strike, increase the damage to 1 Bludgeoning damage and 1d10 Fire damage.
+You throw a bomb at a a target within 20m of you. Make an Ranged Strike. You can use either Might or Dexterity for this attack (your choice). On a hit, the target takes 1d8 Bludgeoning damage and 1d8 Fire damage. The target and each creature and unattended object within 4m of it also takes 2 Fire damage on a hit.. This damage increases by 1 when you reach 5th level and every 5 levels after that. 
+
+If you have both hands free when making this Strike, increase the damage to 1d10 Bludgeoning damage and 1d10 Fire damage.
 
 ### Brutal Shove
 Push\
@@ -32,7 +34,7 @@ You target a specific area of your foe's anatomy to debilitating effect. As a tw
 * **Arms** The target is enfeebled 2 until the end of your next turn. On a critical hit, it's also enfeebled 1 for 1 minute.
 * **Head** The target is stupefied 2 until the end of your next turn. On a critical hit, it's also stupefied 1 for 1 minute.
 * **Legs** The target takes a –4 meter status penalty to its Speeds until the end of your next turn. On a critical hit, it also takes a –2 meter status penalty to its Speeds for 1 minute.
-* **Wings** If the target is flying using its wings, it immediately falls 8m (4 squares), or 12 on a critical hit. The fall is gradual enough that if the target hits the ground, it takes no damage from the fall.
+* **Wings** If the target is flying using its wings, it immediately falls 8m (4 squares), or 12m on a critical hit. The fall is gradual enough that if the target hits the ground, it takes no damage from the fall.
 
 ### Certain Strike
 Even when you don’t hit squarely, you can still score a glancing blow. As an action, make a Strike. It gains the following failure effect.\
@@ -101,7 +103,7 @@ Fire, Spell\
 1 action\
 You create a quick bolt of fire and launch it at a foe. Make a Ranged Spell Attack against a target within 60m of you. On a hit, the target takes 1d6+your Spellcasting modifier Fire damage.
 
-### Flame Blade
+### Fireblade
 Fire, Spell\
 1 action\
 You create a sword of pure fire in an free hand then immediatly attack with it. Make a Melee Attack. On a success, the target takes 1d10 + your Spellcasting ability Fire damage.

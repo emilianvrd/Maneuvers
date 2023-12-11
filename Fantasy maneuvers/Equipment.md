@@ -10,12 +10,8 @@ Armor increases your character’s defenses, but some medium or heavy armor can 
 
 ### Armor Rules
 
-#### Armor class
-Your Armor Class (AC) measures how well you can defend against attacks. When a creature attacks you, your Armor Class is the DC for that attack roll.
-
-Armor Class = 10 + Dexterity modifier (up to your armor’s Dex Cap) + armor’s item bonus to AC + other bonuses + penalties
-
-If you are wearing armor you are not proficienct in, you take a -4m penalty to speed and you halve the armor's item bonus to AC (round down as normal).
+#### Armor without proficiency
+If you are wearing armor you are not proficienct in, you take a -4m penalty to speed and you halve the armor's item bonus to Dexterity saving throws (round down as normal).
 
 #### Donning and doffing armor
 Getting in and out of armor is time consuming—so make sure you’re wearing it when you need it! Donning and removing armor are both activities involving many Interact actions. It takes 1 minute to don light armor, 5 minutes to don medium or heavy armor, and 1 minute to remove or doff any armor.
@@ -23,11 +19,11 @@ Getting in and out of armor is time consuming—so make sure you’re wearing it
 #### Category
 The armor’s category (unarmored, light armor, medium armor, or heavy armor) indicate which proficiency is used to determine if you are proficient in your armor or not.
 
-#### AC bonus
+#### Dexterity saving throws bonus
 This number is the item bonus you add for the armor when determining Armor Class.
 
 #### Dexterity modifier cap (Dex cap)
-This number is the maximum amount of your Dexterity modifier that can apply to your AC while you are wearing a given suit of armor. For example, if you have a Dexterity modifier of +4 and you are wearing a suit of half plate, you apply only a +1 bonus from your Dexterity modifier to your AC while wearing that armor.
+This number is the maximum amount of your Dexterity modifier that can apply to your Dexterity saving throws while you are wearing a given suit of armor. For example, if you have a Dexterity modifier of +4 and you are wearing a suit of half plate, you apply only a +1 bonus from your Dexterity modifier to your Dexterity saving throws while wearing that armor.
 
 #### Check penalty
 While wearing your armor, you take this penalty to Might- and Dexterity-based skill checks, except for those that have the attack trait. If you meet the armor’s Might threshold (see the Might column above), you don’t take this penalty.
@@ -48,23 +44,23 @@ Each type of armor belongs to an armor group, which classifies it with similar t
 
 ### Armor Types
 
-|  Name | Category |  Traits | Price  | Base AC  |  Dex cap | Check penalty | Speed penalty | Might | Weight | Group |
+|  Name | Category |  Traits | Price  | Dexterity saving throw bonus |  Dex cap | Check penalty | Speed penalty | Might | Weight | Group |
 |---|---|---|---|---|---|---|---|---|---|---|
-|  Unarmored | Unarmored | — | — | 10 | — | — | — | — | — | — |
-| Explorers clothing | Unarmored | Comfort | 1sp | 10 | +5 | — | — | — | 1kg | Cloth |
-| Padded armor | Light | Comfort | 2sp | 11 | +4 | — | — | — | 3kg | Cloth |
-| Leather armor | Light | — | 20sp | 11 | +4 | -1 | — | — | 3kg | Leather |
-| Studded leather | Light | — | 30sp | 12 | +3 | -1 | — | +0 | 4kg | Leather |
-| Chain shirt | Light | Flexible, Noisy | 40sp | 12 | +3 | -2 | -2m | +0 | 2kg | Chain |
-| Hide armor | Medium | — | 20sp | 13 | +2 | -2 | -2m | +1 | 5kg | Leather |
-| Scale mail  | Medium | — | 40sp | 14 | +2 | -2 | -2m | +1 | 5kg | Composite |
-| Chain mail | Medium | Flexible, Noisy | 50sp | 14 | +1 | -2 | -2m | +2 | 8kg | Chain |
-| Breasplate | Medium | — | 60sp | 14 | +1 | -2 | -2m | +2 | 6kg | Plate |
-| Splint | Heavy | — | 70sp | 15 | +1 | -3 | -4m | +3 | 25kg | Composite |
-| Plate | Heavy | — | 80sp | 16 | +0 | -3 | -4m | +3 | 30kg | Plate |
+|  Unarmored | Unarmored | — | — | +0 | — | — | — | — | — | — |
+| Explorers clothing | Unarmored | Comfort | 1sp | +0 | +5 | — | — | — | 1kg | Cloth |
+| Padded armor | Light | Comfort | 2sp | +1 | +4 | — | — | — | 3kg | Cloth |
+| Leather armor | Light | — | 20sp | +1 | +4 | -1 | — | — | 3kg | Leather |
+| Studded leather | Light | — | 30sp | +2 | +3 | -1 | — | +0 | 4kg | Leather |
+| Chain shirt | Light | Flexible, Noisy | 40sp | +2 | +3 | -2 | -2m | +0 | 2kg | Chain |
+| Hide armor | Medium | — | 20sp | +3 | +2 | -2 | -2m | +1 | 5kg | Leather |
+| Scale mail  | Medium | — | 40sp | +3 | +2 | -2 | -2m | +1 | 5kg | Composite |
+| Chain mail | Medium | Flexible, Noisy | 50sp | +4 | +1 | -2 | -2m | +2 | 8kg | Chain |
+| Breasplate | Medium | — | 60sp | +4 | +1 | -2 | -2m | +2 | 6kg | Plate |
+| Splint | Heavy | — | 70sp | +5 | +1 | -3 | -4m | +3 | 25kg | Composite |
+| Plate | Heavy | — | 80sp | +6 | +0 | -3 | -4m | +3 | 30kg | Plate |
 
 ## Shields
-While many are content with the defense their armor gives them, others supplement themselves with a shield. Shields give you a circumstance bonus to AC and can also be used to make Strikes. 
+While many are content with the defense their armor gives them, others supplement themselves with a shield. Shields give you a circumstance bonus to Dexterity saving throws and can also be used to make Strikes. 
 
 ### Shield Rules
 
@@ -82,7 +78,7 @@ Shields have hit points and hardness based on their weight. While they are made 
 
 ### Shield types
 
-|  Name | AC bonus | Traits | Damage | Speed penalty | Weight | Price |
+|  Name | Dexterity saving throws bonus | Traits | Damage | Speed penalty | Weight | Price |
 |---|---|---|---|---|---|---|
 | Buckler | +1 | Light | 1d4B | – | 1kg | 8sp |
 | Dart Shield | +1 | Dart-thrower | 1d4B | – | 2kg | 40sp |
@@ -159,7 +155,7 @@ This shield is paricularly adapted at deflecting a certain type of damage. Whene
 Shields with the Dual trait are meant to be paired. If you are holding a shield with the Dual trait in each hand, the circumstance bonus from the shield increases to the listed amount.
 
 **Freestanding**
-A shield with the Freestanding trait is practically a mobile wall. As an Interact action while wielding the shield, it can be doffed and positioned on the ground in an unoccupied adjacent 2m³ square. While posistioned in this way, it gived its circumstance bonus to AC to any creatures standing adjacent to it who is targeted by an attack that would pass through the square the shield is positioned in. To determine whether an attack would pass through the square the shield is positioned in, draw a straight line from the center of the attacker to the center of the target. If it passes through the square the shield in positioned in, the circumstance bonus applies. If the line only passes through the edge of the shield, the GM may rule only half the circumstance bonus applies.
+A shield with the Freestanding trait is practically a mobile wall. As an Interact action while wielding the shield, it can be doffed and positioned on the ground in an unoccupied adjacent 2m³ square. While posistioned in this way, it gived its circumstance bonus to Dexterity saving throws to any creatures standing adjacent to it who is targeted by an attack that would pass through the square the shield is positioned in. To determine whether an attack would pass through the square the shield is positioned in, draw a straight line from the center of the attacker to the center of the target. If it passes through the square the shield in positioned in, the circumstance bonus applies. If the line only passes through the edge of the shield, the GM may rule only half the circumstance bonus applies.
 
 **Harnessed**
 This shield type features a special brace or opening designed to hold lances or other jousting weapons. Jousters often use these shields as a backup in narrow passages and other places where they're unable to ride a mount. You can use the Interact action to lock a weapon with the jousting trait in place in the shield, enabling you to use two hands to wield the shield and weapon simultaneously. If you're not wielding the combined unit with both hands, you can use neither the weapon nor the shield.
@@ -170,10 +166,10 @@ While you are wielding the shield, you can gain the jousting benefit of a weapon
 This type of shield is designed to be donned and doffed quickly. You can don or doff this shield as a Free action.
 
 **Raise**
-You can use an action to focus on defending with the shield, increasing the circumstance bonus to AC to the listed amount.
+You can use an action to focus on defending with the shield, increasing the circumstance bonus to Dexterity saving throws to the listed amount.
 
 **Versatile defense**
-Shields with the Versatile defense trait can be easily positioned in the gaps of any other protection you may have. If you a wielding a shield with this trait and you would gain a circumstance bonus to AC from another source, you increase the circumstance bonus to AC from the shield by 1 while you would gain this circumstance bonus. This increase only applies once and the circumstance bonus provided by the shield can therefore never increase by more than 1 due to this feature.
+Shields with the Versatile defense trait can be easily positioned in the gaps of any other protection you may have. If you a wielding a shield with this trait and you would gain a circumstance bonus to Dexterity saving throws from another source, you increase the circumstance bonus to Dexterity saving throws from the shield by 1 while you would gain this circumstance bonus. This increase only applies once and the circumstance bonus provided by the shield can therefore never increase by more than 1 due to this feature.
 
 ## Weapons
 ### Melee Weapons
@@ -268,7 +264,7 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 Each weapon adds a different additional effect on a critical hit, in addition to doubling the damage as normal. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
 
 #### Axe
-Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled. This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
+Choose one creature adjacent to the initial target and within reach. If its Dexterity saving throws is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled. This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
 
 #### Bow
 If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 Athletics check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort. 
