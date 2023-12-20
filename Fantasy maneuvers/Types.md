@@ -1027,6 +1027,12 @@ Warriors are tough masters of martial combat and are skilled with a variety of w
 **Armor proficiency**: Light, Medium, and Heavy armor\
 **Weapon proficiency**: Simple and Martial weapons
 
+#### Ancestry and Backround
+In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
+
+#### Maneuvers
+You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. Additionally, warriors learn a wider variety of martial maneuvers than others, you gain an additional Fighting Move. This Fighting Move cannot have the Spell trait.
+
 #### Resolve
 Once per day, you can use a Free action to immediatly regain 10hp. At 4th level and every 4 levels after that, increase the number of hit points you regain by 5hp.
 
@@ -1036,7 +1042,7 @@ You add your proficiency bonus to any Basic Might or Dexterity Defense Rolls you
 ### 2nd
 
 #### Guardian's Deflection
-You easily deflect blows against yourself or your allies. As a Reaction, when you or an ally within your reach is about to make a Dexterity Defense Roll, you can give yourself or the ally a +1 Status bonus to Dexterity Defense Rolls until the start of your next turn. The Status bonus applies on the triggering roll.
+You easily deflect blows against yourself or your allies. As a Reaction, when you or an ally within your reach is about to make a Dexterity Defense Roll, you can give yourself or the ally a +1 Status bonus to Dexterity Defense Rolls until the start of your next turn. The Status bonus applies on the triggering roll. You also gain a +4 Circumstance bonus to the damage you deal with any Strikes you make as a Reaction.
 
 #### Talented
 You've acquiered a new aptitude. You gain an additional Talent.

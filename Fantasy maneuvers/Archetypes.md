@@ -6,23 +6,57 @@ Archtypes determines most of what your character can do. You gain two archetypes
 ### Abjurer
 Abjuration is a powerful school of magic that allows the wielder to protect themselves and others. 
 
-A magical shield surrounds you. The shield has 5 hit points. Whenever you take damage, the shield protects you, taking the damage instead. If the damage you would take exceeds the hit points of the shield, you take the remaining damage. When you perform a Fighting move with the Abjuration and Spell traits, the shield regains 1 hit point. When you perform a Flourish with the Abjuration and Spell traits, the shield regains 5 hit points. The shield can never have more than 5 hit points. If regaining hit points causes would cause it to gain more than 5 hit points, it regains hit points until it has 5 hit points instead.
+
+#### Initial Ability
+A magical shield surrounds you. The shield has 5 hit points. Whenever you take damage, the shield protects you, taking the damage instead. If the damage you would take exceeds the hit points of the shield, you take the remaining damage. When you perform a Fighting move with the Abjuration and Spell traits, the shield regains 1 hit point. When you perform a Flourish with the Abjuration and Spell traits, the shield regains 5 hit points. The shield can never have more than 5 hit points. If regaining hit points causes would cause it to gain more than 5 hit points, it regains hit points until it has reached its maximum instead. 
+
+At 4th level and every 4 levels thereafter, the shield's maximum hit points increases by 2.
+
+#### Greater Ability
+The shield's initial hit points increases to 10. In addition, at 4th level and every 4 levels thereafter, the shield's hit points increases by 5. 
+
+The shield 2 hit points when you perform a Fighting move with the Abjuration and Spell trait instead of 1, and it regains 15 hit points when you perform a Flourish with the Abjuration and Spell trait instead of 5.
+
+#### Ultimate Ability
+Your power's of protection are unparalleled. The shield's initial hit points increases to 15. In addition, at 4th level and every 4 levels thereafter, the shield's hit points increases by 10. 
+
+The shield 3 hit points when you perform a Fighting move with the Abjuration and Spell trait instead of 3, and it regains 30 hit points when you perform a Flourish with the Abjuration and Spell trait instead of 15.
+
+In addition, as a Reaction when an ally within 20m would take damage, you can reduce the damage by an amount equal to the shield's number of hit points divided by 5.
 
 ### Alchemist
 There’s no sight more beautiful to you than a strange brew bubbling in a beaker, and you consume your ingenious elixirs with abandon. You’re fascinated by uncovering the secrets of science and the natural world, and you’re constantly experimenting in your lab or on the go with inventive concoctions for every eventuality. You are fearless in the face of risk, hurling explosive or toxic creations at your foes. 
+
+#### Initial Ability
 
 When you learn a Fighting Move, Talent, or Flourish that has the Spell trait, you can cause it to lose that trait as you can replicate Spells with potent elixirs or alchemical bombs. It still counts as a Spell for the purpose of determining if a Circumstance, Status, Item or Enhancement bonus or penalty applies to it. 
 
 When you perform a Fighting Move, Talent, or Flourish, you can choose to store the effect as an alchemical bomb or elixir. If you do, the Flourish doesn't take effect immediatly. You or an ally can then again use the number of actions it would take to Perform the Fighting Move, Talent or Flourish to activate it and cause it to have its normal effects. The stored Fighting Move, Talent or Flourish lasts for 1 hour or until you store another Fighting Move, Talent or Flourish.
 
-The creature that activated the Fighting Move, Talent, or Flourish is treated as the one who performed the Fighting Move, Talent, or Flourish for the purpose of determining the point of origin for the ability and may gain a an increased damage die if the one performing the Fighting Move, Talent or Flourish has a free hand when performing it, but you still use your statistics for everything else, such as the attack bonus added to the attack. 
+The creature that activated the Fighting Move, Talent, or Flourish is treated as the one who performed the Fighting Move, Talent, or Flourish for the purpose of determining the point of origin for the ability and may gain a larger damage die if the one performing the Fighting Move, Talent or Flourish has a free hand when performing it, but you still use your statistics for everything else, such as the attack bonus added to the attack. 
 
 You also learn a Fighting Move with the Spell trait, but it loses that trait immediatly after you learn it.
 
-### Arcanomancer
-You are a specialist in arcane magic and you have become incredibly adept at using it. 
+#### Greater Ability
+When you store a Fighting Move, Talent or Flourish as an alchemical bomb or elixir, you can immediatly use a Free action to throw the potion up to 20m to an ally with a free hand. Before the start of your next turn, the ally can use a Free action to activate the Fighting Move, Talent or Flourish.
 
-Once per day, you can choose to empower a Flourish with the spell trait you are performing without expending all three uses of the Flourish. You can use this ability even if you don't have three uses of the Flourish left. As normal, you can only empower a Flourish that can be used three times per day.
+In addition, you can have up to 5 Fighting Moves, Talents, or Flourishes stored at any point, instead of one. You also gain a +2 Circumstance bonus to Craft and to Identify alchemical items and creatures.
+
+#### Ultimate Ability
+Your bubbling potions both heal your allies and harm your foes. Once per turn, when a willing creature, or a creature whom you Succeed at an attack roll against, is affected by a Fighting Move or Flourish that had been stored as an alchemical bomb or elixir, you can choose of the following option for the creature to additionally be affected by:
+* The target takes 2d4 Persistent Acid damage. This damage increases by 1d4 at 4th level and every 4 levels thereafter.
+* The target regains 2d4 hit points. This healing increases by 1d4 at 4th level and every 4 levels thereafter.
+
+### Arcanomancer
+You specialize in the destructive powers of arcane magic
+#### Initial Ability
+
+Once per day, you can choose to empower a Flourish with the spell trait you are performing. If you do, you gain a +15 Status bonus to the damage it deals. This bonus increases 
+
+
+
+
+
 
 ### Archmage
 Archmages are masters of all types of magic and you are now one of them.

@@ -20,7 +20,7 @@ You can have no more than one Alarm active at a time.
 ### Animal Friendship
 Beasts, Nature, Spell\
 2 actions\
-This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within 12m of you. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
+This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within 12m of you. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for 1 minute. If you or one of your companions harms the target, the spell ends.
 
 ### Animal Messenger
 Beasts, Nature, Spell\
@@ -51,7 +51,9 @@ Your charm allows you to win over those you lie to. When you get a critical succ
 ### Codebreaker
 Society\
 Constant\
-Your skill with languages and codes is so great that you can decipher information with little more than a quick read through a text. You can Decipher Writing using Society while reading at normal speed. If you slow down and spend the full amount of time that’s ordinarily required and roll a success, you get a critical success; if you critically succeed while spending the normal amount of time, you gain a nearly word-for-word understanding of the document.
+Your skill with languages and codes is so great that you can decipher information with little more than a quick read through a text. You can Decipher Writing using Society while reading at normal speed. If you slow down and spend the full amount of time that’s ordinarily required and roll a success, you get a critical success; if you critically succeed while spending the normal amount of time, you gain a nearly word-for-word understanding of the document. 
+
+In addition, you can use Society instead of Insight to detect when a creature is lying and you gain a +1 Circumstance bonus to your roll if you do.
 
 ### Confabulator
 Deception\
@@ -130,6 +132,11 @@ You must be a follower of a specific religion to choose this Talent.
 Lore\
 You carefully safeguard your professional endeavors to prevent disaster. When you use Lore to Earn Income, if you roll a critical failure, you instead get a failure. You also gain twice as much income from a failed check to Earn Income, unless it was originally a critical failure.
 
+### Fast Jump
+Movement\
+1 action\
+You can use High Jump and Long Jump as a single action instead of 2 actions. If you do, you don’t perform the initial Stride (nor do you fail if you don’t Stride 10 feet). In addition, you increase the vertical distance you move when you High Jump by 2m and the horizontal distance you move when you Long Jump by 4m.
+
 ### Foil Senses
 Stealth\
 Constant\
@@ -144,11 +151,15 @@ Multiple smaller creatures or creatures with significantly smaller appetites tha
 
 In addition, when you forage, you also learn what plants, fungi, and animals are prevalent in the region.
 
-
 ### Forensic Acumen
 Medicine\
 Constant\
 You understand the principles of forensic medicine, making you better at examining a body to determine the cause of death or injury. You can perform a forensic examination on a body, as described under Recall Knowledge in the Medicine skill, in half the normal amount of time it would take (to a minimum of 5 minutes). If you succeed at your check, you can attempt an immediate check to Recall Knowledge to follow up on something you found, with a +5 circumstance bonus. This check is usually related to the cause of injury or death, such as a Crafting check to identify a poison or weapon that was used or an additional Medicine check to identify a specific disease. If you prefer, you can instead attempt to Recall Knowledge about the type of creature whose body you were examining, using the appropriate skill and gaining the same circumstance bonus.
+
+### Free Squeeze
+Acrobatics\
+Constant\
+You are particularly good at rapidly squeezing into and through tight spaces. You can Squeeze a Free action, and you gain a +3 circumstance bonus to any check you required to Squeeze.
 
 ### Freedom of Movement
 Acrobatics\
@@ -169,9 +180,14 @@ When you Coerce, you can compare your Intimidation check result to the Will DCs 
 Diplomacy\
 When you Make an Impression, you can compare your Diplomacy check result to the Will DCs of four targets instead of one. It’s possible to get a different degree of success for each target. 
 
+### Hefty Hauler
+Athletics\
+Constant\
+You can carry more than most. Increase the amount of weight you can carry before becoming encumbered by 20kg. You also gain a +1 Circumstance bonus against effects that would make you Fatigued.
+
 ### Hidden Disguise
 Deception\
-You always have a the tools necessery to craft disguises. You can create and don a disguise as by spending two actions.
+You always have a the tools necessery to craft disguises. You can create or don a disguise as a two-action activity.
 
 ### Identify
 Divination, Spell\
@@ -190,12 +206,7 @@ You craft flawless creations with great efficiency. Whenever you roll a success 
 ### Impressive Display
 Athletics\
 1 action\
-You perform a feat of strength, impressing those nearby. For the next minute, you gain a +1 status bonus on Deception, Persuasion, and Intimidation checks against those who saw your display.
-
-### Intimidating Glare
-Intimidation\
-Constant\
-You can Demoralize with a mere glare. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don’t take a penalty if the creature doesn’t understand your language.
+You perform a feat of strength, impressing those nearby. For the next minute, you gain a +1 Status bonus on Deception, Persuasion, Performance, and Intimidation checks against those who saw your display.
 
 ### Jack of all Trades
 Constant\
@@ -210,7 +221,7 @@ You can use this Talent three times per day.
 
 ### Lasting Coercion
 Intimidation\
-When you successfully Coerce someone, the maximum time they comply increases to a week, still determined by the GM. 
+When you successfully Coerce someone, the maximum time they comply increases to a week, still determined by the GM. In addition, when you get a Critical Failure on a check to Coerce someone, you get a Failure instead.
 
 ### Legendary Performer
 Performance\
@@ -232,7 +243,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 ### Line Dancer
 Skill\
 Constant\
-You have improved your balance by training on narrow lines. You gain a +3 circumstance bonus to Balance.
+You have improved your balance by training on narrow lines. You gain a +3 circumstance bonus to Balance and a +1 Circumstance bonus against being Shoved and knocked prone.
 
 ### Linguist
 Language\
@@ -254,7 +265,7 @@ Arcana, Crafting\
 You can Craft magic items, though some have other requirements.
 
 ### Mending
-Construction\
+Crafting\
 1 minute
 You repairs a single break or tear in an object within 4m of you, such as broken chain link, two halves of a broken key, a torn cloack, or a leaking wineskin.
 As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
@@ -286,6 +297,11 @@ Nature, Spell\
 2 actions\
 Once per day, you can activate this ability to turn into an animal of Challenge Rating 0. All you statistics and abilities are replaced by the statistics and abilities of the beast, except your Intelligence, Wisdom, and Charisma scores. You still retain your personality and return to your original form in 1 hour or until you spend an action do end the spell.
 
+### Natural Medicine
+Nature\
+Constant\
+You can apply natural cures to heal your allies. You can use Nature instead of Medicine to Treat Wounds. If you’re in the wilderness, you might have easier access to fresh ingredients, allowing you to gain a +2 circumstance bonus to your check to Treat Wounds using Nature, subject to the GM’s determination.
+
 ### Pickpocket
 Sleight of hand\
 1 action\
@@ -303,16 +319,6 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 * You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can only have one of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
-
-### Free Jump
-Movement\
-1 action\
-You can use High Jump and Long Jump as a single action instead of 2 actions. If you do, you don’t perform the initial Stride (nor do you fail if you don’t Stride 10 feet). In addition, you increase the vertical distance you move when you High Jump by 2m and the horizontal distance you move when you Long Jump by 4m.
-
-### Free Squeeze
-Acrobatics\
-Constant\
-You are particularly good at rapidly squeezing into and through tight spaces. You can Squeeze a single action, and you gain a +2 circumstance bonus to any check you required to Squeeze.
 
 ### Quiet Allies
 Stealth\
