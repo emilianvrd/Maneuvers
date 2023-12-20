@@ -11,8 +11,14 @@ You or your bloodline have been blessed by a supernatural creature. It might be 
 
 ### 1st
 
+#### Ancestry and Backround
+In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
+
 #### Blessed Magic
 Your magic amplifies your healing powers or reaps the life or your foes. When you perform a Flourish with the Spell trait, one creature of your choice within 20m of you regains 3d10 hit points, or 3d12 hit points if the Flourish caused the creature to regain hit points.
+
+#### Maneuvers
+You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
 #### Mental Bastion
 You add your proficiency bonus to any Basic Intelligence or Wisdom Defense Rolls you make.
@@ -206,11 +212,19 @@ You're able to withstand even more damage. Increase your hit points and your hit
 **Armor proficiency**: Light, Medium and Heavy armor\
 **Weapon proficiency**: Simple and Martial weapons
 
+### 1st
+
+#### Ancestry and Backround
+In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
+
 #### Disciplined Defense
 You add you proficiency bonus to any Basic Might or Charisma Defense Rolls you make.
 
 #### Lay on Hands
 Your touch can mend wounds. As an action, you can cause a creature you touch to regain 3d8 hit points. You then can't use this ability again until you have spent 10 minutes meditating to allow positive energy to fill you again. This healing increases by 3d8 at 4th level and every 4 levels after that.
+
+#### Maneuvers
+You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
 ### 2nd
 
@@ -398,8 +412,16 @@ A magician is a master of magic and the supernatural. They may have studied tire
 **Armor proficiency**: None\
 **Weapon proficiency**: Club, Dagger, Light crossbow, Quarterstaff
 
+### 1st
+
+#### Ancestry and Backround
+In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
+
 #### Magical Master
 You gain an additional Flourish with the Spell trait. You also gain a +1 circumstance bonus to damage to Flourishes with the Spell trait.
+
+#### Maneuvers
+You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
 #### Fortified Mind
 You add your proficiency bonus to any Basic Intelligence or Charisma Defense Rolls you make.
@@ -594,8 +616,16 @@ Your magical and mundane training combines to make you able to withstand even mo
 **Armor proficiency**: Light armor\
 **Weapon proficiency**: Simple and Martial weapons
 
+#### Ancestry and Backround
+In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
+
 #### Hunter's Mark
 When you have identified your prey, you relentlessy pursue that foe. As a Free action, you can choose a creature you can see to become your prey. You gain a +2 Status bonus to Perception checks to Seek your prey and to Survival checks to Track your prey. In addition, you gain a +2 Status bonus to damage with Strikes and Fighting Moves against your prey. These benefits lasts for 1 hour or until you use choose a new prey. Once you have used chosen your prey, you can't choose a new prey until 1 minute has passed.
+
+In addition, you become proficient in the Survival Skill and gain a Talent with the Survival trait.
+
+#### Maneuvers
+You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
 #### Outlander's Defense
 You add your proficiency bonus to any Basic Dexterity and Wisdom Defense Rolls you make.
@@ -794,8 +824,16 @@ Trickster are cunning explorers and combatants. They learn a wide variety of tri
 **Armor proficiency**: Light armor\
 **Weapon proficiency**: Simple weapons
 
+### 1st
+
+#### Ancestry and Backround
+In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
+
 ### Expert
 You become proficient in four different Skills and gain two Talents. 
+
+#### Maneuvers
+You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
 ### Skill Mastery
 Choose one Skill you are proficient in. You gain a +2 Enhancement bonus to this Skill.

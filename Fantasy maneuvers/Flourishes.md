@@ -24,7 +24,9 @@ You can use this Flourish once per day.
 ### Battle Medecine
 Heal\
 1 action\
-You can patch up wounds, even in combat. Attempt a DC 15 Medecine check. On a success, a target within 2m of you regains 4d8+4 hp. On a critical success, the target regains 6d8+6 hp.
+You can patch up wounds, even in combat. Attempt a DC 15 Medicine check. On a success, a target within 2m of you regains 4d8+4 hp. On a critical success, the target regains 6d8+6 hp.
+
+At 7th level and 15th level, the healing increases by 3d8, or 6d8 on a Critical Success.
 
 You can use this Flourish once per day.
 
@@ -39,6 +41,8 @@ Blinding sunlight flashes in a 10m radius sphere centered on a point you choose 
 **Critical Failure**: The creature is unaffected.
 
 This Spell dispels any darkness in its area that was created by a Spell. 
+
+At 7th level and 15th level, the damage increases by 2d6 on a Failure, 3d6 on a Success, and 6d6 on a Critical Success.
 
 You can use this Flourish once per day. 
 
@@ -58,12 +62,16 @@ Waves of flames expands outwards from you. Make a Spell attack against each crea
 **Success**: The target takes 5d6 Fire damage.\
 **Failure**: The target is unaffected.
 
+At 7th level and 15th level, the damage increases by 3d6 on a Success, and 6d6 on a Critical Success.
+
 You can use this Flourish once per day.
 
 ### Chef
 Heal, Buff\
 10 minutes\
 You know how to cook delicious and restorative foods. By spendig 10 minutes cooking food, you can create food for up to 10 people. A person that spends a minute eating the food regains 15hp and gains a +1 status bonus to attack rolls for 1 hour.
+
+At 7th level and 15th level, the hit points regained increases by 8.
 
 A person can benefit from this Flourish only once per day.
 
@@ -76,6 +84,8 @@ Icy cold rushes forth from your hands. Make a Spell attack roll against each cre
 **Success**: The target takes 8d8 cold damage.\
 **Failure**: The target takes 4d8 cold damage.\
 **Critical Failure**: the target is unaffected.
+
+At 7th level and 15th level, the damage increases by 2d8 on a Failure, 5d8 on a Success, and 10d8 on a Critical Success.
 
 You can use this Flourish once per day.
 
@@ -97,7 +107,9 @@ You can use this Flourish once per day.
 ### Destructive Wave
 Necrotic or Radiant, Thunder, Spell\
 2 actions\
-You strike the ground, creating a burst of energy that ripples outward from you. Make a Basic Spell attack against the Might Defense DC of each creature of your choice within 6m of you to deal 5d6 Radiant or Necrotic damage (your choice when you select this Spell. The Spell also gain the appropriate trait) and 5d6 Thunder damage. A target is also knocked prone and pushed 2m away on a Critical Success.
+You strike the ground, creating a burst of energy that ripples outward from you. Make a Basic Spell attack against the Might Defense DC of each creature of your choice within 6m of you to deal 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice when you select this Spell. The Spell also gain the appropriate trait). A target is also knocked prone and pushed 2m away on a Critical Success.
+
+At 7th level and 15th level, both the Thunder damage and the Necrotic or Radiant damage and the Bludgeoning damage increases by 3d6.
 
 You can use this Flourish once per day.
 
@@ -112,12 +124,16 @@ Radiant\
 Spell\
 You blast your foes with divine power. Make a Basic Spell attack against the Dexterity Defense DC of each creature of your choice within 24m to deal 7d8 Radiant damage to it, or 9d8 if it is an undead of fiend. 
 
+At 7th level and 15th level, the damage increases by 4d8, or 5d8 if it an undead or fiend.
+
 You can use this Flourish once per day.
 
 ### Divine Smite
 Radiant, Spell\
 1 action\
 You call down divine power into a weapon you are wielding. Make a Melee Strike. On a success, the target takes an additional 2d8 Radiant damage. 
+
+At 7th level and 15th level, the additional damage increases by 1d8.
 
 You can use this Flourish once per day. When you have expended all uses, you can expend a use of another Flourish to gain the ability to use Divine Smite an additional time before the next the day. The chosen Flourish must be one that can be used once per day. 
 
@@ -131,12 +147,16 @@ Polymorph, Spell\
 2 actions\
 You partially into a dragon and exhale destructive energy. Make a Basic Spell attack against the Dexterity Defense DC of each creature of your choice within a 12m cone or 30m line (your choice) to deal 10d6 acid, cold, fire, lightning, or poison damage (your choice, the Spell gains the matching trait).
 
+At 7th level and 15th level, the damage increases by 6d6.
+
 You can use this Flourish once per day.
 
 ### Earth Ripple
 Earth, Nature, Spell\
 2 actions\
-you cause spikes to rise from the ground around you. Make a Basic Spell attack against each creature within 12m of you to deal 6d10 piercing damage or be Immobilized until the end of its next turn as it is impaled by the spike. The target can use an action to free itself.
+you cause spikes to rise from the ground around you. Make a Basic Spell attack against each creature within 12m of you to deal 5d10 piercing damage or be Immobilized until the end of its next turn as it is impaled by the spike. The target can use an action to free itself.
+
+At 7th level and 15th level, the damage increases by 3d10.
 
 You can use this Flourish once per day.
 
@@ -150,7 +170,9 @@ You choose a 2m-square unoccupied space on the ground that you can see within 12
 **Failure**: The target takes 4d6 Bludgeoning damage.
 **Critical Failure**: The target is unaffected.
 
-As an action, you can cause the hand to crush the Grappled or Restrained target by making a Basic Spell attack against the Might Defense DC of the target to deal 4d6 Bludgeoning damage.
+At 7th level and 15th level, the damage increases by 2d6 on a Failure, 4d6 on a Success, and 8d6 on a Critical Success.
+
+As an action, you can cause the hand to crush the Grappled or Restrained target by making a Basic Spell attack against the Might Defense DC of the target to deal 4d6 Bludgeoning damage. This damage increases by 3d6 at 7th level and at 15th level.
 
 As an action, you can cause the hand to instead reach for a different creature or to move to a different unoccupied space within 12m of you. The hand releases a Grappled or Restrained target if you do either.
 
@@ -180,11 +202,15 @@ Choose a point you can see on the ground within 30m of you. A fountain of churne
 
 Additionally, the ground in that area becomes difficult terrain until cleared away. Each 2m-square portion of the area requires at least 1 minute to clear by hand.
 
+At 7th level and 15th level, the damage increases by 1d10 on a Failure, 4d10 on a Success, and 6d10 on a Critical Success.
+
 You can use this Flourish once per day.
 
 ### Felling Strike
 1 action\
-Your attack can ground an airborne foe. Make a Strike. If it hits and deals damage to a flying target, the target falls up to 30m. The fall is gradual enough that if it causes the target to hit the ground, the target takes no damage from the fall. If the attack is a critical hit, the target can't Fly, Leap, levitate, or otherwise leave the ground until the end of your next turn.
+Your attack can ground an airborne foe. Make a Strike. If it hits and deals damage to a flying target, the target falls up to 40m. The fall is gradual enough that if it causes the target to hit the ground, the target takes no damage from the fall. If the attack is a critical hit, the target can't Fly, Leap, levitate, or otherwise leave the ground until the end of your next turn.
+
+At 7th level and 15th level, the maximum distance the target falls is increased by 20m.
 
 You can use this Flourish once per day.
 
@@ -193,12 +219,16 @@ Fire, Spell\
 1 action\
 You wreathe yourself in protective flames. You gain Resistance 5 to Cold damage. In addition, whenever a creature within 2m of you touches you or hits you with a Strike, it takes 2d6 Fire damage.
 
+At 7th level and 15th level, the damage increases by 1d6 and the Resistance increases by 5.
+
 You can use this Flourish once per day.
 
 ### Fireball
 Fire, Spell\
 2 actions\
 You engulf your foes in a ball of fire. Make a Basic Spell attack against the Dexterity Defense DC ofeach creature in a 12m radius circle centered at a point within 30m of you to deal 10d6 Fire damage. 
+
+At 7th level and 15th level, the damage increases by 6d6.
 
 You can use this Flourish once per day.
 
@@ -219,7 +249,9 @@ You can use this Flourish once per day.
 ### Force Blast
 Force, Spell\
 2 actions\
-You create a blast of pure magic to attack your foes. Make a Basic Spell attack against the Dexterity Defense DC of each creature in a 10m cone to deal 8d8 Force damage. On a failure it is also pushed 4m away and knocked prone.
+You create a blast of pure magic to attack your foes. Make a Basic Spell attack against the Dexterity Defense DC of each creature in a 10m cone to deal 7d8 Force damage. On a Failure it is also pushed 4m away and knocked prone.
+
+At 7th level and 15th level, the damage increases by 4d8.
 
 You can use this Flourish once per day.
 
@@ -228,6 +260,8 @@ Necrotic, Necromancy, Spell\
 2 actions\
 You channel negative energy. Make a Basic Spell attack against the Might Defense DC of each living creature within 12m to deal 5d10 Necrotic damage. Each undead creature within 12m of you regains 5d10hp.
 
+At 7th level and 15th level, the damage or healing increases by 3d10.
+
 You can use this Flourish once per day.
 
 ### Heal
@@ -235,12 +269,16 @@ Heal, Radiant, Spell\
 2 actions\
 You channel positive energy. Make a Basic Spell attack against the Might Defense DC of each undead creature within 12m to deal 5d10 Radiant damage. Each living creature within 12m of you regains 5d10hp.
 
+At 7th level and 15th level, the damage or healing increases by 3d10.
+
 You can use this Flourish once per day.
 
 ### Healing word
 Heal, Mental, Spell\
 1 actions\
 A creature of your choice that you can see within 12m of you regains 8d4 hit points. This Spell has no effect on undead or constructs. 
+
+At 7th level and 15th level, the healing increases by 5d4.
 
 You can use this Flourish once per day.
 
@@ -255,6 +293,8 @@ You can use this Flourish once per day.
 Ranged\
 1 action\
 You fire a volley at all foes in an area. Make one ranged weapon Strike against each enemy within an 8m radius burst centered at a point within the first range increment of a ranged weapon you are wielding. You gain a +15 circumstance bonus to this damage and roll the damage only once for all targets. 
+
+At 7th level and 15th level, the Circumstance bonus to damage increases by 8.
 
 You can use this Flourish once per day. 
 
@@ -303,6 +343,8 @@ Buff, Mental\
 10 minutes\
 You spend 10 minutes inspriring your companions. Up to 10 creatures who listened to your speech gains 6d8 temporary hit points that lasts until the next time you use this Flourish. 
 
+At 7th level and 15th level, the temporary hit points increases by 4d8.
+
 You can use this Flourish once per day.
 
 ### Knockdown
@@ -316,6 +358,8 @@ You can use this Flourish once per day.
 Lightning, Spell\
 2 actions\
 You lauch a bolt of Lightning. Make a Basic Spell attack against the Dexteruty Defense DC of each creature in a 40m line that is 4m wide to deal 5d12 Lightning damage. On a Critical Success, the target is also stunned 1. 
+
+At 7th level and 15th level, the damage increases by 3d12.
 
 You can use this Flourish once per day.
 
@@ -386,12 +430,16 @@ Ranged\
 1 action\
 You jump back and fire a quick shot that catches your opponent off guard. You move up to your speed without provoking reaction and then make a ranged Strike weapon. Your target is flat-footed against the attack and you gain a +5 circumstance bonus to the damage.
 
+At 7th level and 15th level, the Circumstance bonus to damage increases by 3.
+
 You can use this Flourish once per day.
 
 ### Piercing Shot
 Ranged\
 1 action\
 You make a powerful shot that pierces everything it hits. Each creature and object in a 40m line must make a Dexterity saving throw or take 3d10 + your Dexterity modifier Piercing damage. An solid object in the path that isn't reduced to 0 hp stops the shot. 
+
+At 7th level and 15th level, the damage increases by 2d10.
 
 You can use this Flourish once per day.
 
@@ -405,7 +453,9 @@ You can use this Flourish once per day.
 ### Protection from Energy
 Abjuration, Spell\
 1 action\
-You create a shield around a creature to protect it from a type of elemental energy. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder. The target gains resistance 20 to the damage type chosen for 1 hour. 
+You create a shield around a creature to protect it from a type of elemental energy. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder. The target gains Resistance 20 to the damage type chosen for 1 hour. 
+
+At 7th level and 15th level, the Resistance increases by 10.
 
 You can use this Flourish once per day.
 
@@ -413,26 +463,31 @@ You can use this Flourish once per day.
 Earth, Nature, Spell\
 2 actions\
 You stomp the ground with such force that it creates a minor earthquake. Make a Basic Spell attack against the Might Defense DC of each creature and object of your choice within 20m of you to deal 5d12 Bludgeoning damage. On a failure, the target is also knocked prone.
+
 Objects take double damage from this Flourish.
+
+At 7th level and 15th level, the damage increases by 3d12.
 
 You can use this Flourish once per day.
 
 ### Rapid Fire
 Ranged\
-2 action\
-You can quickly fire multiple shots with greater control. Make four Ranged Strikes. 
+1 action\
+You can quickly fire multiple shots with greater control. Make two Ranged Strikes. 
 
 You can use this Flourish once per day.
 
 ### Ray of Enfeeblement
 Debuff, Necromancy, Spell\
 2 actions\
-A ray with the power to sap a foe's strength flashes from your hand. Make a Basic Spell attack against the Might Defense DC of each creature within a 6m burst centered at a point within 24m of you.
+A ray with the power to sap a foe's strength flashes from your hand and explodes in a blast of necromantic energy. Make a Basic Spell attack against the Might Defense DC of each creature within a 6m burst centered at a point within 24m of you.
 
 **Critical Success**: The target takes 4d8 damage and takes a -3 penalty to all its DCs for 1 minute.\
 **Success**: The target takes 2d8 Necrotic damage and takes a -2 penalty to all its DCs for 1 minute.
 **Failure**: The target takes 2d8 Necrotic damage.
 **Critical Failure**: The target is unaffected.
+
+At 7th level and 15th level, the damage increases by 2d8 on a Failure, 4d8 on a Success, and 6d8 on a Critical Success.
 
 You can use this Flourish once per day.
 
@@ -456,12 +511,16 @@ Shield\
 Reaction\
 You quickly raise your shield to defend against a blow. When you are hit by an Attack, you can use your reaction to reduce the damage by 10. 
 
+At 7th level and 15th level, the damage reduction increases by 8.
+
 You can use this Flourish once per day. 
 
 ### Soothing words
 Buff, Mental\
 1 action\
 You grace your allies' mind, boosting their mental defenses and healing their wounds. Each target of your choice within 6m of you regains 3d10 Hit Points when you cast the Spell and gains a +2 status bonus to saves against mental effects for 1 minute. 
+
+At 7th level and 15th level, hit points regained increases by 2d10.
 
 You can use this Flourish once per day. 
 
@@ -475,7 +534,9 @@ You can use this Flourish once per day.
 ### Stoneskin
 Abjuration, Earth, Spell\
 1 action\
-A creature you touch's skin hardens like stone. The creature gains resistance 5 to physical damage for 1 minute, except adamantine. 
+A creature you touch's skin hardens like stone. The creature gains Resistance 5 to physical damage for 1 minute, except adamantine. 
+
+At 7th level and 15th level, the Resistance increases by 3.
 
 You can use this Flourish once per day. 
 
@@ -490,6 +551,8 @@ A beam of brilliant light flashes out from your hand in a 2m wide, 20m long line
 **Critical Failure**: The target is unaffected.
 
 This Spell dispels any darkness in its area that was created by a Spell. 
+
+At 7th level and 15th level, the damage increases by 2d8 on a Failure, 3d8 on a Success, and 6d8 on a Critical Success.
 
 You can use this Flourish once per day. 
 
@@ -521,12 +584,14 @@ Thunder, Spell\
 1 action\
 Your weapon rings with thunder that is audible within 300 feet of you. Make a Melee Strike. On a success, the attack deals an extra 2d6 thunder damage to the target and it is pushed 2m away and knocked Prone.
 
+At 7th level and 15th level, the extra damage increases by 1d6.
+
 You can use this Flourish once per day. 
 
 ### Thunderwave
 Thunder, Spell\
 2 actions\
-A wave of thunderous force sweeps out from you. Make a Basic Spell attack against the Might Defense DC of each creature within 6m of you. On a success, the target is also pushed 4m away from you.
+A wave of thunderous force sweeps out from you. Make a Basic Spell attack against the Might Defense DC of each creature within 6m of you to deal 8d8 Thunder damage. On a success, the target is also pushed 4m away from you.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 4m away from you by the Spell’s effect, and the Spell emits a thunderous boom audible out to 300 feet.
 
@@ -535,12 +600,14 @@ You can use this Flourish once per day.
 ### Unnerving Prowess
 Frightened\
 1 action\
-Your incredible skill with your weapons unnerves your foes. Make a Melee Strike. On a hit, you automatically disarms the target and it becomes Frightened 1. 
+Your incredible skill with your weapons unnerves your foes. Make a Melee Strike. On a hit, you automatically disarm the target and it becomes Frightened 1. 
 
 You can use this Flourish once per day. 
 
 ### Vampric Exsanguination
-You draw in the blood and life force of other creatures through your outstretched arms. Make a Basic Spell attack against the Might Defense DC of each living creature in a 20m cone. You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.
+You draw in the blood and life force of other creatures through your outstretched arms. Make a Basic Spell attack against the Might Defense DC of each living creature in a 20m cone to deal 8d6 Necrotic damage. You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.
+
+At 7th level and 15th level, the damage increases by 4d6.
 
 You can use this Flourish once per day. 
 
@@ -553,12 +620,16 @@ Each 4m by 4m section of the wall has AC 15, and 25 Hit Points, and it's immune 
 
 The wall lasts for 1 minute or umtil completely destroyed.
 
+At 7th level and 15th level, the damage increases by 2d6.
+
 You can use this Flourish once per day. 
 
 ### Water Breathing
 Nature, Spell, Water\
 1 action\
 You give up to 10 creatures of your choice within 20 of you the ability to breathe air and water, to ignore penalties for attacking underwater and a swimming speed of 10m. These benefits lasts for 1 hour, or until you perform this Flourish again. 
+
+At 7th level and 15th level, the swimming speed increases by 4m.
 
 You can use this Flourish once per day.
 
@@ -567,11 +638,15 @@ Spell\
 2 actions\
 You conjure dosens of weapons and lauch them at your foes. Make a Basic Spell attack against the Dexterity Defense DC of each creature in a 14m long line that is 6m wide to deal 6d10 Bludgeoning, Piercing, or Slashing damage (your choice for each target). 
 
+At 7th level and 15th level, the damage increases by 4d10.
+
 You can use this Flourish once per day. 
 
 ### Wrathful Smite
 Fear, Mental, Spell\
 1 action\
 You call down divine wrath on your foes. Make a Melee Strike. On a success, the targets takes an extra 1d6 mental damage. Additionally, if the target is a creature, it becomes Frightened 1.
+
+At 15th level, the damage increases by 1d6.
 
 You can use this Flourish once per day. 

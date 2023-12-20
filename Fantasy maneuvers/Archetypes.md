@@ -48,15 +48,11 @@ Your bubbling potions both heal your allies and harm your foes. Once per turn, w
 * The target regains 2d4 hit points. This healing increases by 1d4 at 4th level and every 4 levels thereafter.
 
 ### Arcanomancer
-You specialize in the destructive powers of arcane magic
+You specialize in the destructive powers of arcane magic.
+
 #### Initial Ability
 
-Once per day, you can choose to empower a Flourish with the spell trait you are performing. If you do, you gain a +15 Status bonus to the damage it deals. This bonus increases 
-
-
-
-
-
+Once per day, you can choose to empower a Flourish with the spell trait you are performing. If you do, you gain a +15 Status bonus to the damage it deals. This bonus increases to
 
 ### Archmage
 Archmages are masters of all types of magic and you are now one of them.
