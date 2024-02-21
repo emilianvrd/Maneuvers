@@ -232,20 +232,20 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 | Name | Traits | Damage | Range | Weight | Price | Group |
 |---|---|---|---|---|---|---|
 | Air repeater | — | 1d4P | 12m | 1kg | 30sp | Firearm |
-| Blowgun | Nonlethal | 1P | 8m | Negligible | 1sp | Knife |
+| Blowgun | Nonlethal | 1d4P | 14m | Negligible | 1sp | Knife |
 | Dart | Light, Thrown | 1d4P | 8m | Negligible | 1cp | Knife |
 | Dueling pistol | Concussive, Fatal d8 | 1d4P | 10m | 1kg | 20sp | Firearm |
 | Fire lance | Fatal d10, Two-handed | 1d8p | 4m | 1kg | 30sp | Firearm |
 | Light crossbow | Two-handed | 1d8p | 20m | 3kg | 10sp | Bow |
 | Javelin | Thrown | 1d6P | 12m | 1kg | 2sp | Spear |
-| Sling | Propulsive | 1d4B | 12m | Negligible | 20sp | Sling |
+| Sling | – | 1d6B | 10m | Negligible | 20sp | Sling |
 
 
 
 #### Martial Weapons
 | Name | Traits | Damage | Range | Weight | Price | Group |
 |---|---|---|---|---|---|---|
-| Arquebus | Concussive, Fatal d12, Knockback, Two-handed | 1d10P | 50m | 5kg | 80sp | Firearm |
+| Arquebus | Concussive, Fatal d12, Mighty, Two-handed | 1d10P | 50m | 5kg | 80sp | Firearm |
 | Blunderbuss | Concussive, Scatter 4m, Two-handed | 1d10P | 16m | 5kg | 50sp | Firearm |
 | Coat Pistol | Concealable, Concussive, Fatal d10 | 1d8P | 12m | 2kg | 30sp | Firearm |
 | Dragon mouth pistol | Concussive, Scatter 2m | 1d8P | 10m | 3kg | 40sp | Firearm |
@@ -255,10 +255,15 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 | Hand cannon | Versatile P, S | 1d8B | 24m | 3kg | 30sp | Firearm |
 | Heavy crossbow | Two-handed | 2d6P | 40m | 5kg | 10sp | Bow |
 | Light pistol | Fatal d10, Light | 1d8B | 12m | 1kg | 20sp | Firearm |
-| Longbow | Deadly d12, Propulsive, Two-handed, Volley 10m | 1d10P | 40m | 4kg | 30sp | Bow |
-| Shortbow | Deadly d10, Propulsive, Two-handed | 1d8P | 30m | 3kg | 25sp | Bow |
-| Sling staff | Propulsive, Two-handed | d10B | 20m | 2kg | 20sp | Sling |
+| Longbow | Deadly d12, Mighty, Two-handed, Volley 10m | 1d10P | 40m | 4kg | 30sp | Bow |
+| Shortbow | Deadly d10, Mighty, Two-handed | 1d8P | 30m | 3kg | 25sp | Bow |
+| Sling staff | Mighty, Two-handed | d10B | 20m | 2kg | 20sp | Sling |
 | Shuriken | Light, Thrown | 1d6P | 10m | 1kg | 5cp | Knife |
+
+### Traits
+
+#### Mighty
+This weapon has significant recoil, requieres sighnificant strength to draw, or is otherwise heavy or unwieldy. Attacks with this weapon deal an additional point of damage per weapon damage die, but you take a -2 Circumstance penalty to Strikes with this weapon unless your Might is +2 or higher. Your GM might waive this penalty if a weapon with significant recoil is mounted on a tripod or similar stabilizing feature.
 
 ### Critical Specialization Effects
 Each weapon adds a different additional effect on a critical hit, in addition to doubling the damage as normal. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
@@ -270,22 +275,22 @@ Choose one creature adjacent to the initial target and within reach. If its Dext
 If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 Athletics check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort. 
 
 #### Brawling
-The target must succeed at a Might save against your personal DC or be slowed 1 until the end of your next turn. 
+The target takes a -1 penalty to its attack until the end of your next turn.
 
 #### Club
 You knock the target away from you up to 10 feet (you choose the distance). This is forced movement. 
 
 #### Firearm
-The target must succeed at a Might save against your personal DC or be stunned 1.
+The target catches fire. It takes 1d8 persisitent fire damage. 
 
 #### Hammer
 The target is knocked prone. 
 
 #### Knife
-The target takes 1d6 persistent bleed damage. 
+The target takes 1d8 persistent bleed damage. 
 
 #### Pick
-The weapon viciously pierces the target, who takes 4 additional damage.
+The weapon viciously pierces the target, who takes 3 additional damage per weapon damage die.
 
 #### Polearm
 The target is moved 5 feet in a direction of your choice. This is forced movement. 
@@ -294,11 +299,11 @@ The target is moved 5 feet in a direction of your choice. This is forced movemen
 You knock the target back 5 feet away from you. This is forced movement.
 
 #### Sling
-You shoot the target in its eye, it must succed on a Might saving throw against your personal DC or become Dazzled until the end of its next turn.
+You shoot the target in its eye, it become Dazzled until the end of its next turn.
 
 #### Spear
-The weapon pierces the target, weakening its attacks. The target is clumsy 1 until the start of your next turn.
+The weapon pierces the target, weakening its attacks. The target is Clumsy 1 until the start of your next turn.
 
 #### Sword
-The target is made off-balance by your attack, becoming flat-footed until the start of your next turn.
+The target is made off-balance by your attack, becoming Off-Guard until the start of your next turn.
 

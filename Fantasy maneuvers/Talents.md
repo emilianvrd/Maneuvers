@@ -411,6 +411,9 @@ Stealth\
 Constant\
 You can move your full Speed when you Sneak. You can use Swift Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
 
+### Swimmer
+You gain a swimming speed of 6m.
+
 ### Telepathic
 Constant\
 Somthing strange has happended to your mind. You can communicate telepatically with any creature within 20m of you that you share a language with. 

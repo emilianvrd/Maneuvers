@@ -565,11 +565,6 @@ Your honeyed words are difficult for creatures to resist. You suggest a course o
 **Failure**: The target is unaffected and thinks you were talking to them normally, not casting a spell on them.
 **Critical Failure**: The target is unaffected and knows you tried to control it.
 
-Critical Success The target is unaffected and knows you tried to control it.
-Success The target is unaffected and thinks you were talking to them normally, not casting a spell on them.
-Failure The target immediately follows your suggestion. The spell has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious negative effects.
-Critical Failure As failure, but the base duration is 1 hour.
-
 You can use this Flourish once per day. 
 
 ### Sweeping Charge
@@ -620,7 +615,7 @@ Each 4m by 4m section of the wall has AC 15, and 25 Hit Points, and it's immune 
 
 The wall lasts for 1 minute or umtil completely destroyed.
 
-At 7th level and 15th level, the damage increases by 2d6.
+At 7th level and 15th level, the damage increases by 2d6 and the hit points of the wall increases by 20.
 
 You can use this Flourish once per day. 
 

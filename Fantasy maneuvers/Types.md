@@ -21,7 +21,7 @@ Your magic amplifies your healing powers or reaps the life or your foes. When yo
 You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
 #### Mental Bastion
-You add your proficiency bonus to any Basic Intelligence or Wisdom Defense Rolls you make.
+You add your proficiency bonus to any Intelligence or Wisdom Defense Rolls you make.
 
 ### 2nd
 
@@ -100,7 +100,7 @@ You've learned a new and powerful maneuver. You gain an additional Flourish.
 You increase three different Ability modifiers of your choice by 1.
 
 #### Greater Mental Bastion
-When you get a Success on a Basic Intelligence or Wisdom Defense Roll, you get a Critical Success instead.
+When you get a Success on a Intelligence or Wisdom Defense Roll, you get a Critical Success instead.
 
 #### Skilled
 Your various adventures have granted you new knowledge. You become proficient in a Skill of your choice.
@@ -146,7 +146,7 @@ Your various adventures have granted you new knowledge. You become proficient in
 ### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase four different Ability modifiers of your choice by 1.
 
 #### Restorative Miracles
 The restorative powers of your spells have grown even further. Increase the number of hit points a creature regains due to Blessed Magic to 5d10, or 5d12 if the Flourish caused a creature to regain to hit points. In addition, your Strikes and Fighting Moves that deal damage deal two damage dice instead of one.
@@ -168,7 +168,7 @@ You're able to withstand even more damage. Increase your hit points and your hit
 Hard work has paid off. You gain an additional Fighting Move.
 
 #### Unbreakable Mental Bastion
-Nothing can break you mental fortitude. When you critically fail a Basic Intelligence or Wisdom Defense Roll, it becomes a failure instead. When you roll a failure on a Basic Intelligence or Basic Wisdom Defense Roll, you get a Success instead.
+Nothing can break you mental fortitude. When you critically fail a Intelligence or Wisdom Defense Roll, it becomes a failure instead. When you roll a failure on a Intelligence or Wisdom Defense Roll, you take half damage.
 
 ### 18th
 
@@ -194,10 +194,10 @@ You've acquiered a new aptitude. You gain an additional Talent.
 #### Combat Maneuver
 You've learned a new and powerful maneuver. You gain an additional Flourish.
 
-### 20th
+### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase all Ability modifiers by 1.
 
 #### Archetype Augmentation
 You either broaden your training or you specialize in one of the Archetypes you've already got. You gain an Archetype you didn't already have, the Greater Ability of an Archetype where you already have the Initial ability, or the Ultimate Ability of an Archetype where you already have the Greater Ability.
@@ -218,7 +218,7 @@ You're able to withstand even more damage. Increase your hit points and your hit
 In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
 
 #### Disciplined Defense
-You add you proficiency bonus to any Basic Might or Charisma Defense Rolls you make.
+You add you proficiency bonus to any Might or Charisma Defense Rolls you make.
 
 #### Lay on Hands
 Your touch can mend wounds. As an action, you can cause a creature you touch to regain 3d8 hit points. You then can't use this ability again until you have spent 10 minutes meditating to allow positive energy to fill you again. This healing increases by 3d8 at 4th level and every 4 levels after that.
@@ -304,7 +304,7 @@ You've learned a new and powerful maneuver. You gain an additional Flourish.
 You increase three different Ability modifiers of your choice by 1.
 
 #### Greater Disciplined Defense
-When you succeed at a Basic Might or Charisma Defense Roll, it becomes a critical success instead.
+When you succeed at a Might or Charisma Defense Roll, it becomes a critical success instead.
 
 #### Skilled
 Your various adventures have granted you new knowledge. You become proficient in a Skill of your choice.
@@ -350,7 +350,7 @@ Your various adventures have granted you new knowledge. You become proficient in
 ### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase four different Ability modifiers of your choice by 1.
 
 #### Greater Divine Fury
 The divine fury inside you grows stronger. Your Strikes and Fighting Moves that deal damage deal three damage dice instead of two. 
@@ -372,7 +372,7 @@ You're able to withstand even more damage. Increase your hit points and your hit
 Hard work has paid off. You gain an additional Fighting Move.
 
 #### Divine Defense
-You gain a +1 Enhancement bonus to all Basic Defense Rolls. When you critically fail a Basic Might or Charisma Defense Roll, it becomes a failure instead. When you roll a failure on a Basic Might or Charisma Defense Roll, you get a Success instead.
+You gain a +1 Enhancement bonus to all Basic Defense Rolls. When you critically fail a Might or Charisma Defense Roll, it becomes a failure instead. When you roll a failure on a Might or Charisma Defense Roll, you take half damage.
 
 ### 18th
 
@@ -393,10 +393,10 @@ You've acquiered a new aptitude. You gain an additional Talent.
 #### Combat Maneuver
 You've learned a new and powerful maneuver. You gain an additional Flourish.
 
-### 20th
+### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase all Ability modifiers by 1.
 
 #### Archetype Augmentation
 You either broaden your training or you specialize in one of the Archetypes you've already got. You gain an Archetype you didn't already have, the Greater Ability of an Archetype where you already have the Initial ability, or the Ultimate Ability of an Archetype where you already have the Greater Ability.
@@ -424,7 +424,7 @@ You gain an additional Flourish with the Spell trait. You also gain a +1 circums
 You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
 #### Fortified Mind
-You add your proficiency bonus to any Basic Intelligence or Charisma Defense Rolls you make.
+You add your proficiency bonus to any Intelligence or Charisma Defense Rolls you make.
 
 ### 2nd
 
@@ -503,7 +503,7 @@ You've learned a new and powerful maneuver. You gain an additional Flourish.
 You increase three different Ability modifiers of your choice by 1.
 
 #### Greater Fortified Mind
-When you get a Success on a Basic Intelligence or Charisma Defense Roll, you get a Critical Success instead.
+When you get a Success on a Intelligence or Charisma Defense Roll, you get a Critical Success instead.
 
 #### Skilled
 Your various adventures have granted you new knowledge. You become proficient in a Skill of your choice.
@@ -549,7 +549,7 @@ Your various adventures have granted you new knowledge. You become proficient in
 ### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase four different Ability modifiers of your choice by 1.
 
 #### Greater Destructive Sorcery
 Your Flourishes are particularly deadly. The Circumstance bonus to the damage of any Flourish you perform increase to +10. In addition, your Strikes and attacks made using Fighting Moves deal three damage dice instead of two. 
@@ -571,7 +571,7 @@ Your magical and mundane training combines to make you able to withstand even mo
 Hard work has paid off. You gain an additional Fighting Move.
 
 ### Unparalleled Mind
-Your resilience is matched by few. When you critically fail a Basic Intelligence or Charisma Defense Roll, it becomes a failure instead. When you roll a failure on a Basic Intelligence or Basic Charisma Defense Roll, you get a Success instead.
+Your resilience is matched by few. When you critically fail a Intelligence or Charisma Defense Roll, it becomes a failure instead. When you roll a failure on a Intelligence or Charisma Defense Roll, you take half damage.
 
 ### 18th
 
@@ -598,10 +598,10 @@ You've acquiered a new aptitude. You gain an additional Talent.
 #### Combat Maneuver
 You've learned a new and powerful maneuver. You gain an additional Flourish.
 
-### 20th
+### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase all Ability modifiers by 1.
 
 #### Archetype Augmentation
 You either broaden your training or you specialize in one of the Archetypes you've already got. You gain an Archetype you didn't already have, the Greater Ability of an Archetype where you already have the Initial ability, or the Ultimate Ability of an Archetype where you already have the Greater Ability.
@@ -758,7 +758,7 @@ Your various adventures have granted you new knowledge. You become proficient in
 ### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase four different Ability modifiers of your choice by 1.
 
 #### Greater Hunter's Edge
 You've learned every possible edge to use against your foes. Your Strikes and attacks made using Fighting Moves deal three damage dice instead of one. In addition, when you score a Critical hit against your prey, you can immedialty use a Free action to make a Strike against your prey.
@@ -783,7 +783,7 @@ You can focus your attention on two creatures at once. When you use choose your 
 Hard work has paid off. You gain an additional Fighting Move.
 
 #### Infallible Defenses
-When you critically fail a Basic Dexterity or Wisdom Defense Roll, it becomes a failure instead. When you roll a failure on a Basic Dexterity or Wisdom Defense Roll, you get a Success instead.
+When you critically fail a Basic Dexterity or Wisdom Defense Roll, it becomes a failure instead. When you roll a failure on a Basic Dexterity or Wisdom Defense Roll, you take half damage.
 
 ### 18th
 
@@ -804,10 +804,10 @@ You've acquiered a new aptitude. You gain an additional Talent.
 #### Combat Maneuver
 You've learned a new and powerful maneuver. You gain an additional Flourish.
 
-### 20th
+### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase all Ability modifiers by 1.
 
 #### Archetype Augmentation
 You either broaden your training or you specialize in one of the Archetypes you've already got. You gain an Archetype you didn't already have, the Greater Ability of an Archetype where you already have the Initial ability, or the Ultimate Ability of an Archetype where you already have the Greater Ability.
@@ -839,7 +839,7 @@ You have learned many special maneuvers that you readily deploy during combat. Y
 Choose one Skill you are proficient in. You gain a +2 Enhancement bonus to this Skill.
 
 ### Versatile defense
-You add your proficiency bonus to two different types of Basic Defense Rolls of your choice: Might, Dexterity, Intelligence, Wisdom, or Charisma Defense Rolls. At the end of a Rest, you can change which two Basic Defense Rolls you add your proficiency bonus to.
+You add your proficiency bonus to two different types of Defense Rolls of your choice: Might, Dexterity, Intelligence, Wisdom, or Charisma Defense Rolls. At the end of a Rest, you can change which two Defense Rolls you add your proficiency bonus to. If you choose Dexterity, you only add your proficiency bonus to any Basic Dexterity Defense Rolls you make.
 
 ### 2nd
 
@@ -935,7 +935,7 @@ You've learned a new and powerful maneuver. You gain an additional Flourish.
 You increase three different Ability modifiers of your choice by 1.
 
 ### Greater Versatile Defense
-When you succeed at a Basic Defense Roll you add your proficiency bonus to due to Versatile Defense, it becomes a critical success instead.
+When you succeed at a Defense Roll you add your proficiency bonus to due to Versatile Defense, it becomes a critical success instead.
 
 #### Skilled
 Your various adventures have granted you new knowledge. You become proficient in a Skill of your choice.
@@ -989,7 +989,7 @@ Your various adventures have granted you new knowledge. You become proficient in
 ### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase four different Ability modifiers of your choice by 1.
 
 #### Greater Precise Strikes
 Lethal strikes are your speciality. Your Strikes and attacks made using Fighting Moves deal three damage dice instead of one. 
@@ -1014,7 +1014,7 @@ You nimbly dodge out of the way of incoming attacks. Increase your hit points an
 ### 17th
 
 ### Adaptable Defenses
-Your adaptable defenses is matched by few. When you critically fail a Basic Defense Roll you add your proficiency bonus to, it becomes a failure instead. When you roll a failure on a Basic Defense Roll where you add your proficiency bonus, you get a Success instead. In addition, by spending 10 minutes training, you can change which two types of Basic Defense Rolls you add your proficiency bonus to.
+Your adaptable defenses is matched by few. When you critically fail a Defense Roll you add your proficiency bonus to, it becomes a failure instead. When you roll a failure on a Defense Roll where you add your proficiency bonus, you take half damage. In addition, by spending 10 minutes training, you can change which two types of Defense Rolls you add your proficiency bonus to.
 
 #### Fighter
 Hard work has paid off. You gain an additional Fighting Move.
@@ -1044,10 +1044,10 @@ You've learned a new and powerful maneuver. You gain an additional Flourish.
 #### Skilled
 Your various adventures have granted you new knowledge. You become proficient in a Skill of your choice.
 
-### 20th
+### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase all Ability modifiers by 1.
 
 #### Archetype Augmentation
 You either broaden your training or you specialize in one of the Archetypes you've already got. You gain an Archetype you didn't already have, the Greater Ability of an Archetype where you already have the Initial ability, or the Ultimate Ability of an Archetype where you already have the Greater Ability.
@@ -1075,7 +1075,7 @@ You have learned many special maneuvers that you readily deploy during combat. Y
 Once per day, you can use a Free action to immediatly regain 10hp. At 4th level and every 4 levels after that, increase the number of hit points you regain by 5hp.
 
 #### Warrior's Resilience
-You add your proficiency bonus to any Basic Might or Dexterity Defense Rolls you make.
+You add your proficiency bonus to any Might or Basic Dexterity Defense Rolls you make.
 
 ### 2nd
 
@@ -1155,7 +1155,7 @@ You've learned a new and powerful maneuver. You gain an additional Flourish.
 You increase three different Ability modifiers of your choice by 1.
 
 #### Greater Resilience
-When you succeed at a Basic Might or Dexterity Defense Roll, it becomes a critical success instead.
+When you succeed at a Might or Basic Dexterity Defense Roll, it becomes a critical success instead.
 
 #### Skilled
 Your various adventures have granted you new knowledge. You become proficient in a Skill of your choice.
@@ -1193,7 +1193,7 @@ You've acquiered a new aptitude. You gain an additional Talent.
 ### 14th
 
 #### Greater Resistance
-You've become unbeliveably resilient, no attacks seem to have any lasting effects on you. You reduce all damage you take by 5 instead of 3.
+You've become unbeliveably resilient, no attacks seem to have any lasting effect on you. You reduce all damage you take by 5 instead of 3.
 
 #### Skilled
 Your various adventures have granted you new knowledge. You become proficient in a Skill of your choice.
@@ -1201,7 +1201,7 @@ Your various adventures have granted you new knowledge. You become proficient in
 ### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase four different Ability modifiers of your choice by 1.
 
 #### Greater Critical Accuracy
 You are nigh-unmatched with any weapon. Your Strikes and attacks made using Fighting Moves deal three damage dice instead of two. 
@@ -1228,7 +1228,7 @@ Hard work has paid off. You gain an additional Fighting Move.
 You seem to have a hidden well of energy you can tap into when you need it the most. You can use Resolve twice per day instead of only once per day. Additionally, when you use Resolve, you can immediatly make a Strike as part of the same Free action.
 
 ### Unparalleled Resilience
-Your resilience is matched by few. When you critically fail a Basic Might or Dexterity Defense Roll, it becomes a failure instead. When you roll a failure on a Basic Might or Dexterity Defense Roll, you get a Success instead.
+Your resilience is matched by few. When you critically fail a Might or Basic Dexterity Defense Roll, it becomes a failure instead. When you roll a failure on a Might or Basic Dexterity Defense Roll, you take half damage.
 
 ### 18th
 
@@ -1249,10 +1249,10 @@ You've acquiered a new aptitude. You gain an additional Talent.
 #### Combat Maneuver
 You've learned a new and powerful maneuver. You gain an additional Flourish.
 
-### 20th
+### 15th
 
 #### Ability Improvement
-You increase three different Ability modifiers of your choice by 1.
+You increase all Ability modifiers by 1.
 
 #### Archetype Augmentation
 You either broaden your training or you specialize in one of the Archetypes you've already got. You gain an Archetype you didn't already have, the Greater Ability of an Archetype where you already have the initial Ability, or the Ultimate Ability of an Archetype where you already have the Greater Ability.
