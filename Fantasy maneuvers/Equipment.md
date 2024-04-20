@@ -259,27 +259,6 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 | Shortbow | Deadly d10, Mighty, Two-handed | 1d10P | 30m | 3kg | 25sp | Bow |
 | Shuriken | Light, Thrown | 1d6P | 6m | 1kg | 5cp | Knife |
 
-Aquebus: 3, 50
-Blunder: 4, 14
-Coat: 4, 12
-Dragon: 4, 10
-Dart: 4, 14
-Musket: 4, 24
-Pistol: 3.5, 20
-Cannon: 4.5, 6
-Crossbow: 4, 24
-Light: 4.5, 10
-Longbow: 4.8, 40
-Short: 4, 30
-Shuriken: 5, 6
-
-
-Scattergun: 3, 40
-
-Mithril Tree:
-Sylvan Bow: 4, 40
-
-
 ### Traits
 
 #### Mighty
