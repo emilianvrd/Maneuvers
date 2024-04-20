@@ -245,25 +245,45 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 #### Martial Weapons
 | Name | Traits | Damage | Range | Weight | Price | Group |
 |---|---|---|---|---|---|---|
-| Arquebus | Concussive, Fatal d12, Mighty, Two-handed | 1d10P | 50m | 5kg | 80sp | Firearm |
-| Blunderbuss | Concussive, Scatter 4m, Two-handed | 1d10P | 16m | 5kg | 50sp | Firearm |
-| Coat Pistol | Concealable, Concussive, Fatal d10 | 1d8P | 12m | 2kg | 30sp | Firearm |
-| Dragon mouth pistol | Concussive, Scatter 2m | 1d8P | 10m | 3kg | 40sp | Firearm |
-| Dart thrower | Capacity 5 | 1d8P | 12m | 2kg | 25sp | Knife |
-| Flintlock musket | Concussive, Deadly d12, Two-handed | 1d12P | 30m | 4kg | 50sp | Firearm |
-| Flintlock pistol | Concussive, Fatal d10 | 1d8P | 20m | 2kg | 30sp | Firearm |
-| Hand cannon | Versatile P, S | 1d8B | 24m | 3kg | 30sp | Firearm |
-| Heavy crossbow | Two-handed | 2d6P | 40m | 5kg | 10sp | Bow |
-| Light pistol | Fatal d10, Light | 1d8B | 12m | 1kg | 20sp | Firearm |
-| Longbow | Deadly d12, Mighty, Two-handed, Volley 10m | 1d10P | 40m | 4kg | 30sp | Bow |
-| Shortbow | Deadly d10, Mighty, Two-handed | 1d8P | 30m | 3kg | 25sp | Bow |
-| Sling staff | Mighty, Two-handed | d10B | 20m | 2kg | 20sp | Sling |
-| Shuriken | Light, Thrown | 1d6P | 10m | 1kg | 5cp | Knife |
+| Arquebus | Concussive, Fatal d12, Mighty, Two-handed | 1d8P | 50m | 5kg | 80sp | Firearm |
+| Blunderbuss | Concussive, Fatal d12, Scatter 4m, Two-handed | 1d8P | 14m | 5kg | 50sp | Firearm |
+| Coat Pistol | Concealable, Concussive, Fatal d10 | 1d6P | 12m | 2kg | 30sp | Firearm |
+| Dragon Mouth Pistol | Concussive, Scatter 2m | 1d6P | 10m | 3kg | 40sp | Firearm |
+| Dart Thrower | Capacity 5 | 1d8P | 14m | 2kg | 25sp | Knife |
+| Flintlock Musket | Concussive, Fatal d12, Two-handed | 1d10P | 24m | 4kg | 50sp | Firearm |
+| Flintlock Pistol | Concussive, Fatal d12 | 1d6P | 20m | 2kg | 30sp | Firearm |
+| Hand Cannon | Versatile P, S | 1d8B | 6m | 3kg | 30sp | Firearm |
+| Heavy Crossbow | Two-handed | 1d12P | 24m | 5kg | 10sp | Bow |
+| Light Pistol | Fatal d8, Light | 1d6B | 10m | 1kg | 20sp | Firearm |
+| Longbow | Deadly d12, Mighty, Two-handed, Volley 10m | 1d12P | 40m | 4kg | 30sp | Bow |
+| Shortbow | Deadly d10, Mighty, Two-handed | 1d10P | 30m | 3kg | 25sp | Bow |
+| Shuriken | Light, Thrown | 1d6P | 6m | 1kg | 5cp | Knife |
+
+Aquebus: 3, 50
+Blunder: 4, 14
+Coat: 4, 12
+Dragon: 4, 10
+Dart: 4, 14
+Musket: 4, 24
+Pistol: 3.5, 20
+Cannon: 4.5, 6
+Crossbow: 4, 24
+Light: 4.5, 10
+Longbow: 4.8, 40
+Short: 4, 30
+Shuriken: 5, 6
+
+
+Scattergun: 3, 40
+
+Mithril Tree:
+Sylvan Bow: 4, 40
+
 
 ### Traits
 
 #### Mighty
-This weapon has significant recoil, requieres sighnificant strength to draw, or is otherwise heavy or unwieldy. Attacks with this weapon deal an additional point of damage per weapon damage die, but you take a -2 Circumstance penalty to Strikes with this weapon unless your Might is +2 or higher. Your GM might waive this penalty if a weapon with significant recoil is mounted on a tripod or similar stabilizing feature.
+This weapon has significant recoil, requieres significant strength to draw, or is otherwise heavy or unwieldy. Attacks with this weapon deal an additional point of damage per weapon damage die, but you take a -2 Circumstance penalty to Strikes with this weapon unless your Might is +2 or higher. Your GM might waive this penalty if a weapon with significant recoil is mounted on a tripod or similar stabilizing feature.
 
 ### Critical Specialization Effects
 Each weapon adds a different additional effect on a critical hit, in addition to doubling the damage as normal. This is called a critical specialization effect. The exact effect depends on which weapon group your weapon belongs to, as listed below. You can always decide not to add the critical specialization effect of your weapon.
