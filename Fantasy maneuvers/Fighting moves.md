@@ -64,7 +64,7 @@ Ranged\
 Reaction\
 You're always ready to take a quick shot to deflect a weapon or distract a foe enough to render them off target. As a reaction when an ally within the first range increment of a ranged weapon you are wielding is hit by an attack, and you can see the attacker, you can give the ally a +2 circumstance bonus to their AC against the triggering attack. You use this reaction after the result of the attack roll is revealed, so you know whether the +2 will make a sufficient difference.
 
-### Defensive blast
+### Defensive Blast
 Abjuration, Spell\
 1 action\
 You blast a target with pure magical energy while keeping some of it to protect yourself. Make a ranged Spell attack against a target within 20m of you. On a hit, the target takes 1d10 force damage. Regardless of if you hit or not, you gain temporary hit points equal to your spellcasting ability that lasts until the end of your next turn.

@@ -194,7 +194,7 @@ You've acquiered a new aptitude. You gain an additional Talent.
 #### Combat Maneuver
 You've learned a new and powerful maneuver. You gain an additional Flourish.
 
-### 15th
+### 20th
 
 #### Ability Improvement
 You increase all Ability modifiers by 1.

@@ -89,7 +89,27 @@ You can see in darkness and dim light just as well as you can see in bright ligh
 You eagerly absorbed the lore of the dwarves. You become proficent in Crafting or Society. If you are already In addition, you become trained in Dwarven lore.
 
 **Dwarven weapon familiarity**
-You have trained with new variations of the traditional weapons of the dwarves. You become trained in the Battleaxe, Greataxe, Greatpick, Maul, Pick and Warhammer. You also become trained in all weapons with the dwarf tag. For the purpose of determining your proficiency rank with dwarf weapons, count advanced dwarf weapons as martial dwarf weapons, and martial dwarf weapons as simple dwarf weapons.
+You have trained with new variations of the traditional weapons of the dwarves. For the purpose of determining your proficiency, martial Dwarf weapons are simple weapons and advanced Elf weapons are martial weapons. 
+
+The following weapons are the ones with the Dwarf trait. All dwarfs can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection with dwarves.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Dwarven War Axe | Dwarf, Sweep, Two-Hand(d10), Versatile P | 1d6S | 2kg | 20sp | Axe | Martial |
+| Titan Mauler | Dwarf,  Razing, Reach | 1d12B | 9kg | 40sp | Hammer | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+| Dwarven Scattergun | Dwarf, Concussive, Mighty, Scatter 6m, Two-handed | 1d6P | 40m | 3kg | 60sp | Firearm | Martial |
+| Boulder Breaker | Dwarf, Mighty, Razing, Two-Handed | 1d12B | 12m | 2kg | 30sp | Sling | Advanced |
+
+*Weapon Description*
+* Dwarven War Axe: This versatile dwarven axe had been used for countless generations.
+* Titan Mauler: While most dismiss this enourmous hammer as unwieldy and unfit for battle, some particularly strong dwarves have taken a liking to this powerful weapon. Due to its size, Medium or smaller wielders of this weapon take a -2m penalty to their speed.
+* Dwarven Scattergun: Scatterguns fire pellets that covers a large area, but more than one dward has been caught by their own arms fire when firing at close range.
+* Boulder Breaker: This massive weapon resembles a handheld catapult and is often used by dwarven sappers to take down fortifications from afar.
 
 **Mountains stoutness**
 You are as tough as the biggest mountains. You gain 5 additional hit points.  When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
@@ -183,9 +203,27 @@ Over your extensive lifespan, you've studied many languages. During your daily p
 You've studied in traditional elven arts, learning about arcane magic and the world around you. You gain the trained proficiency rank in Arcana or Nature. If you would automatically become trained in both of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Elven Lore. 
 
 **Elven weapon familiarity**
-You favor bows and other elegant weapons. You are trained with longbows, composite longbows, longswords, rapiers, shortbows, and composite shortbows.
+You favor bows and other elegant weapons commonly used by elves. For the purpose of determining your proficiency, martial Elf weapons are simple weapons and advanced Elf weapons are martial weapons. 
 
-In addition, you gain access to all uncommon elf weapons. For the purpose of determining your proficiency, martial elf weapons are simple weapons and advanced elf weapons are martial weapons. 
+The following weapons are the ones with the Elf trait. All elves can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection with elves.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Curve Blade | Sweep, Forceful, Two-Hand(d10)| 1d6S | 1kg | 30sp | Sword | Martial |
+| Double-Bladed Scimitar | Sweep, Forceful, Two-Handed, Parry | 1d10S | 3kg | 50sp | Hammer | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+| Sylvan Bow | Backstabber, Two-Handed | 1d10P | 60m | 1kg | 40sp | Bow | Martial |
+| Mithral Tree | Fatal d12 | 1d6P | 50m | 2kg | 30sp | Firearm | Advanced |
+
+*Weapon Description*
+* Curve Blade: Carefully forged from elven steel, this versatile weapon is wielded by elves for self-defense and warfare alike.
+* Double-Bladed Scimitar: A weapon so difficult to master, none other than the long-lived elves has managed to do so.
+* Sylvan Bow: This light wooden bow excels at ambushing from afar.
+* Mithral Tree: Neither made of mithral, nor a tree, this elven weapon is attached to the forearm and fires darts with deadly accuracy.
 
 **Elemental wrath**
 You are so attuned to the land that you can call forth a bolt of energy from your surroundings. When you gain this feat, select acid, cold, electricity, or fire. You can make a special ranged attack against a target within 16m of you that deals 1d8 damage plus 2 splash damage of the chosen type. 
@@ -279,6 +317,26 @@ You have a strong connection to nature. You gain the fey trait and you learn a F
 **Illusion Sense**
 Seeing through illusions and creating them comes naturally to you. As a Free action, you can immediately gain the effects of a Sustain a Spell action to extend the duration of one of your active illusion spells.
 
+**Gnome Weapon Familiarity**
+You wield the creative and innovative weapons of the gnomes. For the purpose of determining your proficiency, martial Gnome weapons are simple weapons and advanced Gnome weapons are martial weapons. 
+
+All gnomes can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection with gnomes.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Gnome Hooked Hammer | Gnome, Trip, Two-Hand(d10), Versatile P | 1d6B | 2kg | 30sp | Hammer | Martial |
+| Switchscythe | Disarm, Gnome, Fatal d12, Finesse, Two-Handed, Versatile S | 1d8S | 3kg | 50sp | Hammer | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+|  | Backstabber, Two-Handed | 1d10P | 60m | 1kg | 40sp | Bow | Martial |
+| Gnome Amalgam Musket | Concussive, Fatal d12, Gnome, Parry, Ranged Trip, Two-Handed | 1d8P | 40m | 2kg | 30sp | Firearm | Advanced |
+
+*Weapon Description*
+
+
 **Inventive Offensive**
 You can jury-rig your weapons to perform in unexpected ways. As a two-action activity, you can add one of the following weapon traits to a melee weapon you wield: deadly d6, disarm, nonlethal, shove, trip, versatile B, versatile P, or versatile S. You cannot add a trait that the weapon already has. The weapon retains this trait until you a successfully hit and deal damage with the weapon. The weapon retains this trait only while you wield it, and you can have only one weapon modified in this way at any time.
 
@@ -354,13 +412,36 @@ You can see in darkness and dim light just as well as you can see in bright ligh
 
 ### Feats
 **Burn It!**
-You love burning thing. When you perform a Flourish with the Fire trait or use an item to deal fire damage, you add 1d6 fire damage. 
+You love burning thing. When you perform a Flourish with the Fire trait or use an item to deal Fire damage, you add 1d6 fire damage. 
 
 **Charhide**
 Your ancestors have always had a connection to fire and a thicker skin, which allows you to resist burning. You gain fire resistance 5. You can also recover from being on fire more easily. Your flat check to remove persistent fire damage is DC 10 instead of DC 15, which is reduced to DC 5 if another creature uses a particularly appropriate action to help.
 
 **Goblin Scuttle**
 You take advantage of your ally’s movement to adjust your position. As a Reaction when a creature ends its movement within 2m of you, you can move up to half your speed without provoking opportunity attacks.
+
+**Goblin Weapon Familiarity**
+Others might look upon them with disdain, but you know that the weapons of your people are as effective as they are sharp. For the purpose of determining your proficiency, martial Goblin weapons are simple weapons and advanced Goblin weapons are martial weapons. 
+
+The following weapons are the ones with the Goblin trait. All goblins can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection to goblins.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Slicer | Agile, Backstabber, Finesse, Goblin| 1d6S | 1kg | 10sp | Sword | Martial |
+| Horsechopper | Goblin, Reach, Two-Handed, Trip, Versatile S | 1d10P | 3kg | 20sp | Polearm | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+| Big Boom Gun | Backstabber, Scatter 4m, Two-Handed | 1d8B | 30m | 1kg | 40sp | Firearm | Martial |
+| Spoon Gun | Scatter 2m, Versatile P,S | 1d6B | 14m | 2kg | 30sp | Firearm | Advanced |
+
+*Weapon Description*
+* Slicer: A slicer is essentially a sharpened metal plate attached to a stick.
+* Horsechopper: This goblin weapon is designed for battling horses and looks like a slicer, but with an even longer stick.
+* Big Boom Gun: This comically oversized hand cannon was invented by a goblin who missed the 'hand' part. It is loaded with alarming quantities of gunpowder
+* Spoon Gun: No ones entirely sure who developed the spoon gun, but all authorities agree that is was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring powered hand cannon with a modified grip that uses miscellaneous knives, forks, chopsticks and spoons as amunition.
 
 **Irongut**
 You can subsist on food that most folks would consider spoiled. You can keep yourself fed with poor meals in a settlement as long as garbage is readily available, without using the Subsist downtime activity. You can eat and drink things when you are sickened.

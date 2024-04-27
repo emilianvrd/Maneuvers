@@ -200,7 +200,7 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 | Name | Traits | Damage | Weight | Price | Group |
 |---|---|---|---|---|---|
 | Axe | Sweep | 1d8S | 2kg | 10sp | Axe |
-| Battle Staff | Reach | 1d6B | 2kg |30sp | Club |
+| Battle Staff | Reach | 1d6B | 2kg |5sp | Club |
 | Bayonet | Attached(crossbow or firearm), Deadly d6, Finesse | 1d4P | 1kg | 2sp | Spear |
 | Earspoon | Parry, Reach, Shove, Versatile S, Two-handed | 1d8P | 4kg | 10sp | Polearm |
 | Fauchard | Deadly d12, Reach, Sweep, Trip, Two-handed | 1d8S | 4kg | 20sp | Polearm |

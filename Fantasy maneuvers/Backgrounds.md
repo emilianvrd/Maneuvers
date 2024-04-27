@@ -11,7 +11,7 @@ You're proficient in the Religion skill, the Scribing lore skill, and four Skill
 ## Acrobat
 n a circus or on the streets, you earned your pay by performing as an acrobat. You might have turned to adventuring when the money dried up, or simply decided to put your skills to better use.
 
-Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Dexterity, and one is a free ability boost.
 
 You're proficient in the Acrobatics skill, the Circus lore skill, and four Skills of your choice. You gain the Line Dancer Talent and two other Talents of your choice.
 
@@ -26,7 +26,7 @@ You're proficient in the Nature skill, and a lore skill related to one terrain i
 ## Artisan
 As an apprentice, you practiced a particular form of building or crafting, developing specialized skill. You might have been a blacksmith’s apprentice toiling over the forge for countless hours, a young tailor sewing garments of all kinds, or a shipwright shaping the hulls of ships.
 
-Choose two ability boosts. One must be to Strength or Intelligence, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Intelligence, and one is a free ability boost.
 
 You're proficient in the Crafting skill, the Guild lore skill, and four Skills of your choice. You gain the Specialty Crafting Talent and two other Talents of your choice.
 
@@ -40,7 +40,7 @@ You're proficient in the Crafting skill, the Art lore skill, and four Skills of 
 ## Barkeep
 You have five specialties: hefting barrels, drinking, polishing steins, drinking, and drinking. You worked in a bar, where you learned how to hold your liquor and rowdily socialize.
 
-Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Charisma, and one is a free ability boost.
 
 You're proficient in the Diplomacy skill, the Alcohol lore skill, and four Skills of your choice. You gain the Prestidigation Talent and two other Talents of your choice.
 
@@ -54,7 +54,7 @@ You're proficient in the Diplomacy skill, the Legal lore skill, and four Skills 
 ## Bounty Hunter
 Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive and sought to bring in criminals to make the streets safer, or maybe the coin was motivation enough. Your techniques for hunting down criminals transfer easily to the life of an adventurer.
 
-Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Wisdom, and one is a free ability boost.
 
 You're proficient in the Survival skill, the Legal lore skill, and four Skills of your choice. You gain the Experienced Tracker Talent and two other Talents of your choice.
 
@@ -96,14 +96,14 @@ You're proficient in the Performance skill, the Theater lore skill, and four Ski
 ## Farmer
 With a strong back and an understanding of seasonal cycles, you tilled the land and tended crops. Your farm could have been razed by invaders, you could have lost the family tying you to the land, or you might have simply tired of the drudgery, but at some point you became an adventurer.
 
-Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Wisdom, and one is a free ability boost.
 
 You're proficient in the Athletics skill, the Farming lore skill, and four Skills of your choice. You gain the Assurance Talent and two other Talents of your choice with Athletics.
 
 ## Field Medic
 In the chaotic rush of battle, you learned to adapt to rapidly changing conditions as you administered to battle casualties. You patched up soldiers, guards, or other combatants, and learned a fair amount about the logistics of war.
 
-Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Wisdom, and one is a free ability boost.
 
 You're proficient in the Medicine skill, the Warfare lore skill, and four Skills of your choice. You gain the Continual Recovery Talent and two other Talents of your choice.
 
@@ -124,28 +124,28 @@ You're proficient in the Deception skill, the Games lore skill, and four Skills 
 ## Gladiator
 The bloody games of the arena taught you the art of combat. Before you attained true fame, you departed—or escaped—the arena to explore the world. Your skill at drawing both blood and a crowd’s attention pay off in a new adventuring life.
 
-Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Charisma, and one is a free ability boost.
 
 You're proficient in the Athletics skill, the Gladiatorial lore skill, and four Skills of your choice. You gain the Impressive Display Talent and two other Talents of your choice.
 
 ## Guard
 You served in the guard, out of either patriotism or the need for coin. Either way, you know how to get a difficult suspect to talk. However you left the guard, you might think of adventuring as a way to use your skills on a wider stage.
 
-Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Charisma, and one is a free ability boost.
 
 You're proficient in the Intimidation skill, the Legal lore skill, and four Skills of your choice or Warfare lore skill, and four Skills of your choice. You gain the Group Coercion Talent and two other Talents of your choice.
 
 ## Herbalist
 As a formally proficient apothecary or a rural practitioner of folk medicine, you learned the healing properties of various herbs. You’re adept at collecting the right natural cures in all sorts of environments and preparing them properly.
 
-Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Wisdom, and one is a free ability boost.
 
 You're proficient in the Nature skill, the Herbalism lore skill, and four Skills of your choice. You gain the Natural Medicine Talent and two other Talents of your choice.
 
 ## Hermit
 In an isolated place—like a cave, remote oasis, or secluded mansion—you lived a life of solitude. Adventuring might represent your first foray out among other people in some time. This might be a welcome reprieve from solitude or an unwanted change, but in either case, you’re likely still rough around the edges.
 
-Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Intelligence, and one is a free ability boost.
 
 You're proficient in Nature, as well as a lore skill, and four Skills of your choice related to the terrain you lived in as a hermit (such as Cave Lore or Desert Lore). You gain the Druidcraft Talent and two other Talents of your choice.
 
@@ -159,14 +159,14 @@ You're proficient in the Survival skill, the Tanning lore skill, and four Skills
 ## Laborer
 You’ve spent years performing arduous physical labor. It was a difficult life, but you somehow survived. You may have embraced adventuring as an easier method to make your way in the world, or you might adventure under someone else’s command.
 
-Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Might, and one is a free ability boost.
 
 You're proficient in the Athletics skill, the Labor lore skill, and four Skills of your choice. You gain the Hefty Hauler Talent and two other Talents of your choice.
 
 ## Martial Disciple
 You dedicated yourself to intense training and rigorous study to become a great warrior. The school you attended might have been a traditionalist monastery, an elite military academy, or the local branch of a prestigious mercenary organization.
 
-Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Dexterity, and one is a free ability boost.
 
 You're proficient in your choice of either the Acrobatics or Athletics skill, as well as the Warfare lore skill, and four Skills of your choice. You gain a Talent and two other Talents of your choice: Cat Fall if you chose Acrobatics or Fast Jump if you chose Athletics.
 
@@ -180,7 +180,7 @@ You're proficient in the Diplomacy skill, the Mercantile lore skill, and four Sk
 ## Miner
 You earned a living wrenching precious minerals from the lightless depths of the earth. Adventuring might have seemed lucrative or glamorous compared to this backbreaking labor— and if you have to head back underground, this time you plan to do so armed with a real weapon instead of a miner’s pick.
 
-Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Wisdom, and one is a free ability boost.
 
 You're proficient in the Acrobatics skill, the Mining lore skill, and four Skills of your choice. You gain the Free Squeeze Talent and two other Talents of your choice with underground terrain.
 
@@ -194,21 +194,21 @@ You're proficient in the Society skill, the Genealogy lore skill, and four Skill
 ## Nomad
 Traveling far and wide, you picked up basic tactics for surviving on the road and in unknown lands, getting by with few supplies and even fewer comforts. As an adventurer, you travel still, often into even more dangerous places.
 
-Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Wisdom, and one is a free ability boost.
 
 You're proficient in the Survival skill, and a lore skill, and four Skills of your choice related to one terrain you traveled in (such as Desert Lore or Swamp Lore). You gain the Assurance Talent and two other Talents of your choice with Survival.
 
 ## Prisoner
 You might have been imprisoned for crimes (whether you were guilty or not), or enslaved for some part of your upbringing. In your adventuring life, you take full advantage of your newfound freedom.
 
-Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Might, and one is a free ability boost.
 
 You're proficient in the Stealth skill, the Underworld lore skill, and four Skills of your choice. You gain the Smuggler Talent and two other Talents of your choice.
 
 ## Sailor
 You heard the call of the sea from a young age. Perhaps you signed onto a merchant’s vessel, joined the navy, or even fell in with a crew of pirates and scalawags.
 
-Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Dexterity, and one is a free ability boost.
 
 You're proficient in the Athletics skill, the Sailing lore skill, and four Skills of your choice. You gain the Shape Water Talent and two other Talents of your choice.
 
@@ -229,7 +229,7 @@ You're proficient in the Survival skill, and a lore skill, and four Skills of yo
 ## Street Urchin
 You eked out a living by picking pockets on the streets of a major city, never knowing where you’d find your next meal. While some folk adventure for the glory, you do so to survive.
 
-Choose two ability boosts. One must be to Dexterity or Constitution, and one is a free ability boost.
+Choose two ability boosts. One must be to Dexterity or Might, and one is a free ability boost.
 
 You're proficient in the Thievery skill, and a lore skill, and four Skills of your choice for the city you lived in as a street urchin (such as Absalom Lore or Magnimar Lore). You gain the Pickpocket Talent and two other Talents of your choice.
 
@@ -243,6 +243,6 @@ You're proficient in the Crafting skill, the Engineering lore skill, and four Sk
 ## Warrior
 In your younger days, you waded into battle as a mercenary, a warrior defending a nomadic people, or a member of a militia or army. You might have wanted to break out from the regimented structure of these forces, or you could have always been as independent a warrior as you are now.
 
-Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
+Choose two ability boosts. One must be to Might or Might, and one is a free ability boost.
 
 You're proficient in the Athletics skill, the Warfare lore skill, and four Skills of your choice. You gain the Impressice Display Talent and two other Talents of your choice.

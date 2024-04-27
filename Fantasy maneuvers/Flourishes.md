@@ -17,7 +17,7 @@ Template
 ### Archer's Aim
 Ranged\
 1 action\
-You slow down, focus, and take a careful shot. Make a Ranged Strike. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed or hidden condition and any circumstance bonus to the targets AC provided by cover.
+You slow down, focus, and take a careful shot. Make a Ranged Strike. You gain a +2 circumstance bonus to the attack roll and ignore the target's concealed or hidden condition and any circumstance bonus to the targets Dexterity Defense Rolls or DCs provided by cover.
 
 You can use this Flourish once per day.
 
@@ -115,7 +115,7 @@ You can use this Flourish once per day.
 
 ### Disarming Block
 Reaction\
-When targeted by a Strike, you can use your reaction to gain a +1 circumstance bonus to AC against the triggering attack. If the target misses, you automatically Disarm it.
+When targeted by a Strike, you can use your reaction to gain a +1 circumstance bonus to Dexterity Defense Rolls against the triggering attack. If the target misses, you automatically Disarm it.
 
 You can use this Flourish once per day.
 
@@ -313,9 +313,9 @@ You can use this Flourish once per day.
 **Size**: Medium\
 **Languages**: Common, Infernal; Telepathy 12m\
 **Skills**: Deception +6, Intimidation +6, Persuasion +6, Warfare Lore +6\
-Mig: +3, Dex: +3, Int: +1, Wis: +0, Cha: +3
+**Attributes**: Mgt: +3, Dex: +3, Int: +1, Wis: +0, Cha: +3
+**Defense Rolls**: Mgt: +5, Dex: +5 (Conqueror and Tempter only) or +7 (Legioneer only), Int: +3, Wis: +3, Cha: +7
 
-**AC**: 15 (Conqueror and Tempter only), 17 (Legioneer only)\
 **HP**: 50; **Resistances**: Fire 5, **Weaknesses**: Radiant 5\
 **Reactions**:
 - **Shield Block** (Legioneer only) Trigger: A creature hits the diabolic spirit with a Strike and deals damage to it. Effect: The diabolic spirit interposes its shield, reducing the damage by 3. \
@@ -377,9 +377,9 @@ You can use this Flourish once per day.
 **Traits**: Construct, Lawful Neutral\
 **Size**: Large\
 **Languages**: Common\
-Mig +3, Dex: +1, Int: +2, Wis: -1, Cha: -2
+**Attributes**: Mig +3, Dex: +1, Int: +2, Wis: -1, Cha: -2
+**Defense Rolls**: Mgt: +5, Dex: +8, Int: +4, Wis: +1, Cha: +0
 
-**AC**: 18\
 **HP**: 50; **Resistances**: Physical 5, **Immunities**: Mental, **Weaknesses**: Lightning 5\
 **Heated Body** (Steam-driven only) When the Constructed Spirit takes damage from a creature within 2m of it, the creature takes 1d6 Fire damage.\
 **Speed**: 10m (Steam-driven and Spell-driven only), or 16m (Electricity-driven only)\
@@ -407,10 +407,9 @@ You can use this Flourish once per day.
 **Size**: Medium\
 **Languages**: Common, Sylvan\
 **Skills**: Nature +5\
-Mgt: +3, Dex: +3, Int: +0, Wis: +2, Cha: +1\
+**Attributes**: Mgt: +3, Dex: +3, Int: +0, Wis: +2, Cha: +1\
+**Defense Rolls**: Mgt: +3, Dex: +5, Int: +1, Wis: +3, Cha: +3
 
-**AC**: 15\
-**Saving throws**: Might +1, Dex: +6, Int: +1, Wis: +1, Cha: +1\
 **HP**: 60 (Brutish only) or 50 (Agile and Speedy only); **Resistances**: Poison 5\
 **Reactions**:\
 - **Name** Trigger: Effect:\
@@ -611,7 +610,7 @@ Cold, Wall, Spell\
 2 actions\
 You sculpt a barrier of ice within 30m of you that blocks sight and, once shattered, freezes foes. You create either a 1-meter-thick wall of ice in a straight line up to 20m long and 4m high (the wall doesn't have to be vertical, but it must be anchored on both sides to a solid surface) or a 1m thick, 4m radius hemisphere of ice. The ice that makes up the wall is opaque. If you wish, the wall can be of a smaller length, height, or radius. You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the Spell is lost.
 
-Each 4m by 4m section of the wall has AC 15, and 25 Hit Points, and it's immune to critical hits, Cold damage, and precision damage. A section also has weakness to Fire 10; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 4d6 Cold damage to any creature passing through it.
+Each 4m by 4m section of the wall makes all Defense rolls with a +5 modifier, and 25 Hit Points, and it's immune to critical hits, Cold damage, and precision damage. A section also has weakness to Fire 10; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 4d6 Cold damage to any creature passing through it.
 
 The wall lasts for 1 minute or umtil completely destroyed.
 
