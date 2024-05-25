@@ -163,7 +163,7 @@ You can use this Flourish once per day.
 ### Earthen Grasp
 Earth, Nature, Spell\
 2 actions\
-You choose a 2m-square unoccupied space on the ground that you can see within 12m of you. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 2m of it. Make a Spell attack against the Might DC of a creature you can see within 2 of it with the following effects:
+You choose a 2m-square unoccupied space on the ground that you can see within 12m of you. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 2m of it. Make a Spell attack against the Might DC of a creature you can see within 2m of it with the following effects:
 
 **Critical Success**: The target takes 16d6 Bludgeoning damage and is Restrained for 1 minute or until it Escapes.\
 **Success**: The target takes 8d6 Bludgeoning damage and is Grappled by the hand for 1 minute or until it Escapes.

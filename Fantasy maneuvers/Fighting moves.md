@@ -27,7 +27,7 @@ You make a powerful strike to push your foe away. Make a Melee Strike with a two
 ### Bullet split
 Ranged\
 1 action\
-You carefully align your weapon with the edge of your blade, splitting the projectile in two as you fire to attack two different targets. As a single action, make two Strikes against two separate targets. You must be wielding both a ranged and a melee weapon and the targets must be adjacent to each other and within your weapon's maximum range. Each of these attacks takes a –2 penalty to the attack roll.
+You carefully align your weapon with the edge of your blade, splitting the projectile in two as you fire to attack two different targets. As a single action, make two Strikes against two separate targets. You must be wielding both a ranged and a melee weapon and the targets must be adjacent to each other and within your weapon's maximum range. 
 
 ### Called Strike
 You target a specific area of your foe's anatomy to debilitating effect. As a two-action activity, declare a part of your foe's anatomy to target and make a Strike. If you hit and deal damage, the target takes one of the following effects, based on the body part you targeted. The GM should use the stated effects as a guideline when attacking creatures with stranger anatomy—for instance, applying the “arms” effect to a creature's tentacles if those are what the creature uses to attack.
@@ -194,11 +194,11 @@ You pour down divine radience into a weapon you are holding. Make a Melee Strike
 ### Ray of Frost
 Cold, Spell\
 1 action\
-You send a freezing ray against a foe. A creature within 24m of you must succed on a Might Saving Throw or take 1d4 + your Spellcasting ability Cold damage and take a -2m status bonus to its speeds. 
+You send a freezing ray against a foe. A creature within 24m of you must succed on a Might Saving Throw or take 1d4 + your Spellcasting ability Cold damage and take a -2m Status bonus to its speeds for 1 minute. 
 
 ### Reckless Attacks
-Quick action\
-You throw away all concern for defense and focus solely on offense. Until the start of your next turn, you gain Advantage on all attacks, but your opponents attacks against you also gain Advantage.
+Free action\
+You throw away all concern for defense and focus solely on offense. Until the start of your next turn, you gain Advantage on all melee attacks, but you gains disadvantage on your defense rolls until the start of your next turn. 
 
 ### Reflexive Shield
 Shield\

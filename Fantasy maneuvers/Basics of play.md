@@ -96,3 +96,17 @@ First, subtract the targets' Defense DC to the result of the attack. the use the
 | 18 or higher| – | – | – | Everyone |
 
 If you can't divide the creatures evenly, give them the result with the highest chance of happening, or the worst one, if the results are equally likely.
+
+## Experience
+At the end of a session, give all the players 1XP and another point of XP for each of the following any player did. Once the players have gotten a total of 10XP, they go up a level and reset their XP to 0 plus any leftover XP if they had more than 10 experience.
+
+- Did you succeed in a major accomplishment?
+- Did any of you have a meaningful roleplaying interaction with an NPC?
+- Did any of you have a meaningful roleplaying interaction with another PC?
+- Was any notable or impressive acting performed?
+- Did anyone perform any unusual actions that worked?
+- Did anyone notice an import fact or clue?
+- Did anyone show unusual wisdom, restraint or vision?
+- Did you learn anything important?
+- Did any of your characters develop in a significant way?
+- Was there any particularly funny moments?

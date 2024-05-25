@@ -211,7 +211,7 @@ The following weapons are the ones with the Elf trait. All elves can choose to b
 | Name | Traits | Damage | Weight | Price | Group | Category |
 |---|---|---|---|---|---|---|
 | Curve Blade | Sweep, Forceful, Two-Hand(d10)| 1d6S | 1kg | 30sp | Sword | Martial |
-| Double-Bladed Scimitar | Sweep, Forceful, Two-Handed, Parry | 1d10S | 3kg | 50sp | Hammer | Advanced |
+| Double-Bladed Scimitar | Sweep, Forceful, Two-Handed, Parry | 1d10S | 3kg | 50sp | Sword | Advanced |
 
 *Ranged Weapons*
 | Name | Traits | Damage | Range | Weight | Price | Group | Category |
@@ -311,7 +311,7 @@ Your familiar acts independently of you, but it always obeys your commands. In c
 
 When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears if you spend 1 hour and 10gp to resummon it.
 
-**Fey Touched gnome**
+**Fey Touched Gnome**
 You have a strong connection to nature. You gain the fey trait and you learn a Fighting move with the Nature trait. 
 
 **Illusion Sense**
@@ -326,15 +326,19 @@ All gnomes can choose to buy any of these weapons during character creation and 
 | Name | Traits | Damage | Weight | Price | Group | Category |
 |---|---|---|---|---|---|---|
 | Gnome Hooked Hammer | Gnome, Trip, Two-Hand(d10), Versatile P | 1d6B | 2kg | 30sp | Hammer | Martial |
-| Switchscythe | Disarm, Gnome, Fatal d12, Finesse, Two-Handed, Versatile S | 1d8S | 3kg | 50sp | Hammer | Advanced |
+| Switchscythe | Disarm, Gnome, Fatal d12, Finesse, Two-Handed, Versatile S | 1d8S | 3kg | 50sp | Pick | Advanced |
 
 *Ranged Weapons*
 | Name | Traits | Damage | Range | Weight | Price | Group | Category |
 |---|---|---|---|---|---|---|---|
-|  | Backstabber, Two-Handed | 1d10P | 60m | 1kg | 40sp | Bow | Martial |
+| Throwing Knife | Backstabber, Light, Thrown | 1d4P | 12m | 1kg | 5sp | Knife | Martial |
 | Gnome Amalgam Musket | Concussive, Fatal d12, Gnome, Parry, Ranged Trip, Two-Handed | 1d8P | 40m | 2kg | 30sp | Firearm | Advanced |
 
 *Weapon Description*
+- Gnome Hooked Hammer: This overly complex weapon is surprisingly easy to wield. A hooked hammer on each end of the weapon helps with balancing and dealing powerful blows.
+- Switchscythe: A traditional farming tool that has been heavily modified for combat.
+- Throwing Knife: Favored by mischevious gnomes, this sleek dagger is balanced for being thrown, but works poorly in melee.
+- Gnome Amalgam Musket: Some say this weapon started as a bet to make the hooked hammer even more complex. The weapon has lost its melee functionality, but fires small rotating pellets shaped like a miniture hooked hammer. 
 
 
 **Inventive Offensive**
@@ -541,6 +545,29 @@ Your happy-go-lucky nature makes it seem like misfortune avoids you, and to an e
 **Halfling Lore**
 You've dutifully learned how to keep your balance or how to stick to the shadows where it's safe, important skills passed down through generations of halfling tradition. You gain the trained proficiency rank in Acrobatics or Stealth. You also become trained in Halfling Lore. 
 
+**Halfling Weapon Adept**
+You have trained with new variations of the traditional weapons of halflings. For the purpose of determining your proficiency, martial Halfling weapons are simple weapons and advanced Halfling weapons are martial weapons. 
+
+The following weapons are the ones with the Halfling trait. All halflings can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection with halflings.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Filcher's fork | Backstabber, Deadly d6, Halfling, Light, Thrown 8m | 1d4S | 1kg | 5sp | Knife | Martial |
+| Fighting Stick | Halfling, Nonlethal, Finesse, Trip | 1d8B | 9kg | 3sp | Polearm | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+| Sling Staff | Halfling, Two-handed | 1d10B | 40m | 3kg | 20sp | Sling | Martial |
+| Repeating Arbalest | Backstabber, Halfling, Two-handed, Forceful | 1d12P | 12m | 2kg | 60sp | Bow | Advanced |
+
+*Weapon Descriptions*
+- Filcher's Fork: Both a cooking implement and a weapon, this weapon is commonly used by adventuring halflings.
+- Fighting Stick: A complex stick that can be divided into three parts to swing with additional force.
+- Sling Staff: A tall sling very commonly used by halflings as it can deliver a hard blow from far away.
+- Repeating Arbalest: A complex version of the arbalest that has a complex system that automatically reloads the arbalest as it is fired. However, this system comes at the cost of range and accuracy.
+
 **Hillock**
 Accustomed to a calm life in the hills, your people find rest and relaxation especially replenishing, particularly when indulging in creature comforts. You regain 10 additonal hit points when you Rest. In addition, if you spend 1 hour eating a meal, you gain 1d6 temporary hit points.
 
@@ -632,7 +659,7 @@ You have praticed  with a wide variety of skill. You become proficent in a addit
 You are naturally good at improvising when the situation requiers it. Three times per day when you make a Skill check with a Skill that you do not have proficiency in, you can add your proficiency bonus to it.
 
 **War-born**
-You were born during a war or your life has been greatly defines by it, forcing you to take up arms. You become proficent in three Martial weapons of your choice.
+You were born during a war or your life has been greatly defines by it, forcing you to take up arms. You become proficent in three Martial weapons of your choice. If you already were proficient in every Martial weapon of your choice, you become proficient in an Advanced weapon of your choice and gains access to it if it is uncommon.
 
 ## Kobold
 *Every kobold knows that their slight frame belies true, mighty draconic power. They are ingenious crafters and devoted allies within their warrens, but those who trespass into their territory find them to be inspired skirmishers, especially when they have the backing of a draconic sorcerer or true dragon overlord. However, these reptilian opportunists prove happy to cooperate with other humanoids when it’s to their benefit, combining caution and cunning to make their fortunes in the wider world.*
@@ -744,6 +771,30 @@ You are adept at the time-honored kobold art of trap making. You gain the traine
 **Strongjaw Kobold**
 Your bloodline is noted for their powerful jaws and sharp teeth. You gain a jaws unarmed attack that deals 1d8 piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits.
 
+**Tunneler's Armaments**
+Kobolds employ a variety of weapons that can often both be used for tunneling and fighting. For the purpose of determining your proficiency, martial Kobold weapons are simple weapons and advanced Kobold weapons are martial weapons. 
+
+The following weapons are the ones with the Kobold trait. All kobolds can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection to kobolds.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Fangwire | Backstabber, Deadly d8 Finesse, Grapple, Kobold, Light | 1d4S | 1kg | 20sp | Brawling | Martial |
+| Tricky Pick | Backstabber, Fatal d10, Kobold, Versatile B | 1d6P | 1kg | 35sp | Pick | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+| Bola | Kobold, Nonlethal, Thrown, Ranged Trip | 1d8B | 8m | 1kg | 5sp | Hammer | Martial |
+| Dragon Gun | Kobold, Scatter 2m, Two-handed | 1d10F* | 40m | 3kg | 70sp | Firearm | Advanced |
+
+*Weapon Description*
+* Fangwire: This kobold wire is thin and hard to see, making it perfect for an ambush. The wielder wraps the wire around a vulnerable spot, such as the neck, and twists it to inflict potentially fatal lacerations. The name derives from the use of a similar wire in traps, or slow fangs, with the word “slow” removed, as a fangwire gets quick results.
+* Tricky Pick: An ingenious pick that conceals several hidden traps, which the wielder can activate to trick and befuddle foes with a variety of damaging blades and bludgeoning surfaces.
+* 
+* Dragon Gun: Firing draconic energy, this weapon can be crafted in 
+
+
 **Winglets**
 You have small wings. Once per day, you can gain a flying speed of 8m for 1 minute. You also reduce any damage you take from a fall by 5.
 
@@ -789,10 +840,9 @@ A common orc saying is, “You are the scars that shape you.” Violent, chaotic
 While there are orc deities, their worship is surprisingly uncommon among orcs. Orcs believe that if a creature has a face and a name, it can be killed, and so their own deities are targets, rather than objects of reverence. Some orc holds teach that the greatest members of the hold can earn a chance to challenge the orc deities for a place amid the pantheon. Most orcs don't waste their dying moments praising the divine or praying for a place in the afterlife, but spitting a blood-flecked warning at their deities, promising a new challenger through broken teeth.
 
 **Adventurers**
-
 An orc's drive to overcome challenges and prove themself spurs many orcs to become adventurers, though orcs are more likely to set out on their own or with other orcs than alongside adventurers of other ancestries.
 
-Common orc backgrounds include gladiator, hunter, martial disciple, nomad, and warrior from the Core Rulebook, plus bandit, outrider, and refugee from this book. Orcs thrive in martial archetypes like barbarian and berserker.
+Common orc backgrounds include gladiator, hunter, martial disciple, nomad, and warrior. Orcs thrive in martial archetypes like barbarian and berserker.
 
 **Names**
 Orcs have a harsh, guttural language, and their naming conventions are no exception. Many orc names are simply the Orcish word for a particularly desirable trait, such as great strength, height, or ferocity. Orcs commonly use either their hold name or a name referencing a particularly memorable accomplishment as 
@@ -837,6 +887,29 @@ You are part of an orc community that participates in ritual scarification or ta
 
 **Orc Ferocity**
 Fierceness in battle runs through your blood, and you refuse to fall from your injuries. One per day as a Reaction when you are reduced to 0 hit points. You avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1. 
+
+**Orc Weapon Familiarity**
+The brutish and  For the purpose of determining your proficiency, martial Goblin weapons are simple weapons and advanced Goblin weapons are martial weapons. 
+
+The following weapons are the ones with the Goblin trait. All goblins can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection to goblins.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Knuckle Dagger | Disarm, Light, Orc, Versatile B | 1d6P | 1kg | 5sp | Knife | Martial |
+| Necksplitter | Forceful, Orc, Sweep | 1d8P | 3kg | 30sp | Axe | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+| Bone Bow | Mighty, Orc, Two-handed | 1d10P | 60m | 1kg | 40sp | Firearm | Martial |
+| Barricade Buster | Deadly d12, Forceful, Mighty, Orc, Razing, Volley 8m | 1d12B | 16m | 4kg | 30sp | Firearm | Advanced |
+
+*Weapon Description*
+* Knuckle Dagger: This stout, metal blade of orc design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.
+* Necksplitter: This single-bladed bearded axe has a jagged blade that's perfect for separating bone from tendon and cartilage.
+* Bone Bow: This massive steel bow reinforced with bones needs great strength to be drawn, but fires arrows with much force accuratly over long distances.
+* Barricade Buster: The barricade buster features eight barrels fixed around a central pivot attached to a handle and firing mechanism. A barricade buster fires spheres of metal with extreme velocity and very little accuracy.
 
 **Winter Orc**
 Your ancestors survived in cold climates. You become trained in Survival, and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
@@ -910,6 +983,29 @@ You can integrate weapons or armor into your body. To integrate an item, you mus
 ### Feats
 **Dual Form**
 Your body is specifically modified to being able to change into two different forms. You can use an action to change your shape into a vehicle, or to change back. While in your vehicle form, your walking speed increases by 6 meters (4 squares), but you can only take actions with the move trait and can’t wield weapons. When you transform, you can choose to have your worn equipment be placed in a compartment inside your vehicle form, or to still be worn. 
+
+**Forged for War**
+Warforged were made to fight and almost all know how to fight using their weapons of choice. For the purpose of determining your proficiency, martial Warforged weapons are simple weapons and advanced Warforged weapons are martial weapons. 
+
+The following weapons are the ones with the Warforged trait. All goblins can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection to warforged.
+
+*Melee Weapons*
+| Name | Traits | Damage | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|
+| Rotating Blade | Agile, Backstabber, Finesse, Goblin| 1d6S | 1kg | 10sp | Sword | Martial |
+| Horsechopper | Goblin, Reach, Two-Handed, Trip, Versatile S | 1d10P | 3kg | 20sp | Polearm | Advanced |
+
+*Ranged Weapons*
+| Name | Traits | Damage | Range | Weight | Price | Group | Category |
+|---|---|---|---|---|---|---|---|
+| Arm Cannon | Concealable, Concussive, Free-hand, Warforged | 1d6P | 14m | 1kg | 40sp | Firearm | Martial |
+|  | Scatter 2m, Versatile P,S | 1d6B | 14m | 2kg | 30sp | Firearm | Advanced |
+
+*Weapon Description*
+* Slicer: A slicer is essentially a sharpened metal plate attached to a stick.
+* Horsechopper: This goblin weapon is designed for battling horses and looks like a slicer, but with an even longer stick.
+* Big Boom Gun: This comically oversized hand cannon was invented by a goblin who missed the 'hand' part. It is loaded with alarming quantities of gunpowder
+* Spoon Gun: No ones entirely sure who developed the spoon gun, but all authorities agree that is was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring powered hand cannon with a modified grip that uses miscellaneous knives, forks, chopsticks and spoons as amunition.
     
 **Impersonator**
 Your body was augmented with processes and an appearance intended to blend in with humans more easily. You become trained in Deception (or another skill if you're already trained in Deception). You don't require a disguise kit when attempting Deception checks to Impersonate a human. In addition, you gain a +4 circumstance bonus to Impersonate checks to pretend that you're a human version of yourself, rather than a warforged. This bonus doesn't apply to other checks to Impersonate humans.
@@ -923,6 +1019,6 @@ The materials you are composed of resists ailments that attack the flesh. You ga
 **Night Vision Adapters**
 You have augmented visual processing abilities. You gain Low-Light vision.
 
-**Proximity alert**
+**Proximity Alert**
 You're unnaturally in tune with your surroundings and react instinctively to danger. You gain a +2 circumstance bonus to Perception checks made as initiative rolls.
 

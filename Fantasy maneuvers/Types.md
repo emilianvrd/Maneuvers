@@ -829,16 +829,16 @@ Trickster are cunning explorers and combatants. They learn a wide variety of tri
 #### Ancestry and Backround
 In addition to what you get from your type at 1st level, you have the benefits of your selected Ancestry and Background.
 
-### Expert
+#### Expert
 You become proficient in four different Skills and gain two Talents. 
 
 #### Maneuvers
 You have learned many special maneuvers that you readily deploy during combat. You gain three Fighting Moves and two Flourishes of your choice. 
 
-### Skill Mastery
+#### Skill Mastery
 Choose one Skill you are proficient in. You gain a +2 Enhancement bonus to this Skill.
 
-### Versatile defense
+#### Versatile defense
 You add your proficiency bonus to two different types of Defense Rolls of your choice: Might, Dexterity, Intelligence, Wisdom, or Charisma Defense Rolls. At the end of a Rest, you can change which two Defense Rolls you add your proficiency bonus to. If you choose Dexterity, you only add your proficiency bonus to any Basic Dexterity Defense Rolls you make.
 
 ### 2nd
@@ -1087,7 +1087,7 @@ You've acquiered a new aptitude. You gain an additional Talent.
 
 ### 3rd
 
-### Bravery
+#### Bravery
 Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear and keep on fighting. When you roll a success against a Fear effect, you get a critical success instead. In addition, anytime you gain the Frightened condition, reduce its value by 1.
 
 #### Fighter

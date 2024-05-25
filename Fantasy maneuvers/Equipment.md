@@ -240,8 +240,6 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 | Javelin | Thrown | 1d6P | 12m | 1kg | 2sp | Spear |
 | Sling | – | 1d6B | 10m | Negligible | 20sp | Sling |
 
-
-
 #### Martial Weapons
 | Name | Traits | Damage | Range | Weight | Price | Group |
 |---|---|---|---|---|---|---|
