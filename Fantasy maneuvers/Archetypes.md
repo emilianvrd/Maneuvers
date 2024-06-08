@@ -469,6 +469,39 @@ You gain a +2 Status bonus to the damage of any Fighting Move or Flourish with t
 ### Ultimate Ability
 When you use a Fighting Move with the Polymorph trait that has a duration of at least 1 minute, you make the Fighting Move last 10 times as long. Once per day, you can also apply this benefit to a Flourish that has a duration of at least 1 minute.
 
+## Necromancer
+You wield the dark arts to harm and create undead.
+
+### Initial Ability
+When you kill a living creature, you can use your Reaction to cause it to reanimate as an undead creature under your control. The creature has the stats listed below, but it gains no actions. You can give it two actions and cause it to move up to its speed by spending one of your own actions. The undead creature lasts for 1 minute or until it is reduced to 0hp.
+
+#### Undead Creation
+
+**Traits**: Undead\
+**Size**: Medium\
+**Languages**: Understands Common and Necril, but can't speak\
+**Attributes**: Mgt: +1, Dex: -1, Int: -5, Wis: +0, Cha: -5\
+**Defense Rolls**: Mgt: +2, Dex: +2, Int: +0, Wis: +1, Cha: +0
+
+**HP**: 20; **Immunities**: Death effects, disease, mental, paralyzed, poison, unconcious , **Weaknesses**: Radiant 5\
+**Speed**: 8m
+
+##### Actions
+**Slam**: Melee attack, your spell attack modifier to hit, reach 2m. **Damage**: 1d6 + your spellcasting ability Bludgeoning.
+
+##### Other Features
+**Darkvision** The undead spirit can see perfectly well in areas of darkness and dim light.
+
+At 7th and 15th level, the undead creation's hit points increases by 10 and it gains a +2 bonus to all its defense rolls.
+
+### Greater Ability
+You reap the life force of your targets. When you deal damage to a creature using a Fighing move with the Necromancy trait, you regain 2 hit points. In addition, you become partially undead yourself. You gain a +2 Circumstance bonus to Death effects, diseases, poison and any effects that would make you paralyzed. 
+
+At 15th level, the hit points you regain increases by 1.
+
+### Ultimate Ability
+Your undead creations are the finest in the world. When you create an undead creature, including with the Initial ability of this archetype and with a Flourish, it gains a +1 bonus to all its defense rolls and deals an extra 1d6 Necrotic damage with all its attacks.
+
 ## Pistol prodigy
 You're extremely deadly when armed with a single firearm.
 

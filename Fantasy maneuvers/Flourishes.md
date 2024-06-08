@@ -313,7 +313,7 @@ You can use this Flourish once per day.
 **Size**: Medium\
 **Languages**: Common, Infernal; Telepathy 12m\
 **Skills**: Deception +6, Intimidation +6, Persuasion +6, Warfare Lore +6\
-**Attributes**: Mgt: +3, Dex: +3, Int: +1, Wis: +0, Cha: +3
+**Attributes**: Mgt: +3, Dex: +3, Int: +1, Wis: +0, Cha: +3\
 **Defense Rolls**: Mgt: +5, Dex: +5 (Conqueror and Tempter only) or +7 (Legioneer only), Int: +3, Wis: +3, Cha: +7
 
 **HP**: 50; **Resistances**: Fire 5, **Weaknesses**: Radiant 5\
@@ -331,12 +331,14 @@ You can use this Flourish once per day.
 
 The diabolic spirit gains a +2 circumstance bonus to Deception and Persuasion checks against a creature Charmed in this way.\
 
-**Longsword**: Melee attack, +7 to hit (Versatile P), reach 2m. **Damage**: 1d8 + 3 Slashing\
+**Longsword**: Melee attack, +7 to hit (Versatile P), reach 2m. **Damage**: 1d8 + 3 Slashing. On a Critical Success, the target is also Frightened 1 (Conqueror only)
 
 ##### Other Features
-**Conqueror's Presence** (Conqueror only): Each other creature of the conquerer's choice within 12m of it gains a +1 circumstance bonus to damage. In addition, whenever the diabolic spirit hits a creature with its Longsword, the target must succed at a DC 12 Wisdom saving throw or become Frightened 1.
+**Conqueror's Presence** (Conqueror only): Each other creature of the conquerer's choice within 12m of it gains a +1 circumstance bonus to damage.
 
-**Greater Darkvision** The diabolic spirit with darkvision can see perfectly well in areas of darkness and dim light, including magical darkness.
+**Greater Darkvision** The diabolic spirit can see perfectly well in areas of darkness and dim light, including magical darkness.
+
+At 7th level and again at 15th level, the Diabolic spirit gains a +2 bonus to all its attacks and defense rolls, 10 more hit points, and it deals an extra 4 damage with its Longsword attack.
 
 ### Inspiring speech
 Buff, Mental\
@@ -377,7 +379,7 @@ You can use this Flourish once per day.
 **Traits**: Construct, Lawful Neutral\
 **Size**: Large\
 **Languages**: Common\
-**Attributes**: Mig +3, Dex: +1, Int: +2, Wis: -1, Cha: -2
+**Attributes**: Mgt +3, Dex: +1, Int: +2, Wis: -1, Cha: -2\
 **Defense Rolls**: Mgt: +5, Dex: +8, Int: +4, Wis: +1, Cha: +0
 
 **HP**: 50; **Resistances**: Physical 5, **Immunities**: Mental, **Weaknesses**: Lightning 5\
@@ -392,6 +394,8 @@ You can use this Flourish once per day.
 ##### Two-action activities
 **Unleash Energy**: Ranged attack + 5 to hit (Flourish), area 12m cone. **Damage**: 5d10 Fire (Steam-driven only), Lightning (Electricity only), or Force (Spell-driven only). The construct can use this Flourish once per day.
 
+At 7th level and again at 15th level, the Constructed spirit gains a +2 bonus to all its attacks and defense rolls, 10 more hit points, and it deals an extra 3 damage with its Slam attack, an extra 4 damage with its Hurl magic attack (Spell-driven only), and deals 2 more damage with its Heated Body (Steam-driven only).
+
 ### Nature's Ally
 Nature, Spell, Conjuration\
 2 actions\
@@ -403,7 +407,7 @@ You can use this Flourish once per day.
 
 #### Nature Spirit
 
-**Traits**: Fey, Neutral\
+**Traits**: Fey\
 **Size**: Medium\
 **Languages**: Common, Sylvan\
 **Skills**: Nature +5\
@@ -411,9 +415,6 @@ You can use this Flourish once per day.
 **Defense Rolls**: Mgt: +3, Dex: +5, Int: +1, Wis: +3, Cha: +3
 
 **HP**: 60 (Brutish only) or 50 (Agile and Speedy only); **Resistances**: Poison 5\
-**Reactions**:\
-- **Name** Trigger: Effect:\
-other defenses\
 **Speed**: 12m, 16m (Speedy only)\
 
 #### Actions
@@ -423,6 +424,8 @@ other defenses\
 
 #### Other features
 **Fast** (Speedy only): The nature spirit is always Quickened 1. It can use this extra action only to Step or Stride. In addition, when the nature spirit Steps, it moves 4m without provoking opportunity attacks\
+
+At 7th level and again at 15th level, the Nature spirit gains a +2 bonus to all its attacks and defense rolls, 15 more hit points (Brutish only) or 10 more hit points (Agile and Speedy only), and it deals an extra 4 damage with Bash attack and 3 more with its Thorn and Quick Cut attacks (Agile only)
 
 ### Parting Shot
 Ranged\
@@ -590,6 +593,37 @@ A wave of thunderous force sweeps out from you. Make a Basic Spell attack agains
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 4m away from you by the Spell’s effect, and the Spell emits a thunderous boom audible out to 300 feet.
 
 You can use this Flourish once per day. 
+
+### Undead Servant
+Conjuration, Necromancy, Spell\
+2 actions\
+You call upon unholy energy to raise a creature from among the dead. When you cast the spell, choose the creature’s form: Ghastly, Vicious, or Wretched. This determines some of the creatures statitics, as noted in the creatured stat block. 
+
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours (including on the turn you summoned it). It obeys your verbal commands (no action required by you). If you issue such a commond or don’t issue any commands, it takes the Dodge action and uses its move to avoid danger. The spell lasts for 1 hour, until dispelled, or until the Undead spirit is reduced to 0 hp.
+
+You can use this Flourish once per day.
+
+#### Undead Spirit
+
+**Traits**: Undead\
+**Size**: Medium\
+**Languages**: Common, Necril\
+**Attributes**: Mgt: +3, Dex: +3, Int: -5, Wis: +0, Cha: -5\
+**Defense Rolls**: Mgt: +5, Dex: +5, Int: +0, Wis: +3, Cha: +0
+
+**HP**: 45; **Immunities**: Death effects, disease, mental, paralyzed, poison, unconcious , **Weaknesses**: Radiant 5\
+**Speed**: 12m
+
+##### Actions
+**Fist**: Melee attack, +7 to hit, reach 2m. **Damage**: 1d6 + 3 Bludgeoning and the target is automatically Grabbed by the Undead spirit. The target is also Paralyzed until the end of its next turn on a Critical Success (Ghastly only)\
+**Bite**: Melee attack, +7 to hit, reach 2m. The Undead spirit can only Bite an Immobilized or Unconcious creature. **Damage**: 1d4 + 3 and the target is Sickened 1 (Wretched only), or Drained 1 and it then regains 5hp (Vicious only)
+
+##### Other Features
+**Darkvision** The undead spirit can see perfectly well in areas of darkness and dim light.
+
+**Swift Leap** (Ghastly only): The Undead spirit jumps up to half its speed. This movement doesn't trigger reactions. 
+
+At 7th level and again at 15th level, the Undead spirit gains a +2 bonus to all its attacks and defense rolls, 10 more hit points, and it deals an extra 3 damage with its Fist and Bite attack.
 
 ### Unnerving Prowess
 Frightened\

@@ -1,0 +1,125 @@
+def get_input(prompt):
+    return input(prompt).strip()
+
+
+def main():
+    print("Fill out the following details to generate the markdown template:\n")
+    name = get_input("Name: ")
+    description = get_input("Description: ")
+
+    traits = get_input("Traits: ")
+    size = get_input("Size: ")
+    languages = get_input("Languages: ")
+    skills = get_input("Skills: ")
+
+    attributes = {
+        "Mgt": get_input("Mgt: "),
+        "Dex": get_input("Dex: "),
+        "Int": get_input("Int: "),
+        "Wis": get_input("Wis: "),
+        "Cha": get_input("Cha: "),
+    }
+    print("Defense rolls:")
+    defense_rolls = {
+        "Mgt": get_input("Mgt: "),
+        "Dex": get_input("Dex: "),
+        "Int": get_input("Int: "),
+        "Wis": get_input("Wis: "),
+        "Cha": get_input("Cha: "),
+    }
+
+    items = get_input("Items: ")
+    challenge_rating = get_input("Challenge Rating: ")
+
+    hp = get_input("HP: ")
+    immunities = get_input("Immunities: ")
+    resistances = get_input("Resistances: ")
+    weaknesses = get_input("Weaknesses: ")
+
+    reactions = []
+    while True:
+        reaction_name = get_input("Reaction Name (leave blank to stop): ")
+        if not reaction_name:
+            break
+        reaction_trigger = get_input(f"Trigger for {reaction_name}: ")
+        reaction_effect = get_input(f"Effect for {reaction_name}: ")
+        reactions.append(
+            f"**{reaction_name}** Trigger: {reaction_trigger}: Effect: {reaction_effect}"
+        )
+
+    other_defenses = get_input("Other defenses: ")
+    speed = get_input("Speed: ")
+
+    actions = []
+    while True:
+        action_name = get_input("Action Name (leave blank to stop): ")
+        if not action_name:
+            break
+
+        while True:
+            action_type = get_input(f"Type for {action_name} (Melee/Ranged maneuver): ")
+            if action_type == "melee":
+                action_reach = get_input(f"Reach for {action_name}: ")
+                break
+            elif action_type == "ranged":
+                action_range = get_input(f"Range for {action_name}: ")
+                break
+            else:
+                print("Your answer was not accepted. Try again")
+        action_traits = get_input(f"Traits for {action_name}: ")
+        action_dc = get_input(f"DC for {action_name}: ")
+
+        action_damage = get_input(f"Damage for {action_name}: ")
+        action_damage_type = get_input(f"Damage type for {action_name}: ")
+        if action_type == "melee":
+            actions.append(
+                f"**{action_name}**: {action_type}, DC {action_dc} Dexterity Defense Roll ({action_traits}), "
+                f"reach {action_reach}m. **Damage**: {action_damage} {action_damage_type} "
+            )
+        elif action_type == "ranged":
+            actions.append(
+                f"**{action_name}**: {action_type}, DC {action_dc} Dexterity Defense Roll ({action_traits}), "
+                f"range {action_range}m. **Damage**: {action_damage} {action_damage_type} "
+            )
+        else:
+            print("action type was not accepted")
+
+    template = f"""
+### {name} \
+
+{description}
+
+**Traits**: {traits} \\
+**Size**: {size} \\
+**Languages**: {languages} \\
+**Skills**: {skills} \\
+**Attributes**: Mgt: +{attributes['Mgt']}, Dex: +{attributes['Dex']}, Int: +{attributes['Int']}, Wis: +{attributes['Wis']}, Cha: +{attributes['Cha']} \\
+**Defense Rolls**: Mgt: +{defense_rolls['Mgt']}, Dex: +{defense_rolls['Dex']}, Int: +{defense_rolls['Int']}, Wis: +{defense_rolls['Wis']}, Cha: +{defense_rolls['Cha']} \\
+**Items**: {items} \\
+**Challenge Rating**: {challenge_rating} \\
+
+**HP**: {hp} """
+
+    if immunities:
+        template += f"; **Immunities**: {immunities}"
+    if resistances:
+        template += f"; **Resistances**: {resistances}"
+    if weaknesses:
+        template += f"; **Weaknesses**: {weaknesses}"
+
+    template += " \\\n**Reactions**:\n"
+
+    for reaction in reactions:
+        template += f"- {reaction}\n"
+
+    template += f"{other_defenses} \n**Speed**: {speed}m\n\n#### Actions\n"
+
+    for action in actions:
+        template += f"{action}\\n"
+
+    print("\nGenerated Markdown Template:\n")
+    print(template)
+
+
+if __name__ == "__main__":
+    main()

@@ -4,14 +4,14 @@
 ### Acid Splash
 Acid, Spell\
 2 actions\
-You create a globe of Acid and splash it at your foes. Each creature in a 10m radius sphere centered at a point within 20m of you must make Dexterity saving throw or take 2d8 Acid damage and 2d8 persistent Acid damage. 
+You create a globe of Acid and splash it at your foes. Make a spell attack against the Dexterity Defense DC of each creature in a 10m radius sphere centered at a point within 20m of you to deal 2d8 Acid damage and 2d8 persistent Acid damage. 
 
 If you have both hands free, or you are wielding a staff or other spellcasting foci in one hand and the other hand is free while performing this Fighting move, increase the damage of the initial Acid damage to 2d10, but not the persistent Acid damage.
 
 ### Assisting Strike
 Buff\
 1 action\
-You strike a specific point to help your ally's attack. Make a Strike with a weapon you are wielding. On a hit, the target takes a -2 circumstance penalty to AC against the first Strike made by an ally before the start of your next turn.
+You strike a specific point to help your ally's attack. Make a Strike with a weapon you are wielding. On a hit, the target takes a -2 circumstance penalty to the Dexterity Defense DC against the first Strike made by an ally before the start of your next turn.
 
 ### Bomb
 1 action\
@@ -52,7 +52,7 @@ You combine a quick attack with a grappling move. Make a Melee Strike while keep
 ### Cover Fire
 Ranged\
 1 action\
-You lay down suppressive fire to protect allies by forcing foes to take cover from your wild attacks. Make a Ranged Strike; the target must decide before you roll your attack whether it will duck out of the way. If the target ducks, it gains a +2 circumstance bonus to AC against your attack, or a +4 circumstance bonus to AC if it has cover. It also takes a –2 circumstance penalty to ranged attack rolls until the end of its next turn. If the target chooses not to duck, you gain a +1 circumstance bonus to your attack roll for that Strike.
+You lay down suppressive fire to protect allies by forcing foes to take cover from your wild attacks. Make a Ranged Strike; the target must decide before you roll your attack whether it will duck out of the way. If the target ducks, it gains a +2 circumstance bonus to its Dexterity Defense DC against your attack, or a +4 circumstance bonus to Dexterity Defense DCs if it has cover. It also takes a –2 circumstance penalty to ranged maneuver DCs until the end of its next turn. If the target chooses not to duck, you gain a +1 circumstance bonus to your attack roll for that Strike.
 
 ### Debilitating Shot
 Ranged\
@@ -62,12 +62,12 @@ Aiming for a weak point, you impede your foe with a precise shot. Make a ranged 
 ### Deflecting Shot
 Ranged\
 Reaction\
-You're always ready to take a quick shot to deflect a weapon or distract a foe enough to render them off target. As a reaction when an ally within the first range increment of a ranged weapon you are wielding is hit by an attack, and you can see the attacker, you can give the ally a +2 circumstance bonus to their AC against the triggering attack. You use this reaction after the result of the attack roll is revealed, so you know whether the +2 will make a sufficient difference.
+You're always ready to take a quick shot to deflect a weapon or distract a foe enough to render them off target. As a reaction when an ally within the first range increment of a ranged weapon you are wielding is hit by an attack, and you can see the attacker, you can give the ally a +2 circumstance bonus to their Dexterity Defense Roll against the triggering maneuver. You use this reaction after the result of the attack roll is revealed, so you know whether the +2 will make a sufficient difference.
 
 ### Defensive Blast
 Abjuration, Spell\
 1 action\
-You blast a target with pure magical energy while keeping some of it to protect yourself. Make a ranged Spell attack against a target within 20m of you. On a hit, the target takes 1d10 force damage. Regardless of if you hit or not, you gain temporary hit points equal to your spellcasting ability that lasts until the end of your next turn.
+You blast a target with pure magical energy while keeping some of it to protect yourself. Make a ranged Spell attack against the Dexterity Defense DC of a target within 20m of you. On a hit, the target takes 1d10 force damage. Regardless of if you hit or not, you gain temporary hit points equal to your spellcasting ability that lasts until the end of your next turn.
 
 ### Duelist's Edge
 Free action\
@@ -81,46 +81,51 @@ You try to twist your opponent's weapon out of their grip. Make a Strike. On a s
 ### Earth Spike
 Earth, Nature, Spell\
 1 action\
-You cause a spike to rise from the ground to impale a foe. A foe within 20m of you must make a Dexterity saving throw or take 1d4 Piercing damage and become grappled by the spike until the end of its next turn as it is impaled by the spike. 
+You cause a spike to rise from the ground to impale a foe. Make a spell attack against the Dexterity Defense DC of a foe within 20m of you to deal 1d4 Piercing damage and have it become grappled by the spike until the end of its next turn as it is impaled by the spike. 
 
 ### Encouraging Words
 Buff\
 1 action\
-You say a few encouraging words to bolster an ally's resolve. Make a DC 15 Persuasion check. On a success, an ally of your choice within 12m of you gains temporary hit points equal to your Spellcasting ability and gain a +1 status bonus to Ability checks, Attacks, and Saving throws. Both the temporaty hit points and the status bonus lasts until the start of your next turn.
+You say a few encouraging words to bolster an ally's resolve. Make a DC 15 Persuasion check. On a success, an ally of your choice within 12m of you gains temporary hit points equal to your Spellcasting ability and gain a +1 status bonus to Ability checks, Attacks, and Defense rolls. Both the temporaty hit points and the status bonus lasts until the start of your next turn.
 
 ### Energy Shield
 Abjuration, Spell\
 1 action\
-You create a shield of magical energy around you. You gain temporary hit points equal to your spellcasting ability that lasts until the start of your next turn. If you take damage while these temporary hit points remain, energy lashes out. Each target within 8m of you must succeed at a Dexterity saving throw or take 1d4 + your spellcasting ability force damage.
+You create a shield of magical energy around you. You gain temporary hit points equal to your spellcasting ability that lasts until the start of your next turn. If you take damage while these temporary hit points remain, energy lashes out. Make a spell attack against the Dexterity Defense DC of each target within 8m of you to deal 1d4 + your spellcasting ability force damage.
 
 ### Exploding Shot
 Ranged\
 1 action\
-You shoot an exploding projectile. Each creature in a 4m radius sphere centered on a point within the first range increment of a ranged weapon you are wielding must make a Dexterity saving throw or take damage as if hit by a Strike by the ranged weapon.
+You shoot an exploding projectile. Make a single Strike and compare the result to the Dexterity defense DC of each creature in a 4m radius sphere centered on a point within the first range increment of a ranged weapon you are wielding. The creature's take damage as if hit by a Strike by the ranged weapon.
 
 ### Fire Bolt
 Fire, Spell\
 1 action\
-You create a quick bolt of fire and launch it at a foe. Make a Ranged Spell Attack against a target within 60m of you. On a hit, the target takes 1d6+your Spellcasting modifier Fire damage.
+You create a quick bolt of fire and launch it at a foe. Make a Ranged Spell Attack against the Dexterity Defense DC a target within 60m of you. On a hit, the target takes 1d6 + your Spellcasting modifier Fire damage.
 
 ### Fireblade
 Fire, Spell\
 1 action\
-You create a sword of pure fire in an free hand then immediatly attack with it. Make a Melee Attack. On a success, the target takes 1d10 + your Spellcasting ability Fire damage.
+You create a sword of pure fire in an free hand then immediatly attack with it. Make a Melee spell Attack. On a success, the target takes 1d10 + your Spellcasting ability Fire damage.
+
+### Forceful Translocation
+Teleportation, Spell\
+1 action\
+You forcefully teleport an enemy a short distance. Make a spell attack against the Charisma Defense DC of a target within 24m of you. On a Success, it takes 1d4 + your spellcasting ability Force damage and is teleported to an unoccupied space within 2m of its previous location.
 
 ### Frostbite
 Cold, Spell\
 1 action\
-You fire a ray of numbing frost at a foe. A creature within 20m of you must make a Might Saving Throw. On a failed save, the target takes 1d4 + your Spellcasting ability Cold damage and takes a -1 circumstance penalty to its next save it makes before the end of your next turn.
+You fire a ray of numbing frost at a foe. Make a spell attack against the Might Defense DC of a creature within 20m of you. On a Success, the target takes 1d4 + your Spellcasting ability Cold damage and takes a -1 circumstance penalty to its Defense DC against the next attack before the end of your next turn.
 
 ### Gouging claw
 Polymorph, Spell\
 1 action\
-You temporarily morph your limb into a clawed appendage. Make a Melee Spell Attack against the AC of a target within 2m of you. If you hit, you deal your choice of Slashing or Piercing damage equal to 1d6 + your Spellcasting ability. On a critical success, you deal double damage plus 1d4 persistent bleed damage.
+You temporarily morph your limb into a clawed appendage. Make a Melee Spell Attack against the Dexterity defense DC of a target within 2m of you. If you hit, you deal your choice of Slashing or Piercing damage equal to 1d10 + your Spellcasting ability. 
 
 ### Hit the Dirt
 Reaction\
-You fling yourself out of harm's way. As a Reaction when targeted by an attack, you can Leap. Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land prone after completing your Leap.
+You fling yourself out of harm's way. As a Reaction when targeted by an attack, you can Leap. Your movement gives you a +2 circumstance bonus to Dexterity Defense Rolls against the triggering attack. Regardless of whether or not the triggering attack hits, you land prone after completing your Leap.
 
 ### Impairing Strike
 Clumsy\
@@ -140,36 +145,36 @@ You attack strikes fear into your foes. Make a Melee Strike. On a successs, the 
 ### Jump attack
 Movement\
 2 actions\
-You have learned how to use the momentum from a jump for extra damage. Make a Long Jump or a High Jump, then make Melee Strike. On a success, you gain a +10 circumstance bonus to damage and the target is pushed 2m away from you. If the Strike was made with a two-handed weapon, increase the circumstance bonus to damage to +12.
+You have learned how to use the momentum from a jump for extra damage. Make a Long Jump or a High Jump, then make Melee Strike. On a success, you gain a +10 circumstance bonus to damage and the target is pushed 2m away from you. If the Strike was made with a two-handed weapon, increase the circumstance bonus to damage to +12. The circumstance bonus increases by 5 at 7th and 15th level or by 6, if the Strike was made with a two-handed weapon. 
 
 ### Necrotic Strike
 Necromancy, Necrotic, Spell\
 1 action\
-You pour down unholy powers into a weapon you are holding. Make a Melee Strike. On a hit, you can change the damage into Necrotic damage. If you do so, you gain a +2 circumstance bonus to the damage.
+You pour down unholy powers into a weapon you are holding. Make a Melee Strike. On a hit, you can change the damage into Necrotic damage. If you do so, you gain a +2 circumstance bonus to the damage. This circumstance bonus increases by 1 at 7th and 15th level. 
 
 ### Necrotic Touch
 Necromancy, Necrotic, Spell\
 1 action\
-You draw the life force out of a target. Make a Melee Spell Attack. On a hit, the target takes 1d8 + your Spellcasting ability Necrotic damage and take a -1 status penalty to Might saving throws and be unable regain hit points. Both effects lasts until the end of your next turn.
+You draw the life force out of a target. Make a Melee Spell Attack against the targets Dexterity Defense DC. On a hit, the target takes 1d8 + your Spellcasting ability Necrotic damage and take a -1 status penalty to its Might Defense DC and become unable regain hit points. Both effects lasts until the end of your next turn.
 
 ### Parrying Strike
 1 action\
-You make a quick swipe then immediatly enter a defensive posistion. Make a Melee Strike. On a hit, you also gain a +1 status bonus to AC until the start of your next turn. 
+You make a quick swipe then immediatly enter a defensive posistion. Make a Melee Strike. On a hit, you also gain a +1 status bonus to Dexterity Defense Rolls until the start of your next turn. 
 
 ### Pebble
 Earth, Nature, Spell\
 1 action\
-You throw a pebble at a foe. Make Ranged Spell Attack against a foe within 12m of you. On a hit, the target takes 1d8 + your Spellcasting ability Bludgeoning damage.
+You throw a pebble at a foe. Make Ranged Spell Attack against the Dexterity Defense DC of a foe within 12m of you. On a hit, the target takes 1d8 + your Spellcasting ability Bludgeoning damage.
 
 ### Piercing Icicle
 Cold, Piercing, Spell\
 1 action\
-You create a razor-sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against a target within 30m of you. On a hit, the target takes 1d4 Piercing damage and 1 + your Spellcasting ability Cold damage. The 1d4 is considered the damage die of this Fighting Move.
+You create a razor-sharp icicle and lauch it at your foes. Make a Ranged Spell Attack against the Dexterity Defense DC of a target within 30m of you. On a hit, the target takes 1d4 Piercing damage and 1 + your Spellcasting ability Cold damage. The 1d4 is considered the damage die of this Fighting Move.
 
 ### Point-Blank Shot
 Ranged\
 1 action\
-You take aim to pick off nearby enemies quickly. Make a Ranged Strike against a target within your weapon's first range increment. On a hit, you gain a +2 bonus to damage and the attack ignore's any damage resistance the opponent may have.
+You take aim to pick off nearby enemies quickly. Make a Ranged Strike against a target within your weapon's first range increment. On a hit, you gain a +2 bonus to damage and the attack ignore's any damage resistance the opponent may have. This circumstance bonus increases by 1 at 7th and 15th level. 
 
 ### Power Attack
 2 actions\
@@ -178,7 +183,7 @@ You unleash a particularly powerful attack that clobbers your foe. Make a Melee 
 ### Pummeling Rubble
 Earth, Nature, Spell\
 1 action\
-You launch small stones and sand. Each creature in a 4m radius sphere centered on a point within 20m of you must make a Dexterity saving throw. On a failure, a target takes 1d4 + your Spellcasting ability Bludgeoning damage.
+You launch small stones and sand. Make a spell attack against the Dexterity Defense DC of each creature in a 4m radius sphere centered on a point within 20m of you. On a Success, a target takes 1d4 + your Spellcasting ability Bludgeoning damage.
 
 The area also becomes difficult terrain until cleared.
 
@@ -189,21 +194,21 @@ You immediatly draw or sheathe a weapon.
 ### Radiant Strike
 Radiant\
 1 action\
-You pour down divine radience into a weapon you are holding. Make a Melee Strike. On a hit, you can change the damage into Radiant damage. If you do so, you gain a +2 circumstance bonus to the damage.
+You pour down divine radience into a weapon you are holding. Make a Melee Strike. On a hit, you can change the damage into Radiant damage. If you do so, you gain a +2 circumstance bonus to the damage. This circumstance bonus increases by 2 at 7th and 15th level. 
 
 ### Ray of Frost
 Cold, Spell\
 1 action\
-You send a freezing ray against a foe. A creature within 24m of you must succed on a Might Saving Throw or take 1d4 + your Spellcasting ability Cold damage and take a -2m Status bonus to its speeds for 1 minute. 
+You send a freezing ray against a foe. Make a spell attack against the Might Defense DC of a creature within 24m of you to deal 1d4 + your Spellcasting ability Cold damage and take a -2m Status bonus to its speeds for 1 minute. 
+
+### Reap Life
+Necromancy, Spell\
+1 action\
+You draw the life force out of a target. 
 
 ### Reckless Attacks
 Free action\
 You throw away all concern for defense and focus solely on offense. Until the start of your next turn, you gain Advantage on all melee attacks, but you gains disadvantage on your defense rolls until the start of your next turn. 
-
-### Reflexive Shield
-Shield\
-Free action\
-You can use your shield to protect you against damaging effects as well. As a Free action when you make a Dexterity saving throw, you can apply any circumstance bonus to AC you gain from wielding a shield as a circumstance bonus to the Dexterity saving throw.
 
 ### Reflective Ward
 Abjuration, Spell\
@@ -212,10 +217,14 @@ A shield of magical energy appears in front of you, protecting you and reflectin
 
 If you have both hands free, or you are wielding a staff or other spellcasting foci in one hand and the other hand is free while performing this Fighting move, increase the damage you reduce to 1 + your spellcasting ability.
 
+### Retaliatory Strike
+1 action\
+You assume a defensive position, ready to strike out at those who attack you. As a Reaction until the start of your next turn when a creature deals damage to you and it is within the range of a weapon you are wielding, you can make a Strike against that creature with a +5 Circumstance bonus to the damage. This circumstance bonus increases by 2 at 7th and 15th level. 
+
 ### Shocking Grasp
 Lightning, Spell\
 1 action\
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a Melee Spell Attack against the target. You gain a +2 bonus to the Attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 + your Spellcasting ability Lightning damage, and it can't take reactions until the start of its next turn.
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a Melee Spell Attack against the Dexterity Defense DC of the target. You gain a +2 bonus to the Attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 + your Spellcasting ability Lightning damage, and it can't take reactions until the start of its next turn.
 
 ### Shielbreaker
 1 action\
@@ -244,20 +253,20 @@ You fire at an enemy while targeting a part of its anatomy that will disrupt its
 ### Vampric Touch
 Necromancy, Necrotic, Spell\
 1 action\
-You absorb the life energy of a target you touch. Make a Melee Spell attack. On a hit, the target takes 1d4 + your spellcasting ability Necrotic damage. You also gain 1d6 temporary hit points that lasts until the end of your next turn.
+You absorb the life energy of a target you touch. Make a Melee Spell attack against the Might Defense DC of the target. On a hit, the target takes 1d4 + your spellcasting ability Necrotic damage. You also gain 1d6 temporary hit points that lasts until the end of your next turn.
 
 ### Vicious Mockery
 Mental, Spell\
 1 action\
-You unleash a string of insults laced with subtle enchantments at a creature you can see within 20m of you. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take psychic damage equal to your Spellcasting ability and take a -2 penalty on the next attack roll it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at a creature you can see within 20m of you. If the target can hear you (though it need not understand you), you must succeed on a spell attack against its Wisdom Defense DC to deal psychic damage equal to your Spellcasting ability and have it take a -2 penalty on the next attack roll it makes before the end of its next turn.
 
 ### Warmaster's Command
 1 action\
-You command an ally to act. The chosen ally can immediatly use their Reaction to make a Strike or move up to their speed.
+You command an ally to act. The chosen ally can immediatly use their Reaction to make a Strike or to move up to their speed.
 
 ### Whirlwind Attack
 1 action\
-You make a wide swing with your weapon. Make a Melee Strike against every target within reach.
+You make a wide swing with your weapon. Make a Melee Strike against every creature of your choice within reach.
 
 ### You're Next
 Intimidation\

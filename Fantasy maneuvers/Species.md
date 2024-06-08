@@ -985,28 +985,29 @@ You can integrate weapons or armor into your body. To integrate an item, you mus
 Your body is specifically modified to being able to change into two different forms. You can use an action to change your shape into a vehicle, or to change back. While in your vehicle form, your walking speed increases by 6 meters (4 squares), but you can only take actions with the move trait and can’t wield weapons. When you transform, you can choose to have your worn equipment be placed in a compartment inside your vehicle form, or to still be worn. 
 
 **Forged for War**
-Warforged were made to fight and almost all know how to fight using their weapons of choice. For the purpose of determining your proficiency, martial Warforged weapons are simple weapons and advanced Warforged weapons are martial weapons. 
+Warforged were created for the sole purpose of fighting and almost all know how to fight using their weapons of choice. For the purpose of determining your proficiency, martial Warforged weapons are simple weapons and advanced Warforged weapons are martial weapons. 
 
 The following weapons are the ones with the Warforged trait. All goblins can choose to buy any of these weapons during character creation and the GM may allow other characters to do so as well, particularly if they have a strong connection to warforged.
 
 *Melee Weapons*
 | Name | Traits | Damage | Weight | Price | Group | Category |
 |---|---|---|---|---|---|---|
-| Rotating Blade | Agile, Backstabber, Finesse, Goblin| 1d6S | 1kg | 10sp | Sword | Martial |
-| Horsechopper | Goblin, Reach, Two-Handed, Trip, Versatile S | 1d10P | 3kg | 20sp | Polearm | Advanced |
+| Broadspear | Reach, Sweep, Warforged | 1d10S | 3kg | 40sp | Polearm | Martial |
+| Rotating Blade | Agile, Finesse, Sweep, Versatile P, Warforged | 1d6S | 1kg | 50sp | Sword | Advanced |
+
 
 *Ranged Weapons*
 | Name | Traits | Damage | Range | Weight | Price | Group | Category |
 |---|---|---|---|---|---|---|---|
 | Arm Cannon | Concealable, Concussive, Free-hand, Warforged | 1d6P | 14m | 1kg | 40sp | Firearm | Martial |
-|  | Scatter 2m, Versatile P,S | 1d6B | 14m | 2kg | 30sp | Firearm | Advanced |
+| Phalanx Piercer | Concussive, Deadly d12, Mighty, Razing, Two-handed, Volley 20m, Warforged | 1d12P | 80m | 3kg | 60sp | Bow | Advanced |
 
 *Weapon Description*
-* Slicer: A slicer is essentially a sharpened metal plate attached to a stick.
-* Horsechopper: This goblin weapon is designed for battling horses and looks like a slicer, but with an even longer stick.
-* Big Boom Gun: This comically oversized hand cannon was invented by a goblin who missed the 'hand' part. It is loaded with alarming quantities of gunpowder
-* Spoon Gun: No ones entirely sure who developed the spoon gun, but all authorities agree that is was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring powered hand cannon with a modified grip that uses miscellaneous knives, forks, chopsticks and spoons as amunition.
-    
+* Broadspear: A weapon commonly issued to warforged to cleave through opposing armies from a distance.
+* Rotating Blade: Composed of a rotating handle commonly integrated into the warforged's hand and a deadly blade, this unusual weapon was sometimes used by particularly skilled warforged.
+* Arm Cannon: This firearm is often mounted on the back of the hands of its warforged wielders.
+* Phalanx Piercer: The result of years of Cannith experimentating with creating the most powerful bow known to man. Unfortunatly it was too heavy and unwieldy to use by the common soldier, but a few especially strong warforged have devoloped a liking to this bow. 
+
 **Impersonator**
 Your body was augmented with processes and an appearance intended to blend in with humans more easily. You become trained in Deception (or another skill if you're already trained in Deception). You don't require a disguise kit when attempting Deception checks to Impersonate a human. In addition, you gain a +4 circumstance bonus to Impersonate checks to pretend that you're a human version of yourself, rather than a warforged. This bonus doesn't apply to other checks to Impersonate humans.
 

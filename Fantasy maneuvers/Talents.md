@@ -112,7 +112,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect  must fit in a 5-foot cube.
 * You instantly light or snuff out a candle, a torch, or a small campfire.
 * You cause shapes, colors, or both to appear on the ground, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.
-* You cause the area to become owergrown, making it to difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour. 
+* You cause a 2m burst centered at a point within 20m of you to become owergrown, making it to difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour. 
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
 
@@ -174,7 +174,7 @@ You know the wilderness so well that you can help your party travel through it w
 ### Group Coercion
 Intimidation\
 Constant\
-When you Coerce, you can compare your Intimidation check result to the Will DCs of four targets instead of one. It’s possible to get a different degree of success for each target. 
+When you Coerce, you can compare your Intimidation check result to the Wisdom Defense DCs of four targets instead of one. It’s possible to get a different degree of success for each target. 
 
 ### Group Impression
 Diplomacy\
@@ -316,7 +316,7 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 * You instantaneously clean or soil an object no larger than 1 cubic foot.
 * You chill, warm, or flavor up to 30cm² of nonliving material for 1 minute.
 * You make a color, a small mark, or a symbol appear on an object or a surface for 1 minute.
-* You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+* You create an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can only have one of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
 
@@ -343,7 +343,7 @@ You can downplay the consequences or outrageousness of your requests using sheer
 ### Shape water
 Spell, Water\
 2 actions\
-You choose an area of water that you can see within range and that fits within a 5-foot cube.
+You choose an area of water that you can see within range and that fits within a 10cm³ cube.
 You manipulate it in one of the following ways:
 
 * You instantaneously move or otherwise change the flow of the water as you direct, up to 2m in any direction. This movement doesn’t have enough force to cause damage.
