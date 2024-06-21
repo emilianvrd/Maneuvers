@@ -1,8 +1,6 @@
 # Science Archetypes
 
-## 1st
-
-### Armored
+## Armored
 You have trained wearing armor.
 
 ### Initial Ability

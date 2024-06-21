@@ -7,20 +7,20 @@ Envoy
 Operative
     - Any
 
-Navigator/Explorer
+Navigator
     - Wisdom and Dexterity
 
-Technician (might overlap too much with scientist, but name is cooler)
-    - Intelligence and perhaps Might
+Technician
+    - Intelligence and Might
 
-Xenomedic/medic
+Physician
     - Intelligence and wisdom
 
 Soldier
     - Any
 
-Champion/vanguard/bulwark
-    - Charisma and might
+Bulwark
+    - Charisma and Might
 
 ## Technician
 You are a master of machines and all things technological, from advanced supercomputers to simple magnetic engines. Understanding how these devices work gives you insight into the world around you, allowing you to make the most of your gear, circumvent hardened defenses, and even take over remote systems. If there’s a computer or machine that needs to be fixed, bypassed, or destroyed, you’re the first on the scene. Whether you’re a skilled scientist, a starship engineer, or a battlefield mechanic, you’re no stranger to combat and understand that sometimes you might need to hit the problem with a wrench, or a rocket hammer for those problems that refuse to be fixed.

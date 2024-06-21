@@ -36,26 +36,27 @@ Each type of armor belongs to an armor group, which classifies it with similar t
 
 | Name | Hardness | HP |
 |---|---|---|
-| Carbon | 2 | 8 |
-| Composite | 4 | 16 |
-| Durasteel | 8 | 36 |
-| Ceramete | 9 | 36 |
-| Adamantine | 10 | 40 |
+| Carbon | 4 | 16 |
+| Composite | 8 | 32 |
+| Durasteel | 16 | 72 |
+| Ceramete | 18 | 72 |
+| Adamantine | 20 | 80 |
 
 ### Armor Types
 
 |  Name | Category |  Traits | Price  | Dexterity Defense bonus |  Dex cap | Check penalty | Speed penalty | Might | Weight | Group |
 |---|---|---|---|---|---|---|---|---|---|---|
-|  Unarmored | Unarmored | — | — | +0 | — | — | — | — | — | — |
-| Coverall | Unarmored | Comfort | 8000c| +0 | +5 | — | — | — | 1kg | Cloth |
-| Carbon Skin | Light | Comfort | 15000c| +1 | +4 | — | — | — | 3kg | Carbon |
-| Flak armor| Light | — | 20000c| +2 | +3 | -1 | — | — | 5kg | Composite |
-| Hardsuit | Medium | Deflect Physical 1, Powered | 30000c| +2 | +2 | — | — | — | 30kg | Durasteel |
-| Polyplate  | Medium | — | 40000c| +3 | +2 | -2 | -2m | +1 | 8kg | Durasteel |
-| Carapace Armor | Medium | — | 60000c| +4 | +1 | -2 | -2m | +2 | 10kg | Ceramete |
-| Starguard | Heavy | Powered | 70000c| +5 | +1 | — | — | — | 120kg | Ceramete |
-| Dreadnought Armor | Heavy | Powered | 80000c| +6 | +0 | — | — | — | 200kg | Armor |
-| Battlesteel Armor | Heavy | Deflect Physical 1, Powered | 100000c| +6 | +0 | -3 | -4m | +3 | 350kg | Durasteel |
+| Unarmored | Unarmored | — | — | +0 | — | — | — | — | — | — |
+| Coverall | Unarmored | Comfort | 800c| +0 | +5 | — | — | — | 1kg | Cloth |
+| Carbon Skin | Light | Comfort | 1500c| +1 | +4 | — | — | — | 3kg | Carbon |
+| Stealth Suit | Light | Sneak, Powered | 6000c | +1 | +3 |
+| Flak armor| Light | — | 2000c| +2 | +3 | -1 | — | — | 5kg | Composite |
+| Hardsuit | Medium | Deflect Physical 1, Powered | 3000c| +2 | +2 | — | — | — | 30kg | Durasteel |
+| Polyplate  | Medium | — | 4000c| +3 | +2 | -2 | -2m | +1 | 8kg | Durasteel |
+| Carapace Armor | Medium | — | 6000c| +4 | +1 | -2 | -2m | +2 | 10kg | Ceramete |
+| Starguard | Heavy | Powered | 7000c| +5 | +1 | — | — | — | 120kg | Ceramete |
+| Nanoplate | Heavy | Powered | 8000c| +6 | +0 | — | — | — | 200kg | Durasteel |
+| Dreadnought Armor | Heavy | Deflect Physical 1, Powered | 10000c| +6 | +0 | -3 | -4m | +3 | 350kg | Ceramete |
 
 ### Traits
 **Comfort**: This armor is comfortable to wear for long periods of time. You do not suffer any of the normal penalties for wearing this armor while sleeping.
@@ -64,6 +65,10 @@ Each type of armor belongs to an armor group, which classifies it with similar t
 This shield is paricularly adapted at deflecting a certain type of damage. Whenever the wielder takes damage of the the type listed, reduce the damage by the number listed.
 
 **Powered** Powered armor, sometimes refered to as power armor, features an exoskeleton that enhances the wearers strength. While wearing a suit of Powered armor, you treat your Might as two points higher for the purpose of determining your carrying capacity. In additon, the armor's weight doesn't count towards your carrying capacity. Powered armor typically also has no or a lower speed penalty than comparable non-powered armor. 
+
+**Sneak** This armor is used by spies and assasins across the galaxy. You gain a +1 Item bonus to Stealth checks while wearing this armor.
+
+###
 
 ## Shields
 While many are content with the defense their armor gives them, others supplement themselves with a shield. Shields give you a circumstance bonus to Dexterity saving throws and can also be used to make Brawling attacks
@@ -84,30 +89,28 @@ Shields have hit points and hardness based on their weight. While they are made 
 
 ### Shield types
 
-|  Name | Dexterity saving throws bonus | Traits | Damage | speed penalty | Weight | Price |
+|  Name | Dexterity saving throws bonus | Traits | Damage | Speed penalty | Weight | Price |
 |---|---|---|---|---|---|---|
-| Buckler | +1 | Light | 1d4B | – | 1kg | 8000c|
-| Dart Shield | +1 | Dart-thrower | 1d4B | – | 2kg | 40000c|
-| Deflector Shield | +1 | Deflect Piercing 2 | 1d4B | – | 3kg | 30000c|
-| Dual Shield | +1 | Dual +3 | 1d6B | – | 2kg | 20000c|
-| Fortress Shield | +3 | Cumbersome +4, Raise +4 | 1d4B | -4m | 20kg | 60000c|
-| Harnessed Shield | +2 | Harnessed | 1d4B | – | 5kg | 40000c|
-| Heather Shield | +2 | Quick equip | 1d6B | – | 3kg | 25000c|
-| Hide Shield | +1 | Deflect Bludgeoning 2 | 1d4B | – | 2kg | 20000c|
-| Hook Shield | +1 | Disarm, Grapple | 1d6P | – | 3kg | 40000c|
-| Insulator Shield | +1 | Deflect Fire and Cold 2 | 1d4B | – | 3kg | 30000c|
-| Kite Shield | +2 | Versatile defense | 1d4B | – | 4kg | 30000c|
-| Meteor Shield | +1 | Quick equip, Thrown 12m | 1d6B | – | 1kg | 15000c|
-| Missile Catcher | +1 | Deflect Physical Ranged 2 | 1d6B | – | 3kg | 30000c|
-| Negator Shield | +1 | Deflect Acid and Lightning 3 | 1d6B | – | 3kg | 35000c|
-| Pavise | +2 | Cumbersome +2, Freestanding | 1d4B | -2m | 10kg | 40000c|
-| Razor Disc | +1 | Finesse, Quick equip, Thrown 8m | 1d6S | – | 1kg | 20000c|
-| Round Shield | +2 | Raise +3 | 1d6B | – | 3kg | 25000c|
-| Spiked Shield | +0 | Raise +2 | 1d8P | – | 4kg | 30000c|
-| Swordstealer Shield | +1 | Deflect Slashing 2 | 1d4B | – | 3kg | 30000c|
-| Tower Shield | +2 | Cumbersome +2, Raise +4 | 1d6B | -2m | 8kg | 50000c|
-
-**Buckler** A small round metal shield that can both for defense and for offense.
+| Dart Shield | +1 | Dart-thrower | 1d4B | – | 2kg | 4000c|
+| Deflector Shield | +1 | Deflect Piercing 2 | 1d4B | – | 3kg | 3000c|
+| Dual Shield | +1 | Dual +3 | 1d6B | – | 2kg | 2000c|
+| Fortress Shield | +3 | Cumbersome +4, Raise +4 | 1d4B | -4m | 20kg | 6000c|
+| Harnessed Shield | +2 | Harnessed | 1d4B | – | 5kg | 4000c|
+| Heather Shield | +2 | Quick equip | 1d6B | – | 3kg | 2500c|
+| Hide Shield | +1 | Deflect Bludgeoning 2 | 1d4B | – | 2kg | 2000c|
+| Hook Shield | +1 | Disarm, Grapple | 1d6P | – | 3kg | 4000c|
+| Insulator Shield | +1 | Deflect Fire and Cold 2 | 1d4B | – | 3kg | 3000c|
+| Kite Shield | +2 | Versatile defense | 1d4B | – | 4kg | 3000c|
+| Meteor Shield | +1 | Quick equip, Thrown 12m | 1d6B | – | 1kg | 1500c|
+| Missile Catcher | +1 | Deflect Physical Ranged 2 | 1d6B | – | 3kg | 3000c|
+| Negator Shield | +1 | Deflect Acid and Lightning 3 | 1d6B | – | 3kg | 3500c|
+| Pavise | +2 | Cumbersome +2, Freestanding | 1d4B | -2m | 10kg | 4000c|
+| Razor Disc | +1 | Finesse, Quick equip, Thrown 8m | 1d6S | – | 1kg | 2000c|
+| Round Shield | +2 | Raise +3 | 1d6B | – | 3kg | 2500c|
+| SESS | +1 | Light | 1d4E | — | 2kg | 800c |
+| Spiked Shield | +0 | Raise +2 | 1d8P | – | 4kg | 3000c|
+| Swordstealer Shield | +1 | Deflect Slashing 2 | 1d4B | – | 3kg | 3000c|
+| Tower Shield | +2 | Cumbersome +2, Raise +4 | 1d6B | -2m | 8kg | 5000c|
 
 **Dart Shield** Dart shields are small shields with an intergrated dart thrower, allowing it shoot out projectiles at enemies far away.
 
@@ -120,8 +123,6 @@ Shields have hit points and hardness based on their weight. While they are made 
 **Harnessed Shield** This large steel shield features a specialized opening to hold lances and similar weapons. Harnessed shields are a common backup for those who fight with jousting weapons in case they're forced into combat without their mounts. Balancing the weapon within the shield's hold is somewhat awkward, and longer weapons, like lances, need to be held closer to the body than usual for proper support.
 
 **Heather Shield** These classic shields are among the most commonly used due to their versatile nature and ease of equipping.
-
-**Hide Shield** Hide shields are made of the hide of an animal supported by wooden planks. This makes the shield especially good at resisting and reducing incoming force.
 
 **Hook Shield** A round wooden shield with the edges covered in steel from which a large hook protrudes. The hook is positioned over the hand and allows the shield to be used for various combat maneuvers, such as grappling and disarming.
 
@@ -140,6 +141,8 @@ Shields have hit points and hardness based on their weight. While they are made 
 **Razor disc** More weapon than shield, this hand-held metal disc features a razor-sharp edge and can be thrown over surprisingly long distances.
 
 **Round Shield** The most commonly used shields. Round shields are made mostly of wood, but have a metal edge and core. They are versatile and relatively light, allowing them to easely intercept most attacks.
+
+**SESS** SESS shields, also known as Small Energy Shield System, are small shields common throughout the galaxy and are used both for offense and defense. No one knows who made the first design, but its usefullness has spread it out across the worlds.
 
 **Spiked Shield** These wooden shields have a large metal spike in the center, allowing the shield to be used both for offense and defense, but the heavy spike also causes the shield to require more effort to wield effectively.
 
@@ -182,19 +185,19 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 
 #### Unarmed weapons
 
-|  Name | Traits | Damage | Hands | Weight | Price | Group |
+|  Name | Traits | Damage | Hands | Weight | Price | Critical |
 |---|---|---|---|---|---|---|
 | Fist | Archaic, Finesse, Light, Nonlethal | 1B | — | — | Kinetic |
 
 #### Simple weapons
 
-|  Name | Traits | Damage | Hands | Weight | Price | Group |
+|  Name | Traits | Damage | Hands | Weight | Price | Critical |
 |---|---|---|---|---|---|---|
 | Club | Archaic, Nonlethal, Thrown 4m | 1d4 B | 1 | 1kg | — | Kinetic |
 | Baton | Nonlethal | 1d6 B | 1 | 1kg | 1000c | Kinetic |
 | Battleglove | Light, Free-hand | 1d4 B | 1 | 1kg | 1000c | Kinetic |
 | Heavy Razorspear | Reach | 1d 8P | 2 | 4kg | 2000c | Trenchant |
-| Plasma Dagger | Light, Thrown 4m, Razing | 1d4 E & F | 1 | 1kg | 1000c | Plasma |
+| Plasma Dagger | Light, Thrown 4m, Razing | 1d4 E & H | 1 | 1kg | 1000c | Plasma |
 | Razorspear | Thrown 8m | 1d6 P | 1 | 2kg | 1500c | Trenchant |
 | Spiked Battleglove | Light, Free-hand | 1d4 P | 1 | 1kg | 1000c | Kinetic |
 | Taser | Finesse, Nonlethal | 1d6 E | 1 | 1kg | 1000c | Electric |
@@ -202,24 +205,25 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 
 #### Martial weapons
 
-|  Name | Traits | Damage | Hands | Weight | Price | Group |
+|  Name | Traits | Damage | Hands | Weight | Price | Critical |
 |---|---|---|---|---|---|---|
 | Assault Hammer | Shove | 1d8 B | 1 | 3kg | 1500c | Kinetic |
 | Blazer | Finesse, Light, Parry | 1d6 E & P | 1 | 1kg | 1500c | Plasma |
+| Chainsword | Razing, Sweep | 1d10 S | 2 | 6kg | 2000c | Trenchant |
 | Cryoglaive | Backswing, Forceful, Reach, Sweep | 1d8 C & S | 2 | 5kg | 4000c | Freezing |
 | Devastastion Axe | Sweep | 1d12 S | 2 | 6kg | 3000c | Trenchant |
 | Electrolance | Deadly d8, Jousting d6, Reach | 1d8 E & P | 2 | 3kg | 3000c | Electric |
 | Engine Hammer | Shove | 1d12 B | 2 | 7kg | 3000c | Kinetic |
 | Fangblade | Deadly d8, Disarm, Finesse | 1d6 P | 1 | 2kg | 2000c | Trenchant |
-| Flamesword | Forceful, Sweep, Two-hand d10 | 1d6 F | 1 | 1kg | 2000c | Flame |
+| Flamesword | Forceful, Sweep, Two-hand d10 | 1d6 H | 1 | 1kg | 2000c | Flame |
 | Heavy Lighting Spear | Deadly d10, Reach | 1d10 E & P | 2 | 5kg | 30sp | Electric | 
 | Icestaff | Parry | 1d8 B & E | 1 | 2kg | 2000c | Freezing |
-| Laseraxe | Grapple, Razing | 1d10 E & F | 2 | 4kg | 3000c | Laser |
+| Laseraxe | Grapple, Razing | 1d10 E & H | 2 | 4kg | 3000c | Laser |
 | Lightning Spear | Thrown 8m | 1d8 E & P | 1 | 2kg | 2000c | Electric |
-| Lightpike | Reach, Trip | 1d10 E & F | 2 | 3kg | 3000c | Plasma |
-| Motorblade | Razing, Sweep | 1d10 S | 2 | 6kg | 2000c | Trenchant |
+| Lightpike | Reach, Trip | 1d10 E & H | 2 | 3kg | 3000c | Plasma |
+| Motorblade | Razing, Sweep | 1d6 S | 1 | 3kg | 1000c | Trenchant |
 | Shockstaff | Reach, Stun | 1d6 E | 1 | 2kg | 2000c | Electric |
-| Plasma Sword | Finesse, Razing | 1d6 E & F | 1 | 1kg | 2000c | Plasma |
+| Plasma Sword | Finesse, Razing | 1d6 E & H | 1 | 1kg | 2000c | Plasma |
 | Polarity Daggers | Finesse, Light, Parry, Twin, Versatile E | 1d4 P | 1 | 1kg | 1500c | Trenchant |
 | Powered Pick | Fatal d12, Razing, Thrown 4m | 1d10 P | 2 | 6kg | 3000c | Kinetic |
 | Pulse Gauntlet | Free-hand, Shove, Stun | 1d6 B & E | 1 | 1kg | 1000c | Electric |
@@ -229,7 +233,7 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 | Screamer | Forceful | 1d12 B & So | 2 | 6kg | 3500c | Roaring |
 | Starknife | Finesse, Light, Thrown 8m, Versatile S | 1d4 P | 1 | 1kg | 1500c | Trenchant |
 | Storm Truncheon | Backswing | 1d8 E | 1 | 2kg | 2000c | Electric |
-| Sunscorcher | Razing, Thrown 8m | 1d6 E & F | 1 | 1kg | 3000c | Plasma |
+| Sunscorcher | Razing, Thrown 8m | 1d6 E & H | 1 | 1kg | 3000c | Plasma |
 | Thunderwhip | Disarm, Finesse, Grapple, Reach | 1d4 So | 1 | 1kg | 2000c | Roaring |
 | Vibroaxe | Sweep | 1d8 S | 1 | 2kg | 2000c | Trenchant | Kinetic |
 
@@ -237,52 +241,56 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 
 #### Simple Weapons
 
-| Name | Traits | Damage | Hands | Range | Weight | Price | Group |
+| Name | Traits | Damage | Hands | Range | Weight | Price | Critical |
 |---|---|---|---|---|---|---|---|
+| Anti-materiel Rifle | Razing | 1d8 P | 2 | 40m | 3kg | 2000c | Trenchant | 
 | Dueling Pistol | Concussive, Fatal d8 | 1d4P | 1 | 10m | 1kg | 2000c | Kinetic |
 | Electropistol | Light, Stun | 1d4 E | 1 | 10m | 1kg | 2000c | Electric |
-| Flame Pistol | Line | 1d4 F | 1 | 30m |  1kg | 2000c | Flame |
+| Flame Pistol | Line | 1d4 H | 1 | 30m |  1kg | 2000c | Flame |
 | Gyrojet Pistol | Concussive | 1d6 P | 1 | 8m | 1kg | 1500c | Kinetic |
-| Laser Pistol | Light | 1d4 F | 1 | 16m | 1kg | 1000c | Laser |
-| Lightgun | — | 1d10 E & F | 2 | 20m | 2kg | 2000c | Plasma |
-| Plasmadart | Light, Thrown | 1d4 E & F | 1 | 12m | 1kg | 200c |
+| Laser Pistol | Light | 1d4 H | 1 | 16m | 1kg | 1000c | Laser |
+| Lightgun | — | 1d10 E & H | 2 | 20m | 2kg | 2000c | Plasma |
+| Plasmadart | Light, Thrown | 1d4 E & H | 1 | 12m | 1kg | 200c |
 | Zero Gun | Concealable | 1d8 C | 2 | 40m | 4kg | 3000c | Freezing
 
 #### Martial Weapons
-| Name | Traits | Damage | Hands | Range | Weight | Price | Group |
+| Name | Traits | Damage | Hands | Range | Weight | Price | Critical |
 |---|---|---|---|---|---|---|---|
 | Acidic dart-rifle | Backstabber, Fatal d12 | 1d10 A | 2 | 30m |  4kg | 3000c | Corrosive | 
-| Antimatter Rifle | Mighty, Scatter 8m | 1d10 F | 2 | 34m | 8kg | 7000c | Flame |
+| Antimatter Rifle | Mighty, Scatter 8m | 1d10 H | 2 | 34m | 8kg | 7000c | Flame |
 | Arc Emitter | Stun, Scatter 2m | 1d6 E | 1 | 16m | 2kg | 2500c | Electric |
-| Autobeam Artillery | Mighty, Rapid-fire | 1d6 F | 2 | 60m | 8kg | 6000c | Laser |
-| Blaster | — | 1d12 E & F | 2 | 30m | 5kg | 5000c | Plasma |
-| Caustic Sprayer | Mighty, Scatter 2m | 1d10 A | 2 | 14m | 7kg | 6000c | Corrosive |
+| Atomic Artillery | Mighty, Scatter 8m | 1d6 H | 1 | 28m | 4kg | 3000c | Toxic |
+| Autobeam Artillery | Mighty, Rapid-fire | 1d6 H | 2 | 60m | 8kg | 6000c | Laser |
+| Blaster | — | 1d12 E & H | 2 | 30m | 5kg | 5000c | Plasma |
+| Bolter | Concussive, Rapid-fire, Razing | 1d6 P | 2 | 16m | 5kg | 3500c | Trenchant |
+| Caustic Sprayer | Mighty, Scatter 2m | 1d10 A | 2 | 16m | 7kg | 6000c | Corrosive |
 | Crossbolter | Deadly d12, Mighty | 1d10P | 2 | 30m | 6kg | 3000c | Trenchant |
 | Cryogun | Line, Mighty | 1d10 C | 2 | 36m | 7kg | 4500c | Freezing | 
 | Dragon Mouth | Concussive, Scatter 2m | 1d6 P | 1 | 16m | 2kg | 2000c | Kinetic |
 | Electrocaster | Stun | 1d6 E | 1 | 50m | 2kg | 2000c | Electric |
-| Flamerifle | Line | 1d10 F | 2 | 60m | 5kg | 4000c | Flame |
+| Flamerifle | Line | 1d10 H | 2 | 60m | 5kg | 4000c | Flame |
 | Frostbiter | Line, Rapid-fire, Scatter 2m | 1d6 C | 2 | 24m | 5kg | 5000c | Freezing |
-| Fusion Gun | Mighty, Rapid-fire, Scatter 6m | 1d6 F | 2 | 26m | 7kg | 4500c | Flame |
+| Fusion Gun | Mighty, Rapid-fire, Scatter 6m | 1d6 H | 2 | 26m | 7kg | 4500c | Flame |
 | Gas Sprayer | Line, Mighty, Scatter 2m | 1d10 Po | 2 | 12m | 7kg | 3500c | Toxic |
 | Gyrojet Rifle | Concussive, Fatal d12 | 1d10 P | 2 | 30m | 4kg | 3000c | Kinetic |
-| Hand Blaster | — | 1d8 E & F | 1 | 24m | 2kg | 2000c | Plasma |
+| Hand Blaster | — | 1d8 E & H | 1 | 24m | 2kg | 2000c | Plasma |
 | Heavy Machine Gun | Concussive, Fatal d8, Mighty, Rapid-fire | 1d4 P | 2 | 60m | 12kg | 3000c | Trenchant |
-| Laser Cannon | Mighty | 1d10 F | 2 | 60m | 8kg | 3500c | Laser |
-| Lightpistol | Light | 1d6 E & F | 1 | 50m | 2kg | 2000c | Plasma |
+| Laser Cannon | Mighty | 1d10 H | 2 | 60m | 8kg | 3500c | Laser |
+| Lightpistol | Light | 1d6 E & H | 1 | 50m | 2kg | 2000c | Plasma |
 | Light Cryogun | Light, Line | 1d6 C | 1 | 26m | 3kg | 2500c | Freezing |
 | Lightning Cannon | Line, Mighty, Scatter 2m, Stun | 1d8 P & E | 2 | 34m | 12kg | 5000c | Electric |
 | Maser | Line, Mighty, Rapid-fire | 1d6 Po | 2 | 30m | 9kg | 4000c | Toxic |
-| Missile Launcher | Mighty, Scatter 8m, Volley 10m | 1d10 F & So | 2 | 70m | 15kg | 5000c | Roaring |
-| Plasmalauncher | Mighty, Scatter 2m | 1d10 E & F | 2 | 30m | 10kg | 4000c | Plasma |
+| Meltarifle | Mighty, Scatter 2m | 1d12 E & H | 2 | 4m | 10kg | 5000c | Plasma |
+| Missile Launcher | Mighty, Scatter 8m, Volley 10m | 1d10 H & So | 2 | 70m | 15kg | 5000c | Roaring |
+| Plasmalauncher | Mighty, Scatter 2m | 1d10 E & H | 2 | 30m | 10kg | 4000c | Plasma |
 | Railgun | Razing, Fatal d12 | 1d8 P | 2 | 60m | 10kg | 4000c | Trenchant |
 | Repeating Gyrojet Rifle | Concussive, Fatal d8, Rapid-fire | 1d6 P | 2 | 24m |5kg | 3500c | Kinetic |
-| Red Star | Line, Mighty, Rapid-fire | 1d6 F | 2 | 24m | 12kg | 5000c | Flame |
-| Rocket Launcher | Scatter 6m, Volley 8m | 1d12 F & So | 2 | 40m | 5kg | 4000c | Flame |
+| Red Star | Line, Mighty, Rapid-fire | 1d6 H | 2 | 24m | 12kg | 5000c | Flame |
+| Rocket Launcher | Scatter 6m, Volley 8m | 1d12 H & So | 2 | 40m | 5kg | 4000c | Flame |
 | Rotating Acid Sprayer | Line, Mighty, Parry, Rapid-fire, Scatter 2m | 1d4 A | 2 | 24m | 10kg | 3500c | Corrosive |
 | Screamer | Forceful, Mighty | 1d10 So | 2 | 30m | 9kg | 4000c | Roaring |
 | Shock Caster | Rapid-fire, Razing, Stun | 1d6 E & P | 2 | 24m | 5kg | 5000c | Electric |
-| Small Hand Blaster | Deadly d8, Light | 1d6 E & F | 1 | 20m | 2kg | 2000c | Plasma |
+| Small Hand Blaster | Deadly d8, Light | 1d6 E & H | 1 | 20m | 2kg | 2000c | Plasma |
 | Sniper Rifle | Backstabber, Concussive, Fatal d10 | 1d8 P | 2 | 60m | 5kg | 3000c | Trenchant |
 | Sonic Caster | Forceful, Light | 1d6 So | 1 | 24m | 2kg | 2000c | Roaring |
 | Sprayer | Line, Scatter 2m | 1d10 A | 2 | 30m | 4kg | 3000c | Corrosive |
@@ -293,21 +301,21 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 ### Combination Weapons
 
 #### Martial Weapons
-| Name | Brawling Traits | Brawling Damage | Gunnery Traits | Gunnery damage | Range | Hands | Weight | Price | Brawling Group | Gunnery Group |
+| Name | Brawling Traits | Brawling Damage | Gunnery Traits | Gunnery damage | Range | Hands | Weight | Price | Brawling Critical | Gunnery Critical |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Acidic Morningstar | Concussive | 1d6 A & P | — | 1d6 A | 12m | 1 | 2kg | 4000c | Kinetic | Corrosive |
 | Beast Catcher | Grapple, Reach | 1d8 B | Backstabber, Nonlethal, Ranged trip | 1d6 B | 60m | 2 | 4kg | 4000c | Kinetic | Kinetic |
-| Blade Cannon | Versatile P | 1d10 S | Mighty, Razing | 1d6 E & F | 14m | 2 | 6kg | 7500c | Trenchant | Plasma |
+| Blade Cannon | Versatile P | 1d10 S | Mighty, Razing | 1d6 E & H | 14m | 2 | 6kg | 7500c | Trenchant | Plasma |
 | Cryoblade | Concealable, Finesse | 1d6 C & S | Concealable | 1d4 C | 16m | 1 | 1kg | 5000c | Trenchant | Freezing |
-| Fire Lance | Deadly d6, Jousting d4, Reach | 1d6 F & P | Line | 1d4 F | 24m | 1 | 3kg | 5000c | Trenchant | Flame |
+| Fire Lance | Deadly d6, Jousting d4, Reach | 1d6 H & P | Line | 1d4 H | 24m | 1 | 3kg | 5000c | Trenchant | Flame |
 | Frostspear | Reach, Trip | 1d8 C & P | Line, Mighty | 1d6 C | 30m | 2 | 6kg | 8000c | Trenchant | Freezing |
-| Flameblade |  Forceful, Sweep | 1d8 F | Line, Mighty | 1d6 F | 30m | 2 | 7kg | 7000c | Trenching | Flame |
+| Flameblade |  Forceful, Sweep | 1d8 H | Line, Mighty | 1d6 H | 30m | 2 | 7kg | 7000c | Trenching | Flame |
 | Guardian Spear | Parry, Reach | 1d8 P | Concussive, Fatal d10 | 1d8 P | 16m | 2 | 4kg | 5000c | Trenchant | Trenchant | 
-| Hammer Gun | Backswing, Shove | 1d8 B | Scatter 4m, Volley 8m | 1d10 F & So | 30m | 2 | 5kg | 6000c | Kinetic | Roaring |
-| Hellfire Artillery | Shove | 1d8 B | Line, Mighty, Rapid-fire | 1d4 F | 36m | 2 | 8kg | 7000c | Kinetic | Flame |
+| Hammer Gun | Backswing, Shove | 1d8 B | Scatter 4m, Volley 8m | 1d10 H & So | 30m | 2 | 5kg | 6000c | Kinetic | Roaring |
+| Hellfire Artillery | Shove | 1d8 B | Line, Mighty, Rapid-fire | 1d4 H | 36m | 2 | 8kg | 7000c | Kinetic | Flame |
 | Magnetic Pulse Staff | Parry, Reach, Two-hand d8 | 1d4 B | Stun | 1d4 E | 14m | 1 | 2kg | 5000c | Kinetic | Electric |
-| Photon Saber | Finesse, Forceful, Sweep | 1d8 S | Deadly d10, Mighty | 1d8 F | 16m | 2 | 6kg | 7500c | Trenchant | Flame |
-| Plasma Axe | Forceful, Sweep, Razing | 1d8 F & S | Razing | 1d6 E & F | 36m | 2 | 5kg | 7000c | Trenchant | Plasma |
+| Photon Saber | Finesse, Forceful, Sweep | 1d8 S | Deadly d10, Mighty | 1d8 H | 16m | 2 | 6kg | 7500c | Trenchant | Flame |
+| Plasma Axe | Forceful, Sweep, Razing | 1d8 H & S | Razing | 1d6 E & H | 36m | 2 | 5kg | 7000c | Trenchant | Plasma |
 | Power Taser | Finesse, Stun | 1d6 E | Stun | 1d4 E | 16m | 1 | 1kg | 5000c | Electric | Electric |
 | Thundergauntlet | Free-hand, Light, Twin | 1d4 B & So | Free-hand, Light, Twin | 1d4 So | 14m | 1 | 1kg | 4000c | Kinetic | Roaring |
 | Vibrogun | Finesse, Versatile P | 1d8 S | Backstabber, Fatal d10 | 1d8 P | 50m | 2 | 4kg | 6000c | Trenchant | Trenchant | 
@@ -388,7 +396,7 @@ The target's wielded items and armor takes damage as if hit by the attack.
 The electricity jolts from one target to another. Choose a creature or object adjacent to the target you hit. If its Dexterity Defense DC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its Striking upgrades, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
 
 #### Flame
-The target catches fire. It takes 1d6 persisitent fire damage. If the weapon has a Greater Striking upgrade, the target takes 2d6 persistent damage instead.
+The target catches fire. It takes 1d6 persisitent Heat damage. If the weapon has a Greater Striking upgrade, the target takes 2d6 persistent damage instead.
 
 #### Freezing
 The target takes a -4m Circumstance penalty to its speed until the end of its next turn.
@@ -396,17 +404,17 @@ The target takes a -4m Circumstance penalty to its speed until the end of its ne
 #### Kinetic
 The target is knocked prone. 
 
-#### Trenchant
-The target takes 1d6 persistent bleed damage. If the weapon has a Greater Striking upgrade, the target takes 2d6 persistent damage instead.
-
 #### Laser
 You shoot the target in its eye, it becomes Dazzled until the end of its next turn.
 
 #### Plasma
-The area in a 2m emenation around the target becomes superheated. Each creature that starts its turn in the area takes 1d4 Fire damage. If the weapon has a Greater Striking upgrade, a creature takes 2d4 Fire damage instead.
+The area in a 2m emenation around the target becomes superheated. Each creature that starts its turn in the area takes 1d4 Heat damage. If the weapon has a Greater Striking upgrade, a creature takes 2d4 Heat damage instead.
 
 #### Roaring
 The target is Deafened until the end of its next turn. 
 
 #### Toxic
 The weapon sickends its target. It becomes Sickened 1 until the end of its next turn or until it spends an action removing the condition (no check requiered).
+
+#### Trenchant
+The target takes 1d6 persistent bleed damage. If the weapon has a Greater Striking upgrade, the target takes 2d6 persistent damage instead.
