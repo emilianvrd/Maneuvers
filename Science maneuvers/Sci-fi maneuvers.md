@@ -1,5 +1,11 @@
 # Sci-fi maneuvers
 
+## Builds that should be possible
+- Four or more hands
+- Wings/jetpack: everyone needs a ranged option
+- combination weapons
+- 
+
 ## Example Build - Bulwark
 
 ### Ancestry - Dwarf
@@ -23,7 +29,7 @@ Once per day, you can use an action to immediatly regain 5hp.
 
 #### Cyborg
 Technological\
-You gain resistance 5 to poison damage and doesn't need to breathe. In addition you can affix items, such as weapons or armor, to your body. This takes 1 hour. An affixed item can't be removed from you by anyone else. You can remove an affixed item by spending 1 hour carefully taking it off. Increase the damage die of an integrated weapon by one step.
+You gain resistance 5 to poison damage and don't need to breathe. In addition you can affix items, such as weapons or armor, to your body. This takes 1 hour. An affixed item can't be removed from you by anyone else. You can remove an affixed item by spending 1 hour carefully taking it off. Increase the damage die of an integrated weapon by one step.
 
 ### Armored
 You have trained wearing armor.
