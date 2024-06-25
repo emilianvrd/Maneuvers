@@ -140,6 +140,9 @@ Debuff, Necromancy, Spell\
 2 actions\
 A ray with the power to sap a foe's strength flashes from your hand. A target within 24m of you must make a Might saving throw. Each creature within 10m of the original target must also make this Might saving throw. On a failure, the target takes a -2 penalty attack rolls and ability checks for 1 minute. You can use this Flourish once per day.
 
+## Sabotage
+You hack and cripple your opponents weapons and gear. Make a Gadget attack against a creature within 12m. If you don't have proficiency in computer science, you take a -1 penalty to this roll. On a Success, the target takes a -2 Status penalty to checks and DCs that the item enhances until the start of your next turn. On a Critical Success, the target also can't activatet the item, but any passive benefit would still apply. For example, if you targeted a weapon, it would take a -2 penalty to attacks and DCs to resist the weapons effects on a Success, and be unable to use the weapon on a Critical Success. If you targeted armor, you give the target a penalty to its Dexterity Defense Rolls or DCs, but the Item bonus from the armor would not be completely negated on a Critical Success.
+
 ## Sunbeam
 Blinded, Light, Radiant, Technological\
 2 actions\

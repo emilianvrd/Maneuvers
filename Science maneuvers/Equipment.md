@@ -216,7 +216,7 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 | Engine Hammer | Shove | 1d12 B | 2 | 7kg | 3000c | Kinetic |
 | Fangblade | Deadly d8, Disarm, Finesse | 1d6 P | 1 | 2kg | 2000c | Trenchant |
 | Flamesword | Forceful, Sweep, Two-hand d10 | 1d6 H | 1 | 1kg | 2000c | Flame |
-| Heavy Lighting Spear | Deadly d10, Reach | 1d10 E & P | 2 | 5kg | 30sp | Electric | 
+| Heavy Lighting Spear | Deadly d10, Reach | 1d10 E & P | 2 | 5kg | 3000c | Electric | 
 | Icestaff | Parry | 1d8 B & E | 1 | 2kg | 2000c | Freezing |
 | Laseraxe | Grapple, Razing | 1d10 E & H | 2 | 4kg | 3000c | Laser |
 | Lightning Spear | Thrown 8m | 1d8 E & P | 1 | 2kg | 2000c | Electric |
@@ -303,22 +303,22 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 #### Martial Weapons
 | Name | Brawling Traits | Brawling Damage | Gunnery Traits | Gunnery damage | Range | Hands | Weight | Price | Brawling Critical | Gunnery Critical |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Acidic Morningstar | Concussive | 1d6 A & P | — | 1d6 A | 12m | 1 | 2kg | 4000c | Kinetic | Corrosive |
-| Beast Catcher | Grapple, Reach | 1d8 B | Backstabber, Nonlethal, Ranged trip | 1d6 B | 60m | 2 | 4kg | 4000c | Kinetic | Kinetic |
-| Blade Cannon | Versatile P | 1d10 S | Mighty, Razing | 1d6 E & H | 14m | 2 | 6kg | 7500c | Trenchant | Plasma |
-| Cryoblade | Concealable, Finesse | 1d6 C & S | Concealable | 1d4 C | 16m | 1 | 1kg | 5000c | Trenchant | Freezing |
-| Fire Lance | Deadly d6, Jousting d4, Reach | 1d6 H & P | Line | 1d4 H | 24m | 1 | 3kg | 5000c | Trenchant | Flame |
-| Frostspear | Reach, Trip | 1d8 C & P | Line, Mighty | 1d6 C | 30m | 2 | 6kg | 8000c | Trenchant | Freezing |
-| Flameblade |  Forceful, Sweep | 1d8 H | Line, Mighty | 1d6 H | 30m | 2 | 7kg | 7000c | Trenching | Flame |
-| Guardian Spear | Parry, Reach | 1d8 P | Concussive, Fatal d10 | 1d8 P | 16m | 2 | 4kg | 5000c | Trenchant | Trenchant | 
-| Hammer Gun | Backswing, Shove | 1d8 B | Scatter 4m, Volley 8m | 1d10 H & So | 30m | 2 | 5kg | 6000c | Kinetic | Roaring |
-| Hellfire Artillery | Shove | 1d8 B | Line, Mighty, Rapid-fire | 1d4 H | 36m | 2 | 8kg | 7000c | Kinetic | Flame |
-| Magnetic Pulse Staff | Parry, Reach, Two-hand d8 | 1d4 B | Stun | 1d4 E | 14m | 1 | 2kg | 5000c | Kinetic | Electric |
-| Photon Saber | Finesse, Forceful, Sweep | 1d8 S | Deadly d10, Mighty | 1d8 H | 16m | 2 | 6kg | 7500c | Trenchant | Flame |
-| Plasma Axe | Forceful, Sweep, Razing | 1d8 H & S | Razing | 1d6 E & H | 36m | 2 | 5kg | 7000c | Trenchant | Plasma |
+| Acidic Morningstar | Concussive | 1d6 A & P | — | 1d6 A | 12m | 1 | 2kg | 2000c | Kinetic | Corrosive |
+| Beast Catcher | Grapple, Reach | 1d8 B | Backstabber, Nonlethal, Ranged trip | 1d6 B | 60m | 2 | 4kg | 2000c | Kinetic | Kinetic |
+| Blade Cannon | Versatile P | 1d10 S | Mighty, Razing | 1d6 E & H | 14m | 2 | 6kg | 3000c | Trenchant | Plasma |
+| Cryoblade | Concealable, Finesse | 1d6 C & S | Concealable | 1d4 C | 16m | 1 | 1kg | 2500c | Trenchant | Freezing |
+| Fire Lance | Deadly d6, Jousting d4, Reach | 1d6 H & P | Line | 1d4 H | 24m | 1 | 3kg | 2500c | Trenchant | Flame |
+| Frostspear | Reach, Trip | 1d8 C & P | Line, Mighty | 1d6 C | 30m | 2 | 6kg | 4000c | Trenchant | Freezing |
+| Flameblade |  Forceful, Sweep | 1d8 H | Line, Mighty | 1d6 H | 30m | 2 | 7kg | 3500c | Trenching | Flame |
+| Guardian Spear | Parry, Reach | 1d8 P | Concussive, Fatal d10 | 1d8 P | 16m | 2 | 4kg | 2500c | Trenchant | Trenchant | 
+| Hammer Gun | Backswing, Shove | 1d8 B | Scatter 4m, Volley 8m | 1d10 H & So | 30m | 2 | 5kg | 3000c | Kinetic | Roaring |
+| Hellfire Artillery | Shove | 1d8 B | Line, Mighty, Rapid-fire | 1d4 H | 36m | 2 | 8kg | 3500c | Kinetic | Flame |
+| Magnetic Pulse Staff | Parry, Reach, Two-hand d8 | 1d4 B | Stun | 1d4 E | 14m | 1 | 2kg | 2500c | Kinetic | Electric |
+| Photon Saber | Finesse, Forceful, Sweep | 1d8 S | Deadly d10, Mighty | 1d8 H | 16m | 2 | 6kg | 3000c | Trenchant | Flame |
+| Plasma Axe | Forceful, Sweep, Razing | 1d8 H & S | Razing | 1d6 E & H | 36m | 2 | 5kg | 3000c | Trenchant | Plasma |
 | Power Taser | Finesse, Stun | 1d6 E | Stun | 1d4 E | 16m | 1 | 1kg | 5000c | Electric | Electric |
-| Thundergauntlet | Free-hand, Light, Twin | 1d4 B & So | Free-hand, Light, Twin | 1d4 So | 14m | 1 | 1kg | 4000c | Kinetic | Roaring |
-| Vibrogun | Finesse, Versatile P | 1d8 S | Backstabber, Fatal d10 | 1d8 P | 50m | 2 | 4kg | 6000c | Trenchant | Trenchant | 
+| Thundergauntlet | Free-hand, Light, Twin | 1d4 B & So | Free-hand, Light, Twin | 1d4 So | 14m | 1 | 1kg | 2000c | Kinetic | Roaring |
+| Vibrogun | Finesse, Versatile P | 1d8 S | Backstabber, Fatal d10 | 1d8 P | 50m | 2 | 4kg | 3000c | Trenchant | Trenchant | 
 
 ### Traits
 

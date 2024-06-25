@@ -12,11 +12,6 @@ You pummel a foe, hoping to stagger them. Make a Brawling attack. The weapon dam
 
 You can use this Flourish three times per day.
 
-## Knockdown
-Prone\
-Quick action\
-You attempt to knock a foe off balance. Make a Brawling attack. On a hit, instead of dealing damage, the target is knocked prone. You can use this Flourish three times per day.
-
 ## Sweeping Charge
 Movement\
 1 action\

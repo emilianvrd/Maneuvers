@@ -1,5 +1,31 @@
 # Science Archetypes
 
+field medic
+engineer
+Ace pilot
+machinist
+scientist
+biologist
+chemist
+physicist
+psychologist
+evolutionist
+cyberneticist
+biohacker
+nanocyte
+Vanguard
+Xenomedic
+Bounty hunter
+Commander
+Guardian
+Diplomat
+Scoundrel
+Negotiator
+Outlaw
+Scrapper
+
+
+
 ## Armored
 You have trained wearing armor.
 
