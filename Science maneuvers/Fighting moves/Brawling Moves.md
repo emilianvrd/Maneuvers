@@ -3,7 +3,7 @@
 ## Brutal Shove
 Push\
 1 action\
-You make a powerful strike to push your foe away. Make a Melee Strike with a two handed weapon. On a success, the target is also moved 4m away from you, or becomes Off-guard until the start of your next turn if the area it would be moved into is occupied.
+You make a powerful strike to push your foe away. Make a Melee Strike with a two handed weapon. On a success, the target is also moved 4m directly away from you, or becomes Off-guard until the start of your next turn if the area it would be moved into is occupied.
 
 ## Combat Grab
 Grapple\

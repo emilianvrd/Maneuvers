@@ -47,16 +47,16 @@ Each type of armor belongs to an armor group, which classifies it with similar t
 |  Name | Category |  Traits | Price  | Dexterity Defense bonus |  Dex cap | Check penalty | Speed penalty | Might | Weight | Group |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Unarmored | Unarmored | — | — | +0 | — | — | — | — | — | — |
-| Coverall | Unarmored | Comfort | 800c| +0 | +5 | — | — | — | 1kg | Cloth |
-| Carbon Skin | Light | Comfort | 1500c| +1 | +4 | — | — | — | 3kg | Carbon |
+| Coverall | Unarmored | Comfort | 800c | +0 | +5 | — | — | — | 1kg | Cloth |
+| Carbon Skin | Light | Comfort | 1500c | +1 | +4 | — | — | — | 3kg | Carbon |
 | Stealth Suit | Light | Sneak, Powered | 6000c | +1 | +3 |
-| Flak armor| Light | — | 2000c| +2 | +3 | -1 | — | — | 5kg | Composite |
-| Hardsuit | Medium | Deflect Physical 1, Powered | 3000c| +2 | +2 | — | — | — | 30kg | Durasteel |
-| Polyplate  | Medium | — | 4000c| +3 | +2 | -2 | -2m | +1 | 8kg | Durasteel |
-| Carapace Armor | Medium | — | 6000c| +4 | +1 | -2 | -2m | +2 | 10kg | Ceramete |
-| Starguard | Heavy | Powered | 7000c| +5 | +1 | — | — | — | 120kg | Ceramete |
-| Nanoplate | Heavy | Powered | 8000c| +6 | +0 | — | — | — | 200kg | Durasteel |
-| Dreadnought Armor | Heavy | Deflect Physical 1, Powered | 10000c| +6 | +0 | -3 | -4m | +3 | 350kg | Ceramete |
+| Flak armor| Light | — | 2000c | +2 | +3 | -1 | — | — | 5kg | Composite |
+| Hardsuit | Medium | Deflect Physical 1, Powered | 3000c | +2 | +2 | — | — | — | 30kg | Durasteel |
+| Polyplate  | Medium | — | 4000c | +3 | +2 | -2 | -2m | +1 | 8kg | Durasteel |
+| Carapace Armor | Medium | — | 6000c | +4 | +1 | -2 | -2m | +2 | 10kg | Ceramete |
+| Starguard | Heavy | Powered | 7000c | +5 | +1 | — | — | — | 120kg | Ceramete |
+| Nanoplate | Heavy | Powered | 8000c | +6 | +0 | — | — | — | 200kg | Durasteel |
+| Dreadnought Armor | Heavy | Deflect Physical 1, Powered | 10000c | +6 | +0 | -3 | -4m | +3 | 350kg | Ceramete |
 
 ### Traits
 **Comfort**: This armor is comfortable to wear for long periods of time. You do not suffer any of the normal penalties for wearing this armor while sleeping.
@@ -91,26 +91,26 @@ Shields have hit points and hardness based on their weight. While they are made 
 
 |  Name | Dexterity saving throws bonus | Traits | Damage | Speed penalty | Weight | Price |
 |---|---|---|---|---|---|---|
-| Dart Shield | +1 | Dart-thrower | 1d4B | – | 2kg | 4000c|
-| Deflector Shield | +1 | Deflect Piercing 2 | 1d4B | – | 3kg | 3000c|
-| Dual Shield | +1 | Dual +3 | 1d6B | – | 2kg | 2000c|
-| Fortress Shield | +3 | Cumbersome +4, Raise +4 | 1d4B | -4m | 20kg | 6000c|
-| Harnessed Shield | +2 | Harnessed | 1d4B | – | 5kg | 4000c|
-| Heather Shield | +2 | Quick equip | 1d6B | – | 3kg | 2500c|
-| Hide Shield | +1 | Deflect Bludgeoning 2 | 1d4B | – | 2kg | 2000c|
-| Hook Shield | +1 | Disarm, Grapple | 1d6P | – | 3kg | 4000c|
-| Insulator Shield | +1 | Deflect Fire and Cold 2 | 1d4B | – | 3kg | 3000c|
-| Kite Shield | +2 | Versatile defense | 1d4B | – | 4kg | 3000c|
-| Meteor Shield | +1 | Quick equip, Thrown 12m | 1d6B | – | 1kg | 1500c|
-| Missile Catcher | +1 | Deflect Physical Ranged 2 | 1d6B | – | 3kg | 3000c|
-| Negator Shield | +1 | Deflect Acid and Lightning 3 | 1d6B | – | 3kg | 3500c|
-| Pavise | +2 | Cumbersome +2, Freestanding | 1d4B | -2m | 10kg | 4000c|
-| Razor Disc | +1 | Finesse, Quick equip, Thrown 8m | 1d6S | – | 1kg | 2000c|
-| Round Shield | +2 | Raise +3 | 1d6B | – | 3kg | 2500c|
+| Dart Shield | +1 | Dart-thrower | 1d4B | – | 2kg | 4000c |
+| Deflector Shield | +1 | Deflect Piercing 2 | 1d4B | – | 3kg | 3000c |
+| Dual Shield | +1 | Dual +3 | 1d6B | – | 2kg | 2000c |
+| Fortress Shield | +3 | Cumbersome +4, Raise +4 | 1d4B | -4m | 20kg | 6000c |
+| Harnessed Shield | +2 | Harnessed | 1d4B | – | 5kg | 4000c |
+| Heather Shield | +2 | Quick equip | 1d6B | – | 3kg | 2500c |
+| Hide Shield | +1 | Deflect Bludgeoning 2 | 1d4B | – | 2kg | 2000c |
+| Hook Shield | +1 | Disarm, Grapple | 1d6P | – | 3kg | 4000c |
+| Insulator Shield | +1 | Deflect Fire and Cold 2 | 1d4B | – | 3kg | 3000c |
+| Kite Shield | +2 | Versatile defense | 1d4B | – | 4kg | 3000c |
+| Meteor Shield | +1 | Quick equip, Thrown 12m | 1d6B | – | 1kg | 1500c |
+| Missile Catcher | +1 | Deflect Physical Ranged 2 | 1d6B | – | 3kg | 3000c |
+| Negator Shield | +1 | Deflect Acid and Lightning 3 | 1d6B | – | 3kg | 3500c |
+| Pavise | +2 | Cumbersome +2, Freestanding | 1d4B | -2m | 10kg | 4000c |
+| Razor Disc | +1 | Finesse, Quick equip, Thrown 8m | 1d6S | – | 1kg | 2000c |
+| Round Shield | +2 | Raise +3 | 1d6B | – | 3kg | 2500c |
 | SESS | +1 | Light | 1d4E | — | 2kg | 800c |
-| Spiked Shield | +0 | Raise +2 | 1d8P | – | 4kg | 3000c|
-| Swordstealer Shield | +1 | Deflect Slashing 2 | 1d4B | – | 3kg | 3000c|
-| Tower Shield | +2 | Cumbersome +2, Raise +4 | 1d6B | -2m | 8kg | 5000c|
+| Spiked Shield | +0 | Raise +2 | 1d8P | – | 4kg | 3000c |
+| Swordstealer Shield | +1 | Deflect Slashing 2 | 1d4B | – | 3kg | 3000c |
+| Tower Shield | +2 | Cumbersome +2, Raise +4 | 1d6B | -2m | 8kg | 5000c |
 
 **Dart Shield** Dart shields are small shields with an intergrated dart thrower, allowing it shoot out projectiles at enemies far away.
 
@@ -346,7 +346,7 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 
 **Jousting** The weapon is suited for mounted combat with a harness or similar means. When mounted, if you moved at least 4m on the action before your attack, add a circumstance bonus to damage for that attack equal to the number of damage dice for the weapon. In addition, while mounted, you can wield the weapon in one hand, changing the damage die to the listed value. As a part of your action to Mount a creature, you can switch your grip on a jousting weapon to one-handed. After that, changing your grip takes the same actions described on Carrying Items. If you dismount while wielding a jousting weapon one-handed, you can switch to using two hands as part of that action if you have a hand free at that point. If not, you’ll still be holding the weapon in one hand, but not wielding it.
 
-**Light** If you make two or more Brawling or Gunnery attack with one or more weapons with the Light trait, you can use a Free action to make another Brawling or Gunnery attack with a weapon with the Light trait you have previously attacked with.
+**Light** If you make two or more Brawling or Gunnery attack with one or more weapons with the Light trait, you can use a Free action to make another Brawling or Gunnery attack with a weapon with the Light trait you have previously attacked with. You do not add your Might or any other bonuses that apply on an attack to this special attack.
 
 **Line** This weapon damages everything up to its target. Each creature between you and the target when you make a Gunnery attack with this weapon takes 2 damage per weapon damage die of the same type as the weapon deals. If the weapon deals more than one type of damage, you choose which of those damage types each one takes. 
 
@@ -358,7 +358,7 @@ Shields with the Versatile defense trait can be easily positioned in the gaps of
 
 **Ranged Trip** The weapon can be used to Trip with the Athletics skill within the weapon’s first range increment. The skill check takes a –2 circumstance penalty. You can add the weapon’s item bonus to attack rolls as a bonus to the check. A ranged trip weapon doesn’t deal any damage when used to Trip. These weapons are usually thrown.
 
-**Rapid-fire** These weapons fire numerous shots with short delay. If you make two Gunnery attacks with a weapon with this trait, you can make another Gunnery attack as a Free action.
+**Rapid-fire** These weapons fire numerous shots with short delay. If you make two Gunnery attacks with a weapon with this trait, you can make another Gunnery attack as a Free action. You do not add any bonuses that apply on an attack to this special attack.
 
 **Razing** Razing weapons are particularly good at damaging objects, structures, and vehicles. Whenever you deal damage to an object (including shields), structure, or vehicle with a razing weapon, the object takes an amount of additional damage equal to double the number of weapon damage dice. 
 
